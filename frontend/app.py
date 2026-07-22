@@ -29,7 +29,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-API_URL = "http://localhost:8000"
+API_URL = "https://smart-uni-event-ai-ci3g.vercel.app"
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
 
 # --- SIDEBAR NAVIGATION ---
