@@ -1,9 +1,7 @@
-pandas
-scikit-learn
-faker
 fastapi
 uvicorn
+pandas
+scikit-learn
+textblob
 streamlit
-jupyter
-matplotlib
-seaborn
+requests
