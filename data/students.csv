@@ -1,0 +1,1001 @@
+student_id,name,university,faculty,degree,year,interests
+S0001,Chamara De Silva,UoJ (Jaffna),Computing,BSc Computer Science,1,Robotics
+S0002,Dinesh Dissanayake,UCSC,Arts,BA Economics,1,Music
+S0003,Ashani Weerasinghe,SJP (Japura),Arts,BA English,1,Gaming
+S0004,Oshadi De Silva,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,1,"Cricket, Robotics"
+S0005,Sunil Gunawardena,UoR (Ruhuna),Management,BSc Business Administration,1,"Networking, Business"
+S0006,Tharindu Fernando,UoJ (Jaffna),Management,BSc Business Administration,1,"Networking, Art, Volunteering"
+S0007,Dinithi Weerasinghe,UoM (Moratuwa),Engineering,BSc Electrical Eng,4,Music
+S0008,Kavindu Balasuriya,UoR (Ruhuna),Science,BSc Physical Science,1,"Robotics, Photography"
+S0009,Nimesha Wickramasinghe,UoP (Peradeniya),Arts,BA Mass Media,3,"Volunteering, Robotics, Cricket"
+S0010,Sunil Jayawardena,UoR (Ruhuna),Arts,BA English,4,Robotics
+S0011,Hansani Wickramasinghe,UoK (Kelaniya),Science,BSc Physical Science,4,"Volunteering, Art, Robotics"
+S0012,Sewwandi Ranasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,3,Volunteering
+S0013,Dilani Karunaratne,SJP (Japura),Arts,BA Economics,1,"Robotics, Cricket"
+S0014,Nadeesha Fernando,UoP (Peradeniya),Computing,BSc Computer Science,4,"Cricket, Photography, Debate"
+S0015,Sandun Balasuriya,Wayamba,Management,BSc Human Resource Mgt,3,"Business, AI, Coding"
+S0016,Kamal Weerasinghe,UoJ (Jaffna),Science,BSc Physical Science,2,"Cricket, Gaming"
+S0017,Saman Senanayake,UoJ (Jaffna),Arts,BA English,2,"AI, Networking, Robotics"
+S0018,Sandun Senanayake,UCSC,Arts,BA Mass Media,3,"Art, Gaming, Coding"
+S0019,Dasun Ranasinghe,UoK (Kelaniya),Engineering,BSc Civil Eng,2,"Music, Volunteering, Gaming"
+S0020,Sachini Ratnayake,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,2,"AI, Networking"
+S0021,Sandun Dissanayake,UoR (Ruhuna),Science,BSc Biological Science,2,"AI, Gaming"
+S0022,Ruwan Perera,UCSC,Computing,BSc Software Engineering,1,"AI, Robotics, Networking"
+S0023,Dasun Jayasinghe,UoM (Moratuwa),Computing,BSc Computer Science,2,Art
+S0024,Chamara Samarasinghe,Wayamba,Science,BSc Chemistry Special,4,AI
+S0025,Lahiru Balasuriya,SJP (Japura),Engineering,BSc Electronic & Telecom,4,Music
+S0026,Lahiru Silva,SJP (Japura),Science,BSc Biological Science,4,"Volunteering, Coding"
+S0027,Madushani Gunawardena,UoK (Kelaniya),Science,BSc Physical Science,2,Robotics
+S0028,Upeka Ranasinghe,UoJ (Jaffna),Management,BSc Business Administration,1,"Robotics, Music"
+S0029,Amila Liyanage,UCSC,Computing,BSc Information Systems,4,Robotics
+S0030,Dinithi Perera,SJP (Japura),Management,BSc Business Administration,4,Cricket
+S0031,Hansani Bandara,UoJ (Jaffna),Science,BSc Biological Science,2,"Volunteering, AI"
+S0032,Nethmi Silva,UCSC,Science,BSc Physical Science,1,"Volunteering, AI, Coding"
+S0033,Nuwan Kumara,UoP (Peradeniya),Arts,BA Economics,1,AI
+S0034,Nayana Samarasinghe,UoK (Kelaniya),Arts,BA English,1,"Music, Networking"
+S0035,Nethmi Weerasinghe,SJP (Japura),Arts,BA English,2,"Networking, Volunteering, AI"
+S0036,Heshan Gunawardena,UoJ (Jaffna),Science,BSc Physical Science,3,"Cricket, Photography"
+S0037,Madushani Ratnayake,Wayamba,Computing,BSc Computer Science,3,"Networking, Music, Photography"
+S0038,Malith Kumara,UoM (Moratuwa),Engineering,BSc Electrical Eng,4,Art
+S0039,Sewwandi Rajapaksha,UoJ (Jaffna),Arts,BA Mass Media,1,"Photography, AI, Coding"
+S0040,Sewwandi Bandara,UoM (Moratuwa),Engineering,BSc Electrical Eng,3,Volunteering
+S0041,Dilani Karunaratne,UoK (Kelaniya),Science,BSc Chemistry Special,3,"Art, Robotics, Business"
+S0042,Oshadi Bandara,SJP (Japura),Computing,BSc Computer Science,3,"Coding, Volunteering"
+S0043,Saman Ranasinghe,SJP (Japura),Engineering,BSc Electronic & Telecom,1,"Coding, Music, Photography"
+S0044,Heshan Senanayake,UoP (Peradeniya),Science,BSc Chemistry Special,1,"Cricket, Coding"
+S0045,Hiruni Munasinghe,UoK (Kelaniya),Science,BSc Physical Science,2,"Music, Art, AI"
+S0046,Oshadi Liyanage,UoP (Peradeniya),Engineering,BSc Mechanical Eng,2,"Coding, Cricket"
+S0047,Ruwan Ratnayake,UoM (Moratuwa),Science,BSc Physical Science,4,"Coding, Gaming"
+S0048,Tharindu Wickramasinghe,UoK (Kelaniya),Science,BSc Biological Science,3,Coding
+S0049,Sandali Balasuriya,UoJ (Jaffna),Science,BSc Physical Science,3,"Photography, AI"
+S0050,Sashika Silva,UoJ (Jaffna),Computing,BSc Computer Science,1,Networking
+S0051,Dilani De Silva,UoR (Ruhuna),Arts,BA Economics,4,"Art, Debate, Networking"
+S0052,Sachini Perera,UoJ (Jaffna),Arts,BA English,2,Volunteering
+S0053,Sandun Rajapaksha,UoM (Moratuwa),Science,BSc Biological Science,3,"Art, Networking, Volunteering"
+S0054,Tharindu Liyanage,SJP (Japura),Management,BSc Accounting,4,"Business, AI, Cricket"
+S0055,Dinesh Liyanage,SJP (Japura),Engineering,BSc Electrical Eng,3,"Coding, Business, Photography"
+S0056,Amila Balasuriya,Wayamba,Management,BSc Accounting,1,"Robotics, AI, Gaming"
+S0057,Heshan Dissanayake,UoR (Ruhuna),Science,BSc Chemistry Special,2,Robotics
+S0058,Dasun Gunawardena,UCSC,Engineering,BSc Civil Eng,4,Gaming
+S0059,Saman Siriwardena,SJP (Japura),Arts,BA English,1,"Debate, Robotics"
+S0060,Harshani Gunawardena,UoK (Kelaniya),Computing,BSc Software Engineering,1,Volunteering
+S0061,Harshani Ranasinghe,UoM (Moratuwa),Arts,BA English,3,"Cricket, Gaming"
+S0062,Upeka Weerasinghe,SJP (Japura),Management,BSc Human Resource Mgt,2,"Gaming, Cricket, Volunteering"
+S0063,Dasun Rajapaksha,Wayamba,Science,BSc Chemistry Special,2,"Robotics, Business, Gaming"
+S0064,Ruwan Wickramasinghe,UoR (Ruhuna),Science,BSc Biological Science,2,"Music, Cricket, Photography"
+S0065,Nimesha Liyanage,SJP (Japura),Engineering,BSc Civil Eng,1,"Art, AI"
+S0066,Dinithi Karunaratne,SJP (Japura),Engineering,BSc Electronic & Telecom,1,"Volunteering, Coding, Networking"
+S0067,Nadeesha Dissanayake,SJP (Japura),Science,BSc Biological Science,4,"AI, Volunteering"
+S0068,Oshadi Balasuriya,SJP (Japura),Engineering,BSc Electrical Eng,4,"Coding, Debate"
+S0069,Ashani Samarasinghe,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,1,"AI, Coding, Debate"
+S0070,Gayan Silva,SJP (Japura),Computing,BSc Information Systems,3,Gaming
+S0071,Dinithi Weerasinghe,UoK (Kelaniya),Management,BSc Accounting,4,"Art, Volunteering"
+S0072,Madushani Silva,Wayamba,Science,BSc Physical Science,3,Volunteering
+S0073,Tharindu Perera,UCSC,Engineering,BSc Civil Eng,2,Robotics
+S0074,Nimesha Weerasinghe,Wayamba,Engineering,BSc Mechanical Eng,3,"Music, Networking, Robotics"
+S0075,Nimal Rajapaksha,UoP (Peradeniya),Engineering,BSc Civil Eng,4,"Music, Networking"
+S0076,Nayana De Silva,UoK (Kelaniya),Management,BSc Human Resource Mgt,3,Networking
+S0077,Kavindi Fernando,UCSC,Arts,BA English,3,"AI, Debate"
+S0078,Kavindi Siriwardena,Wayamba,Computing,BSc Software Engineering,4,Debate
+S0079,Madushani Karunaratne,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,4,"AI, Photography, Business"
+S0080,Kavindu Gunawardena,UoJ (Jaffna),Management,BSc Human Resource Mgt,2,"Robotics, Music"
+S0081,Nethmi Kumara,SJP (Japura),Management,BSc Human Resource Mgt,4,"Coding, Gaming"
+S0082,Kavindu Ranasinghe,UoJ (Jaffna),Engineering,BSc Electrical Eng,1,"Business, Networking"
+S0083,Hiruni Karunaratne,UoM (Moratuwa),Arts,BA English,2,Volunteering
+S0084,Malith Dissanayake,Wayamba,Management,BSc Human Resource Mgt,4,"Coding, Music"
+S0085,Tharushi Liyanage,UoR (Ruhuna),Engineering,BSc Electrical Eng,3,"AI, Volunteering"
+S0086,Ruwan De Silva,Wayamba,Science,BSc Chemistry Special,2,"Business, Volunteering"
+S0087,Piumi Weerasinghe,UoP (Peradeniya),Science,BSc Physical Science,3,Robotics
+S0088,Gayan Rajapaksha,UoJ (Jaffna),Computing,BSc Computer Science,1,Art
+S0089,Sewwandi Rajapaksha,UoJ (Jaffna),Arts,BA English,2,Coding
+S0090,Upeka Jayawardena,UCSC,Management,BSc Business Administration,2,"Business, Gaming, Photography"
+S0091,Sandali Karunaratne,Wayamba,Computing,BSc Software Engineering,1,Music
+S0092,Nimanthi Rajapaksha,UCSC,Arts,BA Mass Media,1,Cricket
+S0093,Harshani Wickramasinghe,SJP (Japura),Engineering,BSc Civil Eng,4,"Networking, Volunteering, Robotics"
+S0094,Kasun Munasinghe,SJP (Japura),Management,BSc Accounting,1,"Networking, Volunteering"
+S0095,Gayan Ranasinghe,UoJ (Jaffna),Engineering,BSc Mechanical Eng,1,"Music, Cricket, Robotics"
+S0096,Piumi Rajapaksha,SJP (Japura),Engineering,BSc Civil Eng,1,"Volunteering, Networking"
+S0097,Sashika Siriwardena,UoJ (Jaffna),Engineering,BSc Electrical Eng,2,"Gaming, Music, Robotics"
+S0098,Dasun Silva,UoK (Kelaniya),Management,BSc Business Administration,2,"Cricket, Business, Volunteering"
+S0099,Heshan Wickramasinghe,UoJ (Jaffna),Science,BSc Chemistry Special,3,"Music, Gaming"
+S0100,Sunil Liyanage,Wayamba,Arts,BA Mass Media,3,"Music, Networking"
+S0101,Nimanthi Samarasinghe,UCSC,Arts,BA Economics,1,Robotics
+S0102,Harshani Siriwardena,UCSC,Science,BSc Chemistry Special,4,Gaming
+S0103,Tharushi Liyanage,SJP (Japura),Science,BSc Physical Science,3,"Gaming, Music, Volunteering"
+S0104,Hiruni Karunaratne,UoM (Moratuwa),Science,BSc Chemistry Special,3,Art
+S0105,Sashika Jayawardena,UCSC,Management,BSc Human Resource Mgt,1,"Music, Art"
+S0106,Kasun Ratnayake,UCSC,Management,BSc Human Resource Mgt,3,"AI, Gaming, Debate"
+S0107,Kavindu Ranasinghe,Wayamba,Arts,BA Economics,2,Robotics
+S0108,Nadeesha Dissanayake,Wayamba,Science,BSc Biological Science,2,Coding
+S0109,Sandun Gunawardena,UCSC,Science,BSc Chemistry Special,1,"Debate, Music, Robotics"
+S0110,Piumi Karunaratne,UoJ (Jaffna),Engineering,BSc Electronic & Telecom,2,"Volunteering, Business, Debate"
+S0111,Dilani Bandara,UoP (Peradeniya),Management,BSc Human Resource Mgt,1,"Robotics, Networking"
+S0112,Heshan Samarasinghe,UoR (Ruhuna),Science,BSc Biological Science,4,"Business, Coding, Volunteering"
+S0113,Madushani Wickramasinghe,Wayamba,Engineering,BSc Electronic & Telecom,4,"Art, AI"
+S0114,Sunil Jayawardena,UoK (Kelaniya),Science,BSc Physical Science,4,"Debate, Robotics, Volunteering"
+S0115,Dilani Samarasinghe,UoP (Peradeniya),Management,BSc Accounting,3,"Coding, Cricket"
+S0116,Hiruni Siriwardena,UoM (Moratuwa),Computing,BSc Software Engineering,2,"Gaming, Coding, Cricket"
+S0117,Nuwan Jayawardena,UoJ (Jaffna),Computing,BSc Software Engineering,4,"Networking, Debate"
+S0118,Nayana Siriwardena,Wayamba,Science,BSc Chemistry Special,3,"Coding, Networking, Music"
+S0119,Lahiru Gunawardena,SJP (Japura),Engineering,BSc Civil Eng,2,Photography
+S0120,Tharushi Senanayake,UCSC,Science,BSc Physical Science,4,"Coding, Business"
+S0121,Gayan Fernando,SJP (Japura),Engineering,BSc Mechanical Eng,4,"Photography, Cricket, Volunteering"
+S0122,Ruwan Gunawardena,UoK (Kelaniya),Arts,BA Mass Media,3,"Networking, Cricket"
+S0123,Madushani Kumara,UCSC,Management,BSc Accounting,1,"Business, Photography"
+S0124,Heshan Ratnayake,UoJ (Jaffna),Management,BSc Accounting,4,"Debate, Business, Gaming"
+S0125,Nimanthi Rajapaksha,UoK (Kelaniya),Management,BSc Business Administration,3,"Networking, Art"
+S0126,Kasun Munasinghe,SJP (Japura),Computing,BSc Information Systems,4,"Coding, Networking"
+S0127,Tharindu Munasinghe,UoR (Ruhuna),Science,BSc Physical Science,3,Photography
+S0128,Ashani Senanayake,UCSC,Engineering,BSc Civil Eng,2,"Gaming, Coding"
+S0129,Chamara Ranasinghe,UoR (Ruhuna),Computing,BSc Software Engineering,3,"Debate, Cricket, Robotics"
+S0130,Piumi Rajapaksha,UoJ (Jaffna),Arts,BA Mass Media,3,Business
+S0131,Sandali Ranasinghe,UoM (Moratuwa),Computing,BSc Software Engineering,3,Robotics
+S0132,Nimesha Senanayake,UCSC,Computing,BSc Software Engineering,3,"AI, Music"
+S0133,Ruwan Karunaratne,UoR (Ruhuna),Arts,BA Economics,1,Photography
+S0134,Nimesha Rajapaksha,UoR (Ruhuna),Arts,BA Mass Media,4,"Robotics, Photography, Music"
+S0135,Hansani De Silva,UCSC,Computing,BSc Computer Science,1,Business
+S0136,Madushani Liyanage,SJP (Japura),Engineering,BSc Mechanical Eng,2,"Art, Photography"
+S0137,Kavindu Silva,UoM (Moratuwa),Management,BSc Human Resource Mgt,3,"Networking, Debate"
+S0138,Lahiru Balasuriya,Wayamba,Engineering,BSc Electronic & Telecom,3,Art
+S0139,Kavindu Ratnayake,UoR (Ruhuna),Arts,BA Mass Media,1,Debate
+S0140,Kasun Jayawardena,UoK (Kelaniya),Management,BSc Business Administration,2,"Photography, Networking, Coding"
+S0141,Ruwan Jayawardena,UoM (Moratuwa),Engineering,BSc Mechanical Eng,2,"Robotics, Networking, Volunteering"
+S0142,Madushani Weerasinghe,UoJ (Jaffna),Arts,BA English,2,Cricket
+S0143,Tharushi Dissanayake,UCSC,Computing,BSc Information Systems,3,Coding
+S0144,Hiruni Jayasinghe,UoJ (Jaffna),Computing,BSc Computer Science,1,Cricket
+S0145,Lahiru Gunawardena,Wayamba,Computing,BSc Software Engineering,2,"AI, Networking"
+S0146,Kasun Karunaratne,UoJ (Jaffna),Arts,BA English,4,"Photography, Coding"
+S0147,Dasun Fernando,UoM (Moratuwa),Management,BSc Human Resource Mgt,3,"Volunteering, Gaming"
+S0148,Ashani Ranasinghe,UoM (Moratuwa),Arts,BA English,3,Business
+S0149,Sachini De Silva,UoJ (Jaffna),Management,BSc Human Resource Mgt,1,"AI, Networking"
+S0150,Hiruni Jayawardena,UoK (Kelaniya),Arts,BA Mass Media,4,"Gaming, Robotics"
+S0151,Sashika Senanayake,UoM (Moratuwa),Management,BSc Accounting,2,"Debate, Art"
+S0152,Sachini De Silva,UoM (Moratuwa),Management,BSc Business Administration,3,Music
+S0153,Sachini Silva,UoR (Ruhuna),Engineering,BSc Civil Eng,3,"Music, Debate, Art"
+S0154,Dilani Ratnayake,UoR (Ruhuna),Arts,BA Economics,2,Networking
+S0155,Sandun Weerasinghe,UoM (Moratuwa),Management,BSc Business Administration,2,"AI, Art"
+S0156,Gayan Weerasinghe,UCSC,Management,BSc Human Resource Mgt,3,"Photography, Business, Coding"
+S0157,Nimanthi Balasuriya,UCSC,Science,BSc Biological Science,4,Cricket
+S0158,Harshani Ratnayake,UCSC,Computing,BSc Computer Science,4,Volunteering
+S0159,Heshan Jayawardena,UoR (Ruhuna),Management,BSc Accounting,1,Art
+S0160,Kavindu Gunawardena,UoP (Peradeniya),Computing,BSc Computer Science,4,"Coding, Photography, Music"
+S0161,Dilani De Silva,Wayamba,Management,BSc Human Resource Mgt,3,"Business, Robotics"
+S0162,Harshani Balasuriya,UoJ (Jaffna),Management,BSc Business Administration,3,"Photography, Networking, Gaming"
+S0163,Heshan Ratnayake,SJP (Japura),Computing,BSc Computer Science,2,"Coding, Volunteering, Robotics"
+S0164,Hansani Liyanage,UoR (Ruhuna),Science,BSc Biological Science,2,Coding
+S0165,Dasun Wickramasinghe,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,1,"AI, Photography, Art"
+S0166,Nimanthi Liyanage,Wayamba,Management,BSc Business Administration,4,Art
+S0167,Amila Munasinghe,UoM (Moratuwa),Management,BSc Accounting,4,"Coding, Art"
+S0168,Sachini Samarasinghe,SJP (Japura),Science,BSc Physical Science,4,Robotics
+S0169,Ruwan Jayawardena,SJP (Japura),Arts,BA English,2,"Volunteering, Art"
+S0170,Tharushi Siriwardena,UoM (Moratuwa),Computing,BSc Information Systems,2,"AI, Robotics, Art"
+S0171,Nadeesha Bandara,UoP (Peradeniya),Engineering,BSc Civil Eng,1,"Robotics, Cricket"
+S0172,Nethmi Siriwardena,Wayamba,Engineering,BSc Electronic & Telecom,3,"Networking, Gaming, Volunteering"
+S0173,Heshan Weerasinghe,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,1,"Gaming, Photography"
+S0174,Sunil Silva,UoM (Moratuwa),Science,BSc Chemistry Special,3,"Gaming, Volunteering"
+S0175,Nimesha Samarasinghe,UoM (Moratuwa),Science,BSc Physical Science,1,"Networking, AI, Debate"
+S0176,Dilani Bandara,UoK (Kelaniya),Management,BSc Human Resource Mgt,1,"Networking, Gaming"
+S0177,Sunil Dissanayake,UoR (Ruhuna),Management,BSc Business Administration,4,"Music, AI, Cricket"
+S0178,Dinithi Liyanage,UoP (Peradeniya),Management,BSc Human Resource Mgt,3,"Art, Business"
+S0179,Lahiru Ranasinghe,UoR (Ruhuna),Arts,BA English,4,Art
+S0180,Saman Senanayake,UoP (Peradeniya),Science,BSc Biological Science,3,"Music, Networking"
+S0181,Oshadi Bandara,UoM (Moratuwa),Management,BSc Business Administration,1,"AI, Debate"
+S0182,Heshan Kumara,UoR (Ruhuna),Management,BSc Human Resource Mgt,2,Art
+S0183,Saman Fernando,UoK (Kelaniya),Science,BSc Biological Science,3,Cricket
+S0184,Nadeesha Wickramasinghe,UCSC,Computing,BSc Information Systems,2,"Art, Networking, Cricket"
+S0185,Kavindi Balasuriya,UoP (Peradeniya),Engineering,BSc Mechanical Eng,2,"Gaming, Coding, Debate"
+S0186,Nayana Rajapaksha,UoJ (Jaffna),Management,BSc Human Resource Mgt,4,"Gaming, Robotics, AI"
+S0187,Dilani Jayasinghe,Wayamba,Engineering,BSc Electrical Eng,4,"Business, Debate"
+S0188,Piumi Senanayake,UoP (Peradeniya),Engineering,BSc Mechanical Eng,1,"Coding, Photography"
+S0189,Kavindu Gunawardena,UoJ (Jaffna),Arts,BA English,2,Cricket
+S0190,Hiruni Silva,UoK (Kelaniya),Management,BSc Business Administration,4,"Art, Coding"
+S0191,Ruwan Perera,UoK (Kelaniya),Arts,BA Economics,3,"Music, Art"
+S0192,Sunil Rajapaksha,UoR (Ruhuna),Computing,BSc Information Systems,4,Cricket
+S0193,Sashika Ratnayake,Wayamba,Engineering,BSc Electronic & Telecom,2,"Coding, Music, Volunteering"
+S0194,Nayana Rajapaksha,SJP (Japura),Arts,BA Mass Media,1,Business
+S0195,Sandun Karunaratne,SJP (Japura),Computing,BSc Computer Science,1,"Networking, Gaming, Music"
+S0196,Kamal Munasinghe,UoK (Kelaniya),Arts,BA Mass Media,3,"Cricket, Business, Debate"
+S0197,Kavindi Fernando,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,1,"Photography, Music, AI"
+S0198,Nimal Senanayake,UCSC,Management,BSc Accounting,1,"Debate, Art, Business"
+S0199,Sunil Senanayake,UoM (Moratuwa),Science,BSc Physical Science,3,"Volunteering, Art, Cricket"
+S0200,Nimesha Silva,Wayamba,Engineering,BSc Electronic & Telecom,3,"Cricket, Volunteering, Music"
+S0201,Heshan Jayasinghe,UoK (Kelaniya),Engineering,BSc Civil Eng,4,Art
+S0202,Tharindu Rajapaksha,UoJ (Jaffna),Arts,BA Economics,3,Photography
+S0203,Sachini Wickramasinghe,UoR (Ruhuna),Computing,BSc Information Systems,4,"Music, Art"
+S0204,Kavindi Jayasinghe,UoP (Peradeniya),Management,BSc Accounting,3,"Volunteering, Gaming"
+S0205,Nadeesha Kumara,SJP (Japura),Computing,BSc Information Systems,3,Debate
+S0206,Heshan Gunawardena,UoM (Moratuwa),Science,BSc Physical Science,4,"Photography, Business"
+S0207,Sachini Weerasinghe,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,1,"Coding, Art"
+S0208,Amila Perera,SJP (Japura),Computing,BSc Information Systems,2,"AI, Photography"
+S0209,Dasun Dissanayake,Wayamba,Arts,BA Mass Media,3,Cricket
+S0210,Kavindi Senanayake,UCSC,Science,BSc Biological Science,4,"Cricket, Photography, Gaming"
+S0211,Kavindu Dissanayake,UoP (Peradeniya),Computing,BSc Information Systems,1,"Art, Debate, Volunteering"
+S0212,Sewwandi De Silva,UoP (Peradeniya),Computing,BSc Information Systems,3,"AI, Debate"
+S0213,Malith Karunaratne,Wayamba,Science,BSc Chemistry Special,2,Networking
+S0214,Nuwan Balasuriya,UoM (Moratuwa),Computing,BSc Computer Science,3,"Cricket, Gaming"
+S0215,Amila Siriwardena,UoM (Moratuwa),Science,BSc Chemistry Special,2,"AI, Business, Photography"
+S0216,Chamara Dissanayake,UoK (Kelaniya),Science,BSc Chemistry Special,4,Robotics
+S0217,Nuwan Fernando,UoR (Ruhuna),Computing,BSc Software Engineering,3,"AI, Cricket"
+S0218,Dasun Bandara,Wayamba,Management,BSc Human Resource Mgt,3,"Debate, Volunteering, Networking"
+S0219,Sewwandi Siriwardena,Wayamba,Computing,BSc Software Engineering,2,"AI, Art, Cricket"
+S0220,Saman Rajapaksha,UCSC,Engineering,BSc Electronic & Telecom,2,AI
+S0221,Nuwan Weerasinghe,UoK (Kelaniya),Engineering,BSc Electrical Eng,2,"AI, Business"
+S0222,Nuwan Jayasinghe,UoP (Peradeniya),Arts,BA Economics,2,"Business, Networking, AI"
+S0223,Nadeesha Jayawardena,UoP (Peradeniya),Arts,BA Mass Media,1,Photography
+S0224,Nimanthi Liyanage,UCSC,Computing,BSc Computer Science,1,"Networking, Business, Robotics"
+S0225,Sandali Rajapaksha,UoJ (Jaffna),Management,BSc Human Resource Mgt,4,"Business, Gaming, Robotics"
+S0226,Hiruni Karunaratne,UCSC,Computing,BSc Information Systems,4,Gaming
+S0227,Tharushi Wickramasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,2,"Volunteering, Art"
+S0228,Sandun Weerasinghe,UoM (Moratuwa),Science,BSc Chemistry Special,4,"Robotics, Gaming"
+S0229,Dinithi Munasinghe,UoM (Moratuwa),Engineering,BSc Mechanical Eng,4,Business
+S0230,Amila Karunaratne,UoR (Ruhuna),Engineering,BSc Mechanical Eng,4,"Volunteering, Art, Robotics"
+S0231,Sandali Jayasinghe,Wayamba,Management,BSc Accounting,4,Music
+S0232,Malith Karunaratne,UoR (Ruhuna),Engineering,BSc Mechanical Eng,4,Coding
+S0233,Chamara Weerasinghe,UCSC,Science,BSc Chemistry Special,3,Debate
+S0234,Sewwandi Ratnayake,UCSC,Management,BSc Accounting,3,"Coding, Networking"
+S0235,Sewwandi Weerasinghe,UoM (Moratuwa),Arts,BA Economics,1,"AI, Gaming"
+S0236,Kavindi Bandara,SJP (Japura),Engineering,BSc Civil Eng,2,"Art, AI"
+S0237,Chamara Jayawardena,SJP (Japura),Arts,BA Mass Media,4,"Coding, Volunteering, Photography"
+S0238,Nethmi Kumara,UoP (Peradeniya),Arts,BA Economics,4,"AI, Cricket, Art"
+S0239,Madushani Karunaratne,UoJ (Jaffna),Arts,BA Mass Media,3,"Art, AI, Photography"
+S0240,Hiruni Samarasinghe,UoR (Ruhuna),Management,BSc Business Administration,3,"Photography, Music"
+S0241,Nimanthi Dissanayake,Wayamba,Computing,BSc Information Systems,1,"Photography, Networking"
+S0242,Saman Balasuriya,UoP (Peradeniya),Arts,BA Economics,2,"Photography, Networking, Debate"
+S0243,Upeka Jayawardena,UoM (Moratuwa),Computing,BSc Information Systems,4,Coding
+S0244,Piumi Silva,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,2,"AI, Networking"
+S0245,Nethmi Kumara,UoR (Ruhuna),Arts,BA English,4,"Gaming, AI, Debate"
+S0246,Piumi Ratnayake,UoR (Ruhuna),Arts,BA Economics,2,"Volunteering, Photography, Business"
+S0247,Malith Ratnayake,UoJ (Jaffna),Science,BSc Chemistry Special,4,Business
+S0248,Sandun Samarasinghe,UoR (Ruhuna),Science,BSc Biological Science,4,"Volunteering, Business, Photography"
+S0249,Nuwan Senanayake,UoP (Peradeniya),Management,BSc Accounting,4,"Coding, Business"
+S0250,Madushani Weerasinghe,Wayamba,Science,BSc Chemistry Special,3,Robotics
+S0251,Harshani Dissanayake,UoK (Kelaniya),Engineering,BSc Civil Eng,2,Coding
+S0252,Lahiru Balasuriya,SJP (Japura),Computing,BSc Computer Science,2,"Volunteering, Gaming"
+S0253,Piumi Siriwardena,UoP (Peradeniya),Computing,BSc Information Systems,2,"Photography, Gaming"
+S0254,Ruwan Ranasinghe,UoJ (Jaffna),Science,BSc Biological Science,1,"Coding, Music, Networking"
+S0255,Hansani Kumara,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,3,Debate
+S0256,Malith Gunawardena,UoJ (Jaffna),Computing,BSc Computer Science,4,"Networking, Music, Art"
+S0257,Oshadi Kumara,UoJ (Jaffna),Engineering,BSc Electronic & Telecom,4,Music
+S0258,Oshadi Rajapaksha,UoP (Peradeniya),Science,BSc Chemistry Special,2,Volunteering
+S0259,Lahiru Kumara,SJP (Japura),Engineering,BSc Electronic & Telecom,2,"Art, Music, Debate"
+S0260,Dinithi Dissanayake,UoK (Kelaniya),Management,BSc Accounting,4,Business
+S0261,Sashika Siriwardena,UoJ (Jaffna),Science,BSc Biological Science,3,"Volunteering, Networking, Coding"
+S0262,Sandali Balasuriya,UoM (Moratuwa),Engineering,BSc Civil Eng,3,"Business, Cricket"
+S0263,Ruwan Bandara,UoJ (Jaffna),Computing,BSc Information Systems,4,"Networking, Robotics"
+S0264,Piumi Ranasinghe,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,2,"Volunteering, AI"
+S0265,Nimanthi De Silva,Wayamba,Engineering,BSc Civil Eng,1,"Volunteering, Art, Music"
+S0266,Nethmi Jayasinghe,UoK (Kelaniya),Arts,BA Mass Media,4,"AI, Cricket, Photography"
+S0267,Dilani Gunawardena,UoK (Kelaniya),Computing,BSc Information Systems,1,"Networking, Gaming, Music"
+S0268,Sewwandi Gunawardena,SJP (Japura),Management,BSc Business Administration,3,"Networking, Coding"
+S0269,Dinesh Samarasinghe,UoJ (Jaffna),Computing,BSc Software Engineering,1,Volunteering
+S0270,Dasun Karunaratne,UoR (Ruhuna),Computing,BSc Software Engineering,1,"Music, AI, Coding"
+S0271,Hiruni Senanayake,UoP (Peradeniya),Science,BSc Biological Science,4,Photography
+S0272,Madushani Bandara,SJP (Japura),Management,BSc Accounting,3,Photography
+S0273,Nimal Rajapaksha,SJP (Japura),Computing,BSc Computer Science,4,"Cricket, Robotics, Coding"
+S0274,Nimesha Senanayake,SJP (Japura),Arts,BA Economics,2,Robotics
+S0275,Hiruni Munasinghe,UoM (Moratuwa),Science,BSc Physical Science,1,Photography
+S0276,Sunil Gunawardena,UoM (Moratuwa),Engineering,BSc Mechanical Eng,1,Networking
+S0277,Dinesh Silva,SJP (Japura),Engineering,BSc Civil Eng,2,"Robotics, AI"
+S0278,Nadeesha Balasuriya,UoK (Kelaniya),Arts,BA Economics,3,"Networking, Art, Volunteering"
+S0279,Heshan Weerasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,1,"AI, Robotics, Debate"
+S0280,Hansani Silva,UoP (Peradeniya),Arts,BA Mass Media,3,"Photography, Debate, AI"
+S0281,Heshan Wickramasinghe,UoR (Ruhuna),Management,BSc Human Resource Mgt,2,"Debate, Volunteering, Cricket"
+S0282,Saman Gunawardena,UoK (Kelaniya),Arts,BA Economics,1,Business
+S0283,Nayana Weerasinghe,SJP (Japura),Arts,BA Economics,2,"AI, Cricket, Debate"
+S0284,Madushani Ratnayake,UoM (Moratuwa),Science,BSc Chemistry Special,1,"Art, Music"
+S0285,Ashani Balasuriya,UCSC,Science,BSc Biological Science,2,Robotics
+S0286,Tharindu De Silva,UoR (Ruhuna),Management,BSc Business Administration,4,"Coding, Robotics"
+S0287,Nethmi Rajapaksha,SJP (Japura),Engineering,BSc Mechanical Eng,4,AI
+S0288,Dilani Karunaratne,UoR (Ruhuna),Management,BSc Human Resource Mgt,4,"Business, Art"
+S0289,Nethmi Liyanage,Wayamba,Computing,BSc Information Systems,1,"Robotics, Art"
+S0290,Sewwandi Samarasinghe,UoP (Peradeniya),Arts,BA English,4,Business
+S0291,Nimanthi Dissanayake,UoK (Kelaniya),Science,BSc Physical Science,4,"Robotics, Debate"
+S0292,Hansani Gunawardena,UoR (Ruhuna),Arts,BA Mass Media,2,"Gaming, Photography"
+S0293,Madushani Siriwardena,UoP (Peradeniya),Science,BSc Physical Science,1,"AI, Gaming, Cricket"
+S0294,Chamara Siriwardena,UoM (Moratuwa),Arts,BA English,2,"Coding, Volunteering, Debate"
+S0295,Dilani Gunawardena,UoP (Peradeniya),Computing,BSc Information Systems,3,Robotics
+S0296,Madushani Ranasinghe,Wayamba,Computing,BSc Information Systems,4,"Gaming, Coding, Photography"
+S0297,Sachini Kumara,UoJ (Jaffna),Computing,BSc Computer Science,1,"Business, Coding, AI"
+S0298,Harshani Weerasinghe,UoP (Peradeniya),Computing,BSc Information Systems,3,Robotics
+S0299,Nimanthi Dissanayake,UoM (Moratuwa),Science,BSc Biological Science,2,"Debate, Gaming"
+S0300,Sandali Wickramasinghe,UoM (Moratuwa),Science,BSc Chemistry Special,4,"Photography, Coding, Music"
+S0301,Hansani Liyanage,UCSC,Arts,BA Economics,3,"Coding, Cricket, Music"
+S0302,Nimanthi Karunaratne,UCSC,Arts,BA English,3,Robotics
+S0303,Gayan Jayawardena,UoJ (Jaffna),Computing,BSc Computer Science,1,"Networking, Photography, Coding"
+S0304,Amila Samarasinghe,SJP (Japura),Engineering,BSc Mechanical Eng,2,Business
+S0305,Nuwan Jayasinghe,UoR (Ruhuna),Arts,BA Economics,3,"Volunteering, Cricket"
+S0306,Oshadi Munasinghe,SJP (Japura),Computing,BSc Computer Science,4,Music
+S0307,Tharushi Ranasinghe,UoJ (Jaffna),Science,BSc Physical Science,4,"Gaming, Robotics"
+S0308,Malith Dissanayake,SJP (Japura),Management,BSc Business Administration,1,Networking
+S0309,Saman Wickramasinghe,UoP (Peradeniya),Computing,BSc Software Engineering,3,"Volunteering, Photography"
+S0310,Upeka Senanayake,UoM (Moratuwa),Science,BSc Physical Science,3,Business
+S0311,Upeka Ranasinghe,UoM (Moratuwa),Computing,BSc Computer Science,4,Debate
+S0312,Nadeesha Munasinghe,UoM (Moratuwa),Computing,BSc Computer Science,3,"AI, Music"
+S0313,Sewwandi Dissanayake,UoJ (Jaffna),Management,BSc Business Administration,2,"Debate, Music"
+S0314,Hansani Bandara,UoP (Peradeniya),Management,BSc Business Administration,1,"Business, Volunteering"
+S0315,Dasun Senanayake,UoJ (Jaffna),Engineering,BSc Electronic & Telecom,3,"Business, Gaming"
+S0316,Heshan Perera,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,4,"Music, Cricket"
+S0317,Sachini Siriwardena,SJP (Japura),Science,BSc Chemistry Special,2,"Gaming, Art"
+S0318,Sandali Jayawardena,UoK (Kelaniya),Science,BSc Biological Science,3,"Art, Cricket"
+S0319,Sandali Senanayake,UoK (Kelaniya),Management,BSc Human Resource Mgt,1,"Debate, Business"
+S0320,Dinesh Gunawardena,UoP (Peradeniya),Arts,BA English,3,"AI, Coding, Gaming"
+S0321,Heshan Dissanayake,Wayamba,Computing,BSc Software Engineering,3,Photography
+S0322,Nadeesha Karunaratne,SJP (Japura),Engineering,BSc Electronic & Telecom,4,Gaming
+S0323,Nadeesha Siriwardena,SJP (Japura),Arts,BA Mass Media,1,"Coding, Art, AI"
+S0324,Sunil Samarasinghe,UoR (Ruhuna),Computing,BSc Computer Science,4,Photography
+S0325,Sashika Dissanayake,UoM (Moratuwa),Science,BSc Biological Science,2,Music
+S0326,Dilani Bandara,SJP (Japura),Management,BSc Accounting,3,"Photography, Networking"
+S0327,Sandun Bandara,UoM (Moratuwa),Computing,BSc Software Engineering,3,"Debate, Music"
+S0328,Piumi Senanayake,Wayamba,Science,BSc Biological Science,4,AI
+S0329,Sunil De Silva,Wayamba,Computing,BSc Software Engineering,1,"Music, Business"
+S0330,Gayan Ranasinghe,UoM (Moratuwa),Science,BSc Chemistry Special,2,"Cricket, Robotics, AI"
+S0331,Gayan Kumara,SJP (Japura),Science,BSc Chemistry Special,4,"Robotics, Debate"
+S0332,Dinithi Perera,UoK (Kelaniya),Management,BSc Business Administration,2,"Networking, Debate"
+S0333,Kavindi Jayawardena,UoM (Moratuwa),Engineering,BSc Electrical Eng,2,"Music, AI, Cricket"
+S0334,Nadeesha Wickramasinghe,UoJ (Jaffna),Management,BSc Business Administration,4,"Gaming, AI, Art"
+S0335,Gayan Balasuriya,UoR (Ruhuna),Arts,BA English,3,"Gaming, Networking"
+S0336,Nayana Rajapaksha,UoM (Moratuwa),Arts,BA Mass Media,1,"Cricket, Art, Music"
+S0337,Chamara Samarasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,4,"Debate, Volunteering, Networking"
+S0338,Sewwandi Kumara,Wayamba,Management,BSc Business Administration,4,"AI, Photography, Cricket"
+S0339,Kasun Senanayake,UoP (Peradeniya),Science,BSc Physical Science,1,"Gaming, Networking"
+S0340,Hansani Liyanage,UoK (Kelaniya),Management,BSc Business Administration,4,"AI, Volunteering"
+S0341,Nimanthi Perera,Wayamba,Management,BSc Human Resource Mgt,2,"Cricket, Music"
+S0342,Malith Kumara,UoJ (Jaffna),Science,BSc Physical Science,4,AI
+S0343,Sandun Weerasinghe,Wayamba,Arts,BA Mass Media,3,"AI, Music, Networking"
+S0344,Nayana Rajapaksha,Wayamba,Arts,BA English,1,"Robotics, Debate, Music"
+S0345,Sandun Dissanayake,UoR (Ruhuna),Management,BSc Accounting,2,Gaming
+S0346,Amila Munasinghe,UoR (Ruhuna),Arts,BA Mass Media,2,"Networking, Photography, Debate"
+S0347,Nadeesha Ranasinghe,UCSC,Engineering,BSc Mechanical Eng,2,"Art, AI, Business"
+S0348,Dilani Balasuriya,UoJ (Jaffna),Science,BSc Chemistry Special,1,"Networking, Business"
+S0349,Chamara Dissanayake,UCSC,Engineering,BSc Electronic & Telecom,2,"Photography, Cricket"
+S0350,Kavindu Siriwardena,SJP (Japura),Science,BSc Physical Science,4,"Cricket, Networking"
+S0351,Kavindu Senanayake,UoM (Moratuwa),Management,BSc Accounting,4,"Music, Debate, AI"
+S0352,Dasun Ranasinghe,UCSC,Management,BSc Accounting,4,"Music, Gaming, Art"
+S0353,Malith Jayawardena,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,2,"Business, Art"
+S0354,Nimesha Perera,UoR (Ruhuna),Arts,BA Economics,1,"Coding, Volunteering, Music"
+S0355,Tharindu Bandara,Wayamba,Engineering,BSc Electronic & Telecom,3,Debate
+S0356,Kavindi Balasuriya,UoM (Moratuwa),Engineering,BSc Electrical Eng,2,"Art, Business, Music"
+S0357,Nuwan De Silva,UoJ (Jaffna),Computing,BSc Software Engineering,1,"Volunteering, Robotics, Debate"
+S0358,Ruwan Jayasinghe,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,4,Networking
+S0359,Chamara Karunaratne,UoR (Ruhuna),Computing,BSc Computer Science,1,Debate
+S0360,Kavindi Rajapaksha,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,2,"Music, Volunteering, Art"
+S0361,Nimanthi Perera,UoP (Peradeniya),Management,BSc Business Administration,2,AI
+S0362,Upeka Ratnayake,UoK (Kelaniya),Management,BSc Accounting,1,"Volunteering, Cricket, Debate"
+S0363,Sachini Jayawardena,UoM (Moratuwa),Computing,BSc Computer Science,2,"Volunteering, Debate, Art"
+S0364,Nadeesha Munasinghe,UoM (Moratuwa),Engineering,BSc Electrical Eng,3,AI
+S0365,Nadeesha Jayasinghe,UoJ (Jaffna),Computing,BSc Information Systems,2,AI
+S0366,Dinithi De Silva,UCSC,Management,BSc Accounting,2,Gaming
+S0367,Chamara Wickramasinghe,UoM (Moratuwa),Management,BSc Human Resource Mgt,4,"Coding, Art, Photography"
+S0368,Ashani Fernando,UoP (Peradeniya),Science,BSc Chemistry Special,1,"Music, Coding"
+S0369,Dilani Rajapaksha,UCSC,Science,BSc Physical Science,4,Debate
+S0370,Madushani Ranasinghe,SJP (Japura),Management,BSc Human Resource Mgt,2,Photography
+S0371,Dinesh Bandara,UoJ (Jaffna),Science,BSc Physical Science,3,AI
+S0372,Nayana Silva,UoM (Moratuwa),Management,BSc Human Resource Mgt,2,"Volunteering, Debate"
+S0373,Kasun Rajapaksha,UoM (Moratuwa),Computing,BSc Software Engineering,2,"Networking, Volunteering"
+S0374,Tharushi Jayasinghe,UoP (Peradeniya),Computing,BSc Computer Science,3,"Coding, Cricket, Gaming"
+S0375,Oshadi Liyanage,UoP (Peradeniya),Engineering,BSc Electrical Eng,3,"Business, Music, Coding"
+S0376,Hansani Gunawardena,UoJ (Jaffna),Arts,BA English,3,"Networking, Photography, Music"
+S0377,Lahiru Samarasinghe,UoP (Peradeniya),Computing,BSc Software Engineering,1,"Cricket, Business"
+S0378,Sunil Karunaratne,UCSC,Engineering,BSc Civil Eng,3,Robotics
+S0379,Hiruni Dissanayake,UoP (Peradeniya),Management,BSc Business Administration,3,AI
+S0380,Kavindi De Silva,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,1,"Music, Networking"
+S0381,Malith Rajapaksha,UCSC,Engineering,BSc Mechanical Eng,3,"Music, Gaming"
+S0382,Tharindu Rajapaksha,Wayamba,Computing,BSc Information Systems,3,Art
+S0383,Tharindu Ranasinghe,Wayamba,Arts,BA English,2,"Networking, Gaming"
+S0384,Madushani Senanayake,SJP (Japura),Engineering,BSc Civil Eng,1,Robotics
+S0385,Dinesh Jayasinghe,SJP (Japura),Science,BSc Physical Science,2,"Volunteering, Business, Music"
+S0386,Kavindu Fernando,UCSC,Management,BSc Accounting,1,Volunteering
+S0387,Ashani De Silva,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,2,"Volunteering, Music"
+S0388,Nayana Rajapaksha,UCSC,Management,BSc Business Administration,3,"Photography, Cricket"
+S0389,Ruwan Fernando,UoR (Ruhuna),Science,BSc Biological Science,2,"Gaming, Business"
+S0390,Upeka Gunawardena,UoP (Peradeniya),Engineering,BSc Civil Eng,3,Cricket
+S0391,Heshan Gunawardena,UoR (Ruhuna),Management,BSc Business Administration,3,Gaming
+S0392,Dinesh Jayawardena,UoP (Peradeniya),Computing,BSc Computer Science,2,"Business, Networking, Coding"
+S0393,Kasun Balasuriya,UoK (Kelaniya),Computing,BSc Information Systems,3,"Debate, AI"
+S0394,Sewwandi Dissanayake,UCSC,Science,BSc Physical Science,1,"Gaming, AI"
+S0395,Kasun Dissanayake,UoP (Peradeniya),Management,BSc Business Administration,2,Coding
+S0396,Ashani Samarasinghe,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,3,"Photography, Volunteering, Music"
+S0397,Upeka Bandara,UoM (Moratuwa),Computing,BSc Computer Science,1,Photography
+S0398,Nimanthi Liyanage,UCSC,Science,BSc Physical Science,4,"Coding, Cricket"
+S0399,Dinesh Kumara,SJP (Japura),Management,BSc Business Administration,3,"Debate, Cricket, Art"
+S0400,Nayana Siriwardena,UoP (Peradeniya),Science,BSc Biological Science,3,Networking
+S0401,Kavindu Wickramasinghe,Wayamba,Management,BSc Accounting,2,Music
+S0402,Tharushi Karunaratne,UoK (Kelaniya),Management,BSc Business Administration,4,"AI, Coding, Debate"
+S0403,Nimal Jayawardena,UoR (Ruhuna),Science,BSc Chemistry Special,2,"Business, Cricket"
+S0404,Ashani Dissanayake,UCSC,Computing,BSc Software Engineering,2,"AI, Art"
+S0405,Ruwan Samarasinghe,UoK (Kelaniya),Computing,BSc Computer Science,4,"AI, Coding"
+S0406,Nethmi Senanayake,UoP (Peradeniya),Science,BSc Physical Science,1,Networking
+S0407,Heshan Kumara,UoP (Peradeniya),Science,BSc Chemistry Special,4,"Robotics, Gaming, AI"
+S0408,Ruwan Perera,UCSC,Computing,BSc Computer Science,4,Networking
+S0409,Gayan Jayawardena,UoK (Kelaniya),Computing,BSc Software Engineering,1,Art
+S0410,Kavindi Fernando,UoP (Peradeniya),Computing,BSc Computer Science,3,AI
+S0411,Chamara Kumara,UoM (Moratuwa),Management,BSc Human Resource Mgt,4,"Business, Art"
+S0412,Sewwandi Munasinghe,UoR (Ruhuna),Management,BSc Human Resource Mgt,3,Volunteering
+S0413,Chamara Kumara,SJP (Japura),Engineering,BSc Mechanical Eng,1,"Volunteering, Business"
+S0414,Nethmi Munasinghe,UCSC,Arts,BA Economics,2,Networking
+S0415,Dasun Dissanayake,Wayamba,Arts,BA English,3,Art
+S0416,Upeka Perera,UoM (Moratuwa),Science,BSc Physical Science,3,"Photography, Volunteering, Art"
+S0417,Kamal Silva,UoM (Moratuwa),Engineering,BSc Mechanical Eng,4,"Business, Music"
+S0418,Hansani Wickramasinghe,SJP (Japura),Management,BSc Human Resource Mgt,3,Debate
+S0419,Ruwan Kumara,UoM (Moratuwa),Arts,BA Economics,4,"Networking, Photography"
+S0420,Sashika De Silva,UoJ (Jaffna),Computing,BSc Computer Science,1,Art
+S0421,Dasun Ranasinghe,SJP (Japura),Science,BSc Physical Science,1,Volunteering
+S0422,Nadeesha Liyanage,Wayamba,Science,BSc Chemistry Special,2,"Coding, Debate, Cricket"
+S0423,Hiruni Ranasinghe,UoR (Ruhuna),Computing,BSc Computer Science,3,Robotics
+S0424,Sandali Samarasinghe,UoK (Kelaniya),Science,BSc Biological Science,4,Coding
+S0425,Nuwan Rajapaksha,UoR (Ruhuna),Engineering,BSc Civil Eng,4,Debate
+S0426,Malith Fernando,UCSC,Engineering,BSc Civil Eng,4,Cricket
+S0427,Sashika Fernando,SJP (Japura),Computing,BSc Software Engineering,4,"Gaming, Photography"
+S0428,Sunil Weerasinghe,SJP (Japura),Engineering,BSc Electrical Eng,4,"Cricket, Gaming"
+S0429,Saman Balasuriya,UoK (Kelaniya),Management,BSc Accounting,1,"Networking, Coding"
+S0430,Sewwandi Silva,UoR (Ruhuna),Computing,BSc Information Systems,4,"Debate, Networking, Robotics"
+S0431,Nuwan Wickramasinghe,Wayamba,Arts,BA Economics,1,"Robotics, Gaming, Business"
+S0432,Gayan Kumara,UoP (Peradeniya),Arts,BA Mass Media,2,Gaming
+S0433,Sachini Ratnayake,UCSC,Engineering,BSc Mechanical Eng,2,"Music, Photography"
+S0434,Sewwandi Wickramasinghe,UoR (Ruhuna),Arts,BA Economics,3,"Music, Volunteering, Debate"
+S0435,Ashani Jayasinghe,Wayamba,Science,BSc Chemistry Special,4,Volunteering
+S0436,Ashani Samarasinghe,UoP (Peradeniya),Computing,BSc Software Engineering,1,Networking
+S0437,Hiruni Weerasinghe,UoM (Moratuwa),Computing,BSc Information Systems,4,"AI, Art"
+S0438,Kavindu Wickramasinghe,Wayamba,Management,BSc Human Resource Mgt,2,Cricket
+S0439,Oshadi Dissanayake,SJP (Japura),Arts,BA Mass Media,1,Debate
+S0440,Heshan Rajapaksha,UoR (Ruhuna),Management,BSc Accounting,3,Art
+S0441,Heshan Gunawardena,UoM (Moratuwa),Management,BSc Human Resource Mgt,3,Cricket
+S0442,Upeka Ratnayake,SJP (Japura),Science,BSc Chemistry Special,4,"Photography, Music, Robotics"
+S0443,Amila Fernando,UoR (Ruhuna),Management,BSc Human Resource Mgt,3,AI
+S0444,Tharindu Ratnayake,UoP (Peradeniya),Arts,BA Economics,1,"Networking, Coding, Cricket"
+S0445,Tharindu Weerasinghe,Wayamba,Engineering,BSc Civil Eng,3,Art
+S0446,Nayana Senanayake,SJP (Japura),Management,BSc Human Resource Mgt,4,"Music, Photography, Coding"
+S0447,Tharushi Senanayake,UoP (Peradeniya),Arts,BA Economics,2,"Networking, AI"
+S0448,Kasun Kumara,UoM (Moratuwa),Science,BSc Chemistry Special,2,"Coding, Debate"
+S0449,Dilani Perera,UoK (Kelaniya),Engineering,BSc Mechanical Eng,1,"Photography, Debate"
+S0450,Nadeesha Rajapaksha,UoP (Peradeniya),Management,BSc Business Administration,3,"Coding, Robotics, Business"
+S0451,Nimesha Rajapaksha,UoR (Ruhuna),Management,BSc Accounting,4,"Business, Robotics"
+S0452,Nadeesha Munasinghe,UCSC,Arts,BA English,3,"Photography, Art, AI"
+S0453,Kavindu Siriwardena,UoM (Moratuwa),Science,BSc Chemistry Special,3,"Music, Art"
+S0454,Harshani Dissanayake,UoJ (Jaffna),Science,BSc Biological Science,1,Cricket
+S0455,Malith Weerasinghe,UoR (Ruhuna),Arts,BA Economics,4,"Cricket, Coding, Gaming"
+S0456,Oshadi Dissanayake,UCSC,Management,BSc Accounting,4,"Volunteering, Networking, Robotics"
+S0457,Sewwandi Kumara,UoJ (Jaffna),Science,BSc Chemistry Special,3,Photography
+S0458,Oshadi Siriwardena,UoP (Peradeniya),Computing,BSc Software Engineering,1,"Business, AI, Cricket"
+S0459,Kavindi Weerasinghe,UoK (Kelaniya),Engineering,BSc Electrical Eng,3,"Business, Debate, Art"
+S0460,Ashani Samarasinghe,Wayamba,Management,BSc Business Administration,1,Photography
+S0461,Hiruni Silva,UoM (Moratuwa),Management,BSc Business Administration,2,"Debate, AI, Business"
+S0462,Saman Jayawardena,UoR (Ruhuna),Engineering,BSc Mechanical Eng,2,"Networking, Gaming"
+S0463,Kamal Gunawardena,UoR (Ruhuna),Computing,BSc Software Engineering,3,"Cricket, Art, Coding"
+S0464,Sachini Siriwardena,UoP (Peradeniya),Engineering,BSc Mechanical Eng,4,"Music, Cricket"
+S0465,Madushani Ratnayake,Wayamba,Management,BSc Accounting,3,"Coding, Volunteering"
+S0466,Kamal Siriwardena,UoK (Kelaniya),Computing,BSc Software Engineering,2,Photography
+S0467,Dinithi Jayasinghe,UoJ (Jaffna),Engineering,BSc Electrical Eng,3,Music
+S0468,Harshani Munasinghe,UCSC,Engineering,BSc Civil Eng,3,"Business, Gaming"
+S0469,Tharindu Kumara,UoP (Peradeniya),Management,BSc Human Resource Mgt,4,"Gaming, Art"
+S0470,Ashani Jayasinghe,UoK (Kelaniya),Computing,BSc Computer Science,2,"Cricket, Robotics, Coding"
+S0471,Madushani Munasinghe,UCSC,Computing,BSc Software Engineering,1,"Photography, Business"
+S0472,Hiruni Gunawardena,UoM (Moratuwa),Arts,BA English,4,"Coding, Volunteering, Music"
+S0473,Dinesh Balasuriya,UoJ (Jaffna),Computing,BSc Information Systems,1,"Volunteering, Cricket"
+S0474,Nadeesha Bandara,UoM (Moratuwa),Science,BSc Biological Science,4,"AI, Business, Networking"
+S0475,Hansani Ratnayake,UoM (Moratuwa),Computing,BSc Information Systems,2,"Music, Volunteering"
+S0476,Malith Kumara,UoK (Kelaniya),Science,BSc Chemistry Special,1,"Volunteering, Debate"
+S0477,Kamal Perera,UoK (Kelaniya),Arts,BA Economics,1,"Gaming, Art, Robotics"
+S0478,Dilani Fernando,Wayamba,Computing,BSc Information Systems,1,Music
+S0479,Nimesha Silva,UoK (Kelaniya),Science,BSc Chemistry Special,1,"Business, Volunteering"
+S0480,Sachini De Silva,UoJ (Jaffna),Engineering,BSc Civil Eng,1,"Photography, Art"
+S0481,Tharushi Gunawardena,UoP (Peradeniya),Computing,BSc Computer Science,3,"Photography, Cricket, Art"
+S0482,Sandali Wickramasinghe,UoR (Ruhuna),Computing,BSc Software Engineering,4,Music
+S0483,Sandun Bandara,Wayamba,Science,BSc Biological Science,1,"Photography, Cricket"
+S0484,Gayan Munasinghe,SJP (Japura),Engineering,BSc Civil Eng,4,"Gaming, Networking, Volunteering"
+S0485,Hansani De Silva,UCSC,Science,BSc Chemistry Special,4,"Volunteering, Cricket, Gaming"
+S0486,Kamal Balasuriya,UoM (Moratuwa),Management,BSc Business Administration,2,"Photography, Art"
+S0487,Piumi Senanayake,UoM (Moratuwa),Science,BSc Chemistry Special,4,"Photography, Robotics"
+S0488,Hansani Kumara,UCSC,Engineering,BSc Civil Eng,1,"Cricket, AI, Gaming"
+S0489,Dilani Dissanayake,UoK (Kelaniya),Management,BSc Accounting,4,"Business, Coding"
+S0490,Upeka Fernando,UoM (Moratuwa),Management,BSc Business Administration,4,"Gaming, Networking"
+S0491,Nimal De Silva,UoM (Moratuwa),Management,BSc Accounting,4,"Volunteering, Photography"
+S0492,Heshan Jayasinghe,UCSC,Management,BSc Business Administration,2,Networking
+S0493,Nimesha Jayawardena,UoR (Ruhuna),Management,BSc Accounting,4,Robotics
+S0494,Ruwan Perera,Wayamba,Science,BSc Chemistry Special,3,Music
+S0495,Sunil Kumara,UoJ (Jaffna),Science,BSc Chemistry Special,4,"AI, Art, Music"
+S0496,Tharindu De Silva,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,4,"Networking, Robotics"
+S0497,Sunil Siriwardena,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,1,"Art, Music, Debate"
+S0498,Kasun Ranasinghe,UoP (Peradeniya),Management,BSc Accounting,4,"Coding, AI"
+S0499,Lahiru Wickramasinghe,UoP (Peradeniya),Arts,BA Economics,3,"Networking, Cricket, Photography"
+S0500,Sandali Jayawardena,SJP (Japura),Arts,BA Economics,3,"Volunteering, Robotics, Business"
+S0501,Heshan Ranasinghe,UoP (Peradeniya),Management,BSc Business Administration,3,"Networking, AI"
+S0502,Malith Balasuriya,UoK (Kelaniya),Arts,BA Mass Media,3,Robotics
+S0503,Piumi Samarasinghe,UoR (Ruhuna),Engineering,BSc Mechanical Eng,4,"Music, Art, AI"
+S0504,Lahiru Perera,SJP (Japura),Arts,BA Economics,4,AI
+S0505,Amila Rajapaksha,UCSC,Engineering,BSc Civil Eng,3,Business
+S0506,Sunil Senanayake,UoJ (Jaffna),Engineering,BSc Civil Eng,4,AI
+S0507,Nayana Jayasinghe,UoK (Kelaniya),Computing,BSc Information Systems,3,"Photography, AI, Debate"
+S0508,Sewwandi Silva,SJP (Japura),Computing,BSc Software Engineering,1,"Photography, Art"
+S0509,Kavindi Samarasinghe,Wayamba,Science,BSc Physical Science,2,Photography
+S0510,Dasun Kumara,Wayamba,Engineering,BSc Electrical Eng,2,Photography
+S0511,Kavindu Ranasinghe,SJP (Japura),Arts,BA English,3,Debate
+S0512,Nimesha Bandara,UoJ (Jaffna),Engineering,BSc Mechanical Eng,1,Art
+S0513,Hansani Samarasinghe,UCSC,Engineering,BSc Electrical Eng,3,"Networking, Photography, Business"
+S0514,Dasun Jayasinghe,UoR (Ruhuna),Computing,BSc Information Systems,2,"Robotics, Cricket, AI"
+S0515,Ruwan Ratnayake,SJP (Japura),Management,BSc Human Resource Mgt,3,Art
+S0516,Harshani Karunaratne,UoJ (Jaffna),Science,BSc Biological Science,1,Networking
+S0517,Nayana Silva,UoR (Ruhuna),Computing,BSc Information Systems,3,"Robotics, Photography"
+S0518,Nimal Jayasinghe,SJP (Japura),Management,BSc Business Administration,3,"AI, Business"
+S0519,Tharindu Jayawardena,Wayamba,Arts,BA Mass Media,1,"Coding, Business"
+S0520,Sachini De Silva,UCSC,Computing,BSc Computer Science,2,"Music, Robotics, Photography"
+S0521,Nimal Gunawardena,SJP (Japura),Arts,BA Mass Media,3,"Music, Photography, Cricket"
+S0522,Sashika Ranasinghe,UoM (Moratuwa),Computing,BSc Computer Science,1,Cricket
+S0523,Sandali Liyanage,UoJ (Jaffna),Arts,BA English,3,"Debate, Gaming"
+S0524,Dasun Samarasinghe,UoM (Moratuwa),Computing,BSc Software Engineering,1,"Coding, Photography, Networking"
+S0525,Nadeesha Fernando,UoM (Moratuwa),Computing,BSc Software Engineering,3,"Photography, Business"
+S0526,Madushani Dissanayake,SJP (Japura),Management,BSc Accounting,2,"Coding, Gaming, Cricket"
+S0527,Kamal Ranasinghe,UoJ (Jaffna),Management,BSc Human Resource Mgt,2,"Cricket, Business, Art"
+S0528,Sewwandi Fernando,UCSC,Computing,BSc Computer Science,3,"Networking, Debate, AI"
+S0529,Saman Kumara,UoK (Kelaniya),Engineering,BSc Electrical Eng,2,"Photography, AI"
+S0530,Nimanthi Silva,UoK (Kelaniya),Engineering,BSc Electrical Eng,4,Cricket
+S0531,Tharindu Samarasinghe,UoJ (Jaffna),Arts,BA English,4,"Music, Business, Volunteering"
+S0532,Malith Munasinghe,UoP (Peradeniya),Science,BSc Biological Science,1,"Photography, Robotics, Music"
+S0533,Heshan Samarasinghe,Wayamba,Engineering,BSc Electrical Eng,2,"Art, Networking"
+S0534,Kamal Jayawardena,UoR (Ruhuna),Arts,BA Mass Media,2,"Debate, Cricket"
+S0535,Oshadi Karunaratne,UoJ (Jaffna),Engineering,BSc Electronic & Telecom,4,"Cricket, Photography"
+S0536,Gayan Siriwardena,UoJ (Jaffna),Management,BSc Accounting,1,"AI, Music"
+S0537,Dasun Fernando,UoK (Kelaniya),Science,BSc Physical Science,1,"Volunteering, Photography"
+S0538,Dinesh Silva,UCSC,Arts,BA Mass Media,3,"Networking, Debate, Volunteering"
+S0539,Ruwan Samarasinghe,Wayamba,Arts,BA Mass Media,3,"Cricket, Art, Debate"
+S0540,Kamal Balasuriya,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,2,"Art, AI"
+S0541,Gayan Samarasinghe,UoP (Peradeniya),Arts,BA Mass Media,2,"Cricket, Gaming, Volunteering"
+S0542,Ruwan Fernando,UCSC,Management,BSc Accounting,3,Gaming
+S0543,Dinithi Karunaratne,UCSC,Science,BSc Physical Science,4,"Robotics, AI, Art"
+S0544,Harshani Siriwardena,UoR (Ruhuna),Computing,BSc Computer Science,3,Volunteering
+S0545,Kavindi Samarasinghe,UoP (Peradeniya),Science,BSc Chemistry Special,1,"Photography, Debate"
+S0546,Sandali Senanayake,SJP (Japura),Arts,BA Economics,3,AI
+S0547,Ruwan Fernando,UCSC,Management,BSc Accounting,3,"Cricket, Gaming, Volunteering"
+S0548,Nadeesha De Silva,UoP (Peradeniya),Engineering,BSc Mechanical Eng,2,Art
+S0549,Piumi Ratnayake,UoM (Moratuwa),Management,BSc Accounting,2,"Photography, Gaming"
+S0550,Nimanthi Samarasinghe,UoK (Kelaniya),Management,BSc Business Administration,2,Cricket
+S0551,Sashika Kumara,UoP (Peradeniya),Engineering,BSc Civil Eng,4,Cricket
+S0552,Nuwan Ratnayake,UCSC,Arts,BA Mass Media,4,"Volunteering, Photography, Business"
+S0553,Hiruni Munasinghe,Wayamba,Arts,BA Economics,2,Robotics
+S0554,Oshadi Gunawardena,UoJ (Jaffna),Arts,BA English,1,Volunteering
+S0555,Nimal Ratnayake,SJP (Japura),Engineering,BSc Electronic & Telecom,4,Music
+S0556,Sunil Ranasinghe,UoP (Peradeniya),Engineering,BSc Civil Eng,1,"Networking, Volunteering"
+S0557,Harshani Liyanage,UoP (Peradeniya),Computing,BSc Software Engineering,3,"AI, Coding, Debate"
+S0558,Dinithi Senanayake,SJP (Japura),Computing,BSc Information Systems,1,Gaming
+S0559,Malith Munasinghe,UoJ (Jaffna),Management,BSc Business Administration,4,"Robotics, Music"
+S0560,Harshani De Silva,UCSC,Science,BSc Physical Science,1,"Volunteering, Coding, Networking"
+S0561,Lahiru Bandara,UoK (Kelaniya),Management,BSc Human Resource Mgt,4,"Art, Debate, Volunteering"
+S0562,Kavindu Balasuriya,UoJ (Jaffna),Arts,BA Economics,4,"Debate, Networking, Art"
+S0563,Sewwandi Ranasinghe,Wayamba,Engineering,BSc Electronic & Telecom,4,Art
+S0564,Ruwan Gunawardena,UoR (Ruhuna),Science,BSc Biological Science,2,"Debate, Cricket, Music"
+S0565,Kasun Kumara,SJP (Japura),Computing,BSc Computer Science,4,"AI, Networking"
+S0566,Nuwan Fernando,UoP (Peradeniya),Computing,BSc Computer Science,3,"Networking, Debate"
+S0567,Harshani Rajapaksha,UoM (Moratuwa),Engineering,BSc Electrical Eng,1,"Coding, Debate, Photography"
+S0568,Harshani Rajapaksha,Wayamba,Engineering,BSc Electronic & Telecom,2,Robotics
+S0569,Kavindi Dissanayake,UoK (Kelaniya),Computing,BSc Information Systems,1,"Cricket, Photography, Coding"
+S0570,Sandali Wickramasinghe,UoJ (Jaffna),Engineering,BSc Civil Eng,2,"Art, Photography"
+S0571,Malith Ranasinghe,UoM (Moratuwa),Arts,BA English,3,AI
+S0572,Nimanthi Perera,UoK (Kelaniya),Science,BSc Biological Science,3,"Robotics, Gaming, Debate"
+S0573,Oshadi De Silva,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,3,"Music, AI, Business"
+S0574,Piumi Dissanayake,UoJ (Jaffna),Arts,BA Mass Media,3,"Gaming, Debate, Networking"
+S0575,Sashika Fernando,Wayamba,Management,BSc Human Resource Mgt,4,"Coding, Gaming, Music"
+S0576,Madushani Perera,UoR (Ruhuna),Engineering,BSc Mechanical Eng,3,"Art, AI"
+S0577,Dasun Ranasinghe,UoM (Moratuwa),Engineering,BSc Electrical Eng,2,"Photography, Art"
+S0578,Kavindu Kumara,UoR (Ruhuna),Management,BSc Accounting,2,Networking
+S0579,Nayana Weerasinghe,UoK (Kelaniya),Management,BSc Human Resource Mgt,2,Volunteering
+S0580,Sandun Fernando,UoK (Kelaniya),Engineering,BSc Mechanical Eng,4,"Art, Cricket, Music"
+S0581,Nethmi Karunaratne,UCSC,Arts,BA English,3,"Art, Networking"
+S0582,Chamara Silva,UoJ (Jaffna),Management,BSc Business Administration,4,"Robotics, Networking"
+S0583,Nimesha De Silva,UCSC,Management,BSc Human Resource Mgt,4,"Art, Debate, Cricket"
+S0584,Dinesh Wickramasinghe,UCSC,Science,BSc Chemistry Special,1,Photography
+S0585,Sashika Dissanayake,UoJ (Jaffna),Science,BSc Biological Science,3,AI
+S0586,Sachini Ratnayake,UoR (Ruhuna),Management,BSc Human Resource Mgt,4,"Cricket, Gaming"
+S0587,Nimanthi Bandara,SJP (Japura),Science,BSc Biological Science,2,"Gaming, Cricket"
+S0588,Sachini Wickramasinghe,UoJ (Jaffna),Computing,BSc Information Systems,2,AI
+S0589,Hiruni Karunaratne,Wayamba,Engineering,BSc Mechanical Eng,2,Cricket
+S0590,Sewwandi Samarasinghe,UoR (Ruhuna),Arts,BA Mass Media,1,"Business, Volunteering"
+S0591,Sashika Karunaratne,UoP (Peradeniya),Management,BSc Business Administration,1,Robotics
+S0592,Sewwandi Ranasinghe,UoR (Ruhuna),Management,BSc Human Resource Mgt,3,"Art, Volunteering"
+S0593,Nadeesha Ratnayake,SJP (Japura),Science,BSc Physical Science,2,Art
+S0594,Nuwan Wickramasinghe,UoR (Ruhuna),Science,BSc Biological Science,3,"AI, Gaming, Photography"
+S0595,Oshadi Liyanage,UoP (Peradeniya),Management,BSc Human Resource Mgt,4,Photography
+S0596,Nethmi Siriwardena,UoP (Peradeniya),Computing,BSc Computer Science,3,"Robotics, Art"
+S0597,Ashani Jayasinghe,SJP (Japura),Science,BSc Chemistry Special,4,"Gaming, Art"
+S0598,Nayana Balasuriya,UoP (Peradeniya),Management,BSc Business Administration,3,Cricket
+S0599,Dasun Karunaratne,UoP (Peradeniya),Computing,BSc Computer Science,1,"Music, Volunteering"
+S0600,Saman Fernando,UoM (Moratuwa),Computing,BSc Software Engineering,4,Business
+S0601,Chamara Jayasinghe,UoK (Kelaniya),Science,BSc Physical Science,2,"Business, Gaming, Cricket"
+S0602,Madushani Weerasinghe,UoR (Ruhuna),Computing,BSc Computer Science,4,"Gaming, Volunteering"
+S0603,Sachini Jayasinghe,Wayamba,Engineering,BSc Mechanical Eng,3,"Volunteering, Photography, Networking"
+S0604,Heshan Senanayake,UoK (Kelaniya),Science,BSc Biological Science,4,Gaming
+S0605,Harshani Bandara,UoJ (Jaffna),Science,BSc Physical Science,3,Coding
+S0606,Kamal Liyanage,UCSC,Science,BSc Biological Science,3,"Gaming, Volunteering, Business"
+S0607,Sewwandi Liyanage,UCSC,Arts,BA English,4,"Art, Robotics, Debate"
+S0608,Nuwan Liyanage,SJP (Japura),Engineering,BSc Mechanical Eng,2,"Robotics, Business"
+S0609,Kavindu Liyanage,UoJ (Jaffna),Arts,BA Mass Media,2,"Photography, AI"
+S0610,Nimesha Munasinghe,UoP (Peradeniya),Computing,BSc Computer Science,4,"Music, Photography"
+S0611,Nimal Bandara,Wayamba,Science,BSc Chemistry Special,1,Art
+S0612,Kavindu Bandara,UoP (Peradeniya),Arts,BA English,4,Business
+S0613,Hansani Ratnayake,UoM (Moratuwa),Computing,BSc Computer Science,3,Coding
+S0614,Oshadi Fernando,Wayamba,Management,BSc Accounting,2,"Gaming, Coding"
+S0615,Piumi Kumara,SJP (Japura),Computing,BSc Software Engineering,2,AI
+S0616,Nayana Wickramasinghe,UCSC,Science,BSc Biological Science,4,Volunteering
+S0617,Harshani Balasuriya,UoK (Kelaniya),Engineering,BSc Civil Eng,2,"Volunteering, Music"
+S0618,Sunil Ranasinghe,UoJ (Jaffna),Management,BSc Accounting,1,"Cricket, Photography"
+S0619,Kasun Balasuriya,UoJ (Jaffna),Science,BSc Biological Science,2,Art
+S0620,Kavindu Samarasinghe,SJP (Japura),Computing,BSc Computer Science,1,"Coding, Cricket"
+S0621,Piumi Munasinghe,UCSC,Management,BSc Business Administration,2,Networking
+S0622,Nuwan Balasuriya,UoK (Kelaniya),Science,BSc Physical Science,3,Gaming
+S0623,Chamara Karunaratne,UoR (Ruhuna),Computing,BSc Computer Science,2,"Cricket, AI, Music"
+S0624,Nimal Wickramasinghe,UoR (Ruhuna),Science,BSc Chemistry Special,3,"Volunteering, Robotics"
+S0625,Sewwandi Rajapaksha,UCSC,Engineering,BSc Electrical Eng,4,"Volunteering, Gaming"
+S0626,Kavindu Munasinghe,UoR (Ruhuna),Engineering,BSc Mechanical Eng,2,"Volunteering, Gaming"
+S0627,Madushani Senanayake,UoP (Peradeniya),Computing,BSc Information Systems,4,"Business, Volunteering"
+S0628,Kavindi Munasinghe,SJP (Japura),Computing,BSc Information Systems,2,"Cricket, Coding, Networking"
+S0629,Harshani Balasuriya,UoM (Moratuwa),Science,BSc Chemistry Special,4,"AI, Debate, Robotics"
+S0630,Nethmi De Silva,UoJ (Jaffna),Arts,BA English,1,"Debate, Photography"
+S0631,Gayan Silva,UoM (Moratuwa),Arts,BA Mass Media,2,Cricket
+S0632,Nimanthi Siriwardena,UoK (Kelaniya),Computing,BSc Software Engineering,4,Coding
+S0633,Ruwan Munasinghe,UoJ (Jaffna),Management,BSc Human Resource Mgt,1,Art
+S0634,Kasun Senanayake,Wayamba,Computing,BSc Computer Science,4,Gaming
+S0635,Dasun Rajapaksha,UCSC,Science,BSc Chemistry Special,1,"Business, AI, Coding"
+S0636,Tharindu Ratnayake,UoM (Moratuwa),Engineering,BSc Civil Eng,2,"Robotics, AI, Debate"
+S0637,Lahiru Siriwardena,UoP (Peradeniya),Arts,BA Mass Media,3,"Volunteering, AI, Debate"
+S0638,Gayan Ranasinghe,SJP (Japura),Management,BSc Human Resource Mgt,4,Cricket
+S0639,Nethmi Ranasinghe,UoP (Peradeniya),Arts,BA Economics,3,"Networking, Gaming, Art"
+S0640,Nimanthi Ranasinghe,SJP (Japura),Science,BSc Biological Science,2,"Art, Networking, Robotics"
+S0641,Sandali Perera,UoJ (Jaffna),Management,BSc Human Resource Mgt,1,"Gaming, Volunteering"
+S0642,Heshan Dissanayake,UCSC,Science,BSc Chemistry Special,2,"Cricket, Business, Coding"
+S0643,Nimanthi Bandara,UoJ (Jaffna),Science,BSc Physical Science,1,"AI, Volunteering, Networking"
+S0644,Sashika Senanayake,UoR (Ruhuna),Computing,BSc Software Engineering,2,Cricket
+S0645,Sandali Samarasinghe,UoJ (Jaffna),Engineering,BSc Electrical Eng,2,Networking
+S0646,Nimanthi De Silva,UoR (Ruhuna),Computing,BSc Information Systems,3,"Cricket, Gaming"
+S0647,Oshadi Senanayake,SJP (Japura),Computing,BSc Information Systems,4,Coding
+S0648,Dinithi Silva,UoK (Kelaniya),Management,BSc Business Administration,3,"Photography, Networking, Coding"
+S0649,Dilani Dissanayake,UoR (Ruhuna),Arts,BA English,2,"Networking, Cricket, Art"
+S0650,Dilani Fernando,SJP (Japura),Computing,BSc Information Systems,2,"Networking, Volunteering"
+S0651,Oshadi Fernando,SJP (Japura),Management,BSc Accounting,4,Cricket
+S0652,Sandali Jayasinghe,UCSC,Arts,BA Mass Media,4,"Debate, Business, Music"
+S0653,Nimanthi Ratnayake,Wayamba,Engineering,BSc Mechanical Eng,2,"Robotics, Gaming, Debate"
+S0654,Nimanthi Fernando,UoJ (Jaffna),Engineering,BSc Civil Eng,1,"Art, Photography"
+S0655,Tharushi Munasinghe,UoR (Ruhuna),Management,BSc Accounting,1,"Robotics, Art"
+S0656,Upeka Silva,UoR (Ruhuna),Science,BSc Physical Science,2,"Gaming, Networking, Cricket"
+S0657,Nayana Munasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,2,"Music, Volunteering, Coding"
+S0658,Piumi Perera,UoR (Ruhuna),Science,BSc Physical Science,3,"Music, Business, Gaming"
+S0659,Piumi Munasinghe,UoK (Kelaniya),Engineering,BSc Mechanical Eng,2,"AI, Business, Volunteering"
+S0660,Malith Ratnayake,UCSC,Computing,BSc Software Engineering,3,"Cricket, Coding"
+S0661,Kavindu Balasuriya,UCSC,Computing,BSc Software Engineering,3,Debate
+S0662,Dilani De Silva,UoJ (Jaffna),Computing,BSc Computer Science,3,"Debate, Robotics, Volunteering"
+S0663,Dilani Gunawardena,UoM (Moratuwa),Management,BSc Human Resource Mgt,1,Robotics
+S0664,Amila Perera,UoJ (Jaffna),Computing,BSc Computer Science,3,"Gaming, Debate"
+S0665,Kavindu Silva,UoJ (Jaffna),Science,BSc Biological Science,3,AI
+S0666,Oshadi Wickramasinghe,UoJ (Jaffna),Management,BSc Business Administration,2,Cricket
+S0667,Hiruni Dissanayake,SJP (Japura),Computing,BSc Information Systems,2,"Photography, Networking, Robotics"
+S0668,Dinesh Siriwardena,UoR (Ruhuna),Management,BSc Accounting,2,"AI, Cricket"
+S0669,Harshani Bandara,UoK (Kelaniya),Arts,BA Mass Media,4,Business
+S0670,Madushani De Silva,UoR (Ruhuna),Engineering,BSc Mechanical Eng,2,AI
+S0671,Heshan Gunawardena,UCSC,Science,BSc Physical Science,3,"Debate, Volunteering"
+S0672,Nimal Munasinghe,UoM (Moratuwa),Engineering,BSc Mechanical Eng,3,Cricket
+S0673,Tharushi Fernando,UoK (Kelaniya),Arts,BA Mass Media,4,"Robotics, Volunteering, Coding"
+S0674,Hansani Karunaratne,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,2,Debate
+S0675,Kamal Weerasinghe,UoK (Kelaniya),Engineering,BSc Mechanical Eng,4,Debate
+S0676,Upeka Munasinghe,UoK (Kelaniya),Engineering,BSc Mechanical Eng,4,Cricket
+S0677,Nadeesha Wickramasinghe,UoK (Kelaniya),Science,BSc Biological Science,3,"Debate, Coding"
+S0678,Sunil Dissanayake,UCSC,Management,BSc Human Resource Mgt,4,"Music, Gaming, Photography"
+S0679,Malith Gunawardena,SJP (Japura),Computing,BSc Information Systems,4,"Photography, Coding, Robotics"
+S0680,Malith Munasinghe,Wayamba,Science,BSc Biological Science,1,Debate
+S0681,Sandun Kumara,Wayamba,Arts,BA English,2,"Gaming, Music, AI"
+S0682,Nimesha Samarasinghe,UoR (Ruhuna),Management,BSc Accounting,2,"Coding, Cricket"
+S0683,Amila De Silva,UoJ (Jaffna),Management,BSc Business Administration,1,"Volunteering, Photography"
+S0684,Dinithi Jayasinghe,Wayamba,Computing,BSc Information Systems,2,"Art, Music, AI"
+S0685,Oshadi Samarasinghe,SJP (Japura),Management,BSc Human Resource Mgt,2,Cricket
+S0686,Heshan Gunawardena,UoP (Peradeniya),Engineering,BSc Mechanical Eng,3,"Coding, Debate, Business"
+S0687,Sashika Perera,UoP (Peradeniya),Engineering,BSc Civil Eng,4,Coding
+S0688,Ashani Balasuriya,UCSC,Management,BSc Accounting,4,"Gaming, Robotics, Photography"
+S0689,Nadeesha Perera,Wayamba,Management,BSc Accounting,2,Networking
+S0690,Saman Silva,UoK (Kelaniya),Arts,BA Economics,3,Cricket
+S0691,Oshadi Fernando,UCSC,Computing,BSc Computer Science,1,"Networking, Volunteering, Business"
+S0692,Malith Munasinghe,UoP (Peradeniya),Computing,BSc Software Engineering,2,Photography
+S0693,Heshan Jayawardena,UoR (Ruhuna),Management,BSc Human Resource Mgt,3,Music
+S0694,Chamara De Silva,SJP (Japura),Management,BSc Business Administration,3,"Music, Business, Gaming"
+S0695,Kasun De Silva,SJP (Japura),Science,BSc Chemistry Special,1,"Robotics, Volunteering, Networking"
+S0696,Sashika Jayasinghe,UoJ (Jaffna),Management,BSc Human Resource Mgt,3,"Networking, Art"
+S0697,Ruwan Rajapaksha,Wayamba,Engineering,BSc Electronic & Telecom,2,"Cricket, Networking"
+S0698,Dinesh Munasinghe,UCSC,Computing,BSc Computer Science,4,"Photography, Music"
+S0699,Dinesh Perera,UoR (Ruhuna),Management,BSc Business Administration,2,"AI, Photography"
+S0700,Sewwandi Jayawardena,UoM (Moratuwa),Science,BSc Biological Science,1,"Business, AI"
+S0701,Nimal Kumara,UoR (Ruhuna),Computing,BSc Information Systems,2,"Debate, Networking"
+S0702,Chamara Karunaratne,Wayamba,Science,BSc Biological Science,2,"Coding, Photography"
+S0703,Harshani Rajapaksha,UoR (Ruhuna),Management,BSc Human Resource Mgt,3,"Debate, Coding"
+S0704,Oshadi Senanayake,UCSC,Arts,BA Mass Media,1,Networking
+S0705,Madushani Kumara,UCSC,Engineering,BSc Electrical Eng,4,"Debate, Photography"
+S0706,Hiruni Fernando,UoJ (Jaffna),Engineering,BSc Civil Eng,4,"Art, Coding, Business"
+S0707,Heshan Kumara,Wayamba,Engineering,BSc Electrical Eng,1,"Robotics, AI"
+S0708,Dilani Perera,UoK (Kelaniya),Science,BSc Physical Science,4,Gaming
+S0709,Heshan Jayawardena,UoK (Kelaniya),Arts,BA English,2,"Gaming, AI"
+S0710,Sunil Gunawardena,UoP (Peradeniya),Computing,BSc Information Systems,4,Volunteering
+S0711,Nadeesha Fernando,UCSC,Arts,BA English,3,"Coding, Photography"
+S0712,Nimanthi Rajapaksha,UoM (Moratuwa),Management,BSc Business Administration,2,"Photography, Business, Coding"
+S0713,Nethmi Gunawardena,UoK (Kelaniya),Science,BSc Physical Science,1,"Business, AI"
+S0714,Sewwandi Jayasinghe,UoP (Peradeniya),Science,BSc Physical Science,1,"Music, Coding"
+S0715,Nimanthi Dissanayake,UoR (Ruhuna),Engineering,BSc Electrical Eng,2,"Cricket, Business"
+S0716,Nimal Karunaratne,UoR (Ruhuna),Computing,BSc Software Engineering,1,"Gaming, Coding, Cricket"
+S0717,Sandali Kumara,UCSC,Computing,BSc Software Engineering,4,Debate
+S0718,Madushani Fernando,UoJ (Jaffna),Arts,BA Economics,4,"Robotics, Photography"
+S0719,Heshan Balasuriya,UoM (Moratuwa),Arts,BA English,4,"Gaming, Music, Volunteering"
+S0720,Sashika Senanayake,UoK (Kelaniya),Management,BSc Business Administration,4,Networking
+S0721,Dasun Karunaratne,UoR (Ruhuna),Engineering,BSc Electrical Eng,1,"Gaming, Coding"
+S0722,Tharushi Munasinghe,Wayamba,Science,BSc Biological Science,2,Business
+S0723,Dasun Rajapaksha,SJP (Japura),Arts,BA English,4,"Music, Art, AI"
+S0724,Nayana Ranasinghe,SJP (Japura),Management,BSc Human Resource Mgt,2,Networking
+S0725,Sachini Liyanage,UoM (Moratuwa),Management,BSc Accounting,3,"Robotics, Networking"
+S0726,Dasun Samarasinghe,UoK (Kelaniya),Arts,BA Mass Media,4,Photography
+S0727,Upeka Kumara,Wayamba,Computing,BSc Information Systems,3,"AI, Music"
+S0728,Hansani Siriwardena,UoM (Moratuwa),Management,BSc Business Administration,1,"Networking, Debate, Art"
+S0729,Saman Gunawardena,UoP (Peradeniya),Computing,BSc Computer Science,3,"Photography, Coding, Cricket"
+S0730,Nethmi Rajapaksha,Wayamba,Management,BSc Human Resource Mgt,3,Robotics
+S0731,Kamal Munasinghe,UoR (Ruhuna),Management,BSc Human Resource Mgt,4,Networking
+S0732,Kamal Ranasinghe,UCSC,Engineering,BSc Electrical Eng,3,"AI, Coding"
+S0733,Ashani Wickramasinghe,UCSC,Computing,BSc Software Engineering,3,Debate
+S0734,Gayan Karunaratne,SJP (Japura),Management,BSc Accounting,2,"AI, Robotics"
+S0735,Chamara Bandara,UoR (Ruhuna),Engineering,BSc Electronic & Telecom,1,"Cricket, Business"
+S0736,Hansani Balasuriya,UCSC,Computing,BSc Information Systems,4,Volunteering
+S0737,Sachini Munasinghe,UoP (Peradeniya),Engineering,BSc Civil Eng,2,"Debate, Gaming, Networking"
+S0738,Ruwan Kumara,SJP (Japura),Management,BSc Human Resource Mgt,4,"Gaming, Debate, Art"
+S0739,Hiruni Ranasinghe,Wayamba,Arts,BA English,3,"Robotics, AI, Business"
+S0740,Piumi Fernando,Wayamba,Computing,BSc Computer Science,2,"Art, Music, Networking"
+S0741,Nuwan Dissanayake,Wayamba,Arts,BA Economics,4,"Music, AI, Networking"
+S0742,Kamal Karunaratne,UoJ (Jaffna),Computing,BSc Information Systems,4,"Coding, Art, AI"
+S0743,Malith Kumara,UoR (Ruhuna),Arts,BA Economics,1,"Art, Business"
+S0744,Piumi Samarasinghe,UoJ (Jaffna),Arts,BA Mass Media,2,"Networking, Business, Coding"
+S0745,Hansani Fernando,UoJ (Jaffna),Arts,BA English,2,"Networking, Coding, Business"
+S0746,Kavindu Weerasinghe,UoJ (Jaffna),Arts,BA English,3,"Cricket, Networking"
+S0747,Upeka Senanayake,UoM (Moratuwa),Computing,BSc Information Systems,2,"Cricket, Networking, Volunteering"
+S0748,Sunil Jayawardena,UoK (Kelaniya),Science,BSc Chemistry Special,1,"Cricket, AI"
+S0749,Upeka Siriwardena,Wayamba,Engineering,BSc Mechanical Eng,2,"Debate, Robotics"
+S0750,Amila Gunawardena,UCSC,Engineering,BSc Electrical Eng,4,"Business, Music, Coding"
+S0751,Dinithi Karunaratne,Wayamba,Management,BSc Accounting,3,"AI, Robotics, Debate"
+S0752,Nethmi Jayasinghe,UCSC,Engineering,BSc Electronic & Telecom,1,"Gaming, Debate"
+S0753,Kavindu Jayawardena,UoR (Ruhuna),Computing,BSc Information Systems,3,"Networking, Photography"
+S0754,Nayana Balasuriya,UoJ (Jaffna),Science,BSc Physical Science,2,"Networking, Debate, Gaming"
+S0755,Kamal Fernando,UoP (Peradeniya),Arts,BA Economics,1,"AI, Coding"
+S0756,Malith Weerasinghe,UoM (Moratuwa),Management,BSc Business Administration,2,"Gaming, Art, Robotics"
+S0757,Dinesh Munasinghe,UoM (Moratuwa),Computing,BSc Computer Science,1,Networking
+S0758,Nimanthi Kumara,UoP (Peradeniya),Computing,BSc Computer Science,1,"Photography, Volunteering"
+S0759,Nimesha Weerasinghe,UoJ (Jaffna),Engineering,BSc Electrical Eng,4,"Photography, Music"
+S0760,Kasun Wickramasinghe,UoP (Peradeniya),Science,BSc Biological Science,4,Business
+S0761,Dasun Karunaratne,UoJ (Jaffna),Science,BSc Physical Science,2,"Cricket, Gaming"
+S0762,Madushani Liyanage,UoP (Peradeniya),Arts,BA Economics,2,"Gaming, Music, Cricket"
+S0763,Lahiru Silva,UoM (Moratuwa),Arts,BA Mass Media,1,"Volunteering, Business"
+S0764,Saman Siriwardena,UoJ (Jaffna),Computing,BSc Information Systems,1,"Coding, Gaming"
+S0765,Sandali Samarasinghe,SJP (Japura),Computing,BSc Information Systems,1,"Cricket, Art"
+S0766,Dasun Ranasinghe,Wayamba,Arts,BA Mass Media,2,"Debate, Volunteering"
+S0767,Madushani Senanayake,Wayamba,Computing,BSc Software Engineering,3,Networking
+S0768,Madushani Jayawardena,UCSC,Science,BSc Biological Science,1,"Photography, Music, Art"
+S0769,Sunil Wickramasinghe,UoK (Kelaniya),Management,BSc Accounting,2,AI
+S0770,Tharushi Karunaratne,SJP (Japura),Science,BSc Chemistry Special,1,Photography
+S0771,Tharindu Perera,UoK (Kelaniya),Management,BSc Human Resource Mgt,2,Coding
+S0772,Madushani Gunawardena,UoM (Moratuwa),Management,BSc Accounting,1,"Photography, Business, Gaming"
+S0773,Sandali De Silva,UCSC,Computing,BSc Software Engineering,2,"Volunteering, Coding"
+S0774,Sunil Bandara,UoP (Peradeniya),Arts,BA Economics,4,"Networking, Robotics, Music"
+S0775,Chamara Perera,UCSC,Computing,BSc Software Engineering,2,Volunteering
+S0776,Ashani Fernando,UoM (Moratuwa),Computing,BSc Software Engineering,1,"Networking, Cricket"
+S0777,Sachini Jayawardena,UoK (Kelaniya),Computing,BSc Software Engineering,4,Robotics
+S0778,Ashani Kumara,UoP (Peradeniya),Science,BSc Physical Science,3,"Robotics, Coding"
+S0779,Amila Senanayake,UoJ (Jaffna),Computing,BSc Computer Science,2,Debate
+S0780,Dinithi Kumara,UCSC,Management,BSc Business Administration,1,Music
+S0781,Nuwan Siriwardena,UCSC,Management,BSc Business Administration,3,Cricket
+S0782,Kavindu Jayasinghe,Wayamba,Management,BSc Human Resource Mgt,4,"Cricket, Robotics, Volunteering"
+S0783,Gayan Karunaratne,UoP (Peradeniya),Management,BSc Business Administration,1,"Volunteering, Coding, Networking"
+S0784,Nayana Ratnayake,SJP (Japura),Science,BSc Biological Science,1,AI
+S0785,Dinesh Weerasinghe,UoR (Ruhuna),Arts,BA English,1,"AI, Robotics, Gaming"
+S0786,Amila Balasuriya,UoP (Peradeniya),Engineering,BSc Civil Eng,1,"Gaming, Volunteering, Cricket"
+S0787,Sashika Jayawardena,UoR (Ruhuna),Computing,BSc Information Systems,4,"Robotics, Debate"
+S0788,Hansani Jayasinghe,UCSC,Computing,BSc Computer Science,1,"Cricket, Volunteering, Coding"
+S0789,Tharindu Balasuriya,Wayamba,Computing,BSc Computer Science,3,"Networking, Art, Debate"
+S0790,Nayana Liyanage,UoR (Ruhuna),Engineering,BSc Civil Eng,2,Music
+S0791,Kasun Liyanage,UoM (Moratuwa),Management,BSc Business Administration,2,"Networking, Gaming"
+S0792,Nimesha Ratnayake,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,3,"Art, Cricket"
+S0793,Nimanthi Silva,UoR (Ruhuna),Science,BSc Physical Science,3,Coding
+S0794,Oshadi Dissanayake,Wayamba,Engineering,BSc Civil Eng,3,"Debate, Cricket"
+S0795,Hiruni Jayasinghe,UoP (Peradeniya),Arts,BA English,4,"AI, Robotics, Music"
+S0796,Nayana Dissanayake,Wayamba,Engineering,BSc Electronic & Telecom,3,"Coding, Debate"
+S0797,Hiruni Silva,UoK (Kelaniya),Management,BSc Human Resource Mgt,1,"Cricket, Networking, Coding"
+S0798,Piumi De Silva,UCSC,Management,BSc Human Resource Mgt,4,"AI, Debate"
+S0799,Chamara Senanayake,UoM (Moratuwa),Management,BSc Business Administration,3,"Coding, Debate, Robotics"
+S0800,Amila Gunawardena,UCSC,Engineering,BSc Civil Eng,1,"Photography, Business"
+S0801,Nimesha Siriwardena,UoP (Peradeniya),Management,BSc Accounting,1,"Debate, Cricket, Art"
+S0802,Kavindu Munasinghe,UoR (Ruhuna),Computing,BSc Software Engineering,2,"Coding, Business, Debate"
+S0803,Kasun De Silva,UoR (Ruhuna),Computing,BSc Information Systems,4,"Coding, AI, Art"
+S0804,Sewwandi Fernando,UCSC,Science,BSc Biological Science,2,"Art, Cricket"
+S0805,Ashani Ratnayake,UoK (Kelaniya),Engineering,BSc Electrical Eng,2,"Music, Photography, Gaming"
+S0806,Kasun Fernando,UoJ (Jaffna),Science,BSc Biological Science,3,"Photography, Debate, Business"
+S0807,Madushani Balasuriya,Wayamba,Science,BSc Biological Science,3,"AI, Music, Gaming"
+S0808,Nimesha Fernando,UoR (Ruhuna),Management,BSc Human Resource Mgt,1,"Volunteering, Music, Robotics"
+S0809,Amila Weerasinghe,UoJ (Jaffna),Management,BSc Business Administration,1,Music
+S0810,Nimal Rajapaksha,UoP (Peradeniya),Engineering,BSc Electronic & Telecom,4,AI
+S0811,Nimal Rajapaksha,Wayamba,Arts,BA English,2,"Debate, Gaming"
+S0812,Ashani Jayawardena,UoK (Kelaniya),Computing,BSc Computer Science,3,"Photography, Art, Debate"
+S0813,Chamara Rajapaksha,Wayamba,Management,BSc Human Resource Mgt,2,"Business, Networking"
+S0814,Saman Senanayake,Wayamba,Science,BSc Physical Science,3,"Business, Coding"
+S0815,Gayan Balasuriya,UoP (Peradeniya),Management,BSc Business Administration,2,"AI, Business, Cricket"
+S0816,Nimanthi Bandara,UoM (Moratuwa),Engineering,BSc Mechanical Eng,4,Art
+S0817,Sunil Balasuriya,UoP (Peradeniya),Science,BSc Biological Science,3,AI
+S0818,Madushani Rajapaksha,UoR (Ruhuna),Science,BSc Physical Science,1,"AI, Cricket"
+S0819,Nethmi Bandara,Wayamba,Computing,BSc Software Engineering,1,Gaming
+S0820,Malith Samarasinghe,UoR (Ruhuna),Arts,BA Mass Media,2,"Volunteering, Business, Gaming"
+S0821,Piumi Silva,Wayamba,Arts,BA Mass Media,2,"Volunteering, Music"
+S0822,Ruwan Gunawardena,UoJ (Jaffna),Arts,BA English,3,Debate
+S0823,Harshani Dissanayake,UCSC,Computing,BSc Software Engineering,3,"Photography, Robotics, Networking"
+S0824,Dilani Wickramasinghe,UoM (Moratuwa),Engineering,BSc Civil Eng,2,"Gaming, Photography, Music"
+S0825,Sachini Senanayake,UCSC,Management,BSc Accounting,4,"Art, Debate, Cricket"
+S0826,Upeka Ranasinghe,UoJ (Jaffna),Science,BSc Physical Science,1,"Art, Business"
+S0827,Sachini Liyanage,SJP (Japura),Engineering,BSc Electronic & Telecom,2,"Business, Cricket"
+S0828,Heshan Karunaratne,UoM (Moratuwa),Arts,BA Mass Media,3,Robotics
+S0829,Hiruni Siriwardena,SJP (Japura),Computing,BSc Information Systems,3,Coding
+S0830,Gayan Wickramasinghe,Wayamba,Management,BSc Business Administration,3,"Networking, Cricket, Robotics"
+S0831,Hansani Ranasinghe,UCSC,Arts,BA Economics,4,"Networking, Business"
+S0832,Heshan Siriwardena,UCSC,Engineering,BSc Civil Eng,4,Business
+S0833,Nayana Perera,UoJ (Jaffna),Computing,BSc Information Systems,1,"Cricket, Gaming"
+S0834,Piumi Samarasinghe,UoM (Moratuwa),Science,BSc Biological Science,4,"Volunteering, Art, Networking"
+S0835,Nimanthi Perera,Wayamba,Science,BSc Chemistry Special,3,"Music, Art, AI"
+S0836,Tharushi Kumara,UoP (Peradeniya),Engineering,BSc Civil Eng,1,"Gaming, Cricket"
+S0837,Malith Jayasinghe,SJP (Japura),Science,BSc Biological Science,1,"Art, Coding, Business"
+S0838,Amila Ranasinghe,UoP (Peradeniya),Arts,BA English,3,Networking
+S0839,Lahiru Ranasinghe,UoJ (Jaffna),Science,BSc Chemistry Special,3,"Photography, Art"
+S0840,Hiruni Jayawardena,UoP (Peradeniya),Engineering,BSc Civil Eng,2,"Business, Art, Gaming"
+S0841,Harshani Ranasinghe,UoP (Peradeniya),Computing,BSc Computer Science,1,"Robotics, Volunteering, AI"
+S0842,Nimal Karunaratne,UoM (Moratuwa),Management,BSc Accounting,3,Cricket
+S0843,Nadeesha Jayasinghe,UoR (Ruhuna),Science,BSc Chemistry Special,3,Gaming
+S0844,Saman Dissanayake,UCSC,Engineering,BSc Electrical Eng,3,"Music, Robotics, Cricket"
+S0845,Sandun Fernando,UoP (Peradeniya),Engineering,BSc Mechanical Eng,1,Debate
+S0846,Sunil Balasuriya,UCSC,Management,BSc Accounting,1,Music
+S0847,Heshan Balasuriya,UoJ (Jaffna),Management,BSc Business Administration,1,Music
+S0848,Nimal Fernando,UoK (Kelaniya),Computing,BSc Computer Science,2,"Robotics, Cricket, Art"
+S0849,Nayana Jayasinghe,UoR (Ruhuna),Science,BSc Chemistry Special,1,"Cricket, AI"
+S0850,Amila Ranasinghe,UCSC,Computing,BSc Information Systems,1,"Robotics, Volunteering, Business"
+S0851,Gayan Gunawardena,Wayamba,Computing,BSc Computer Science,1,"Volunteering, Networking"
+S0852,Ruwan Liyanage,SJP (Japura),Engineering,BSc Electrical Eng,1,"Robotics, AI"
+S0853,Chamara Karunaratne,Wayamba,Science,BSc Physical Science,3,AI
+S0854,Hansani De Silva,UCSC,Science,BSc Chemistry Special,4,Art
+S0855,Hiruni Rajapaksha,UoJ (Jaffna),Science,BSc Biological Science,4,"Gaming, Robotics, AI"
+S0856,Hansani Balasuriya,Wayamba,Engineering,BSc Civil Eng,1,"Art, Cricket, Coding"
+S0857,Sandali Wickramasinghe,UoM (Moratuwa),Management,BSc Accounting,1,Cricket
+S0858,Tharindu Munasinghe,UoR (Ruhuna),Engineering,BSc Civil Eng,4,Art
+S0859,Ashani Weerasinghe,SJP (Japura),Computing,BSc Computer Science,4,"Gaming, Business, Networking"
+S0860,Saman Gunawardena,SJP (Japura),Science,BSc Biological Science,1,"AI, Business"
+S0861,Chamara Perera,Wayamba,Computing,BSc Software Engineering,1,"Robotics, Photography"
+S0862,Nadeesha Balasuriya,Wayamba,Computing,BSc Computer Science,3,"Coding, Cricket, Debate"
+S0863,Harshani Karunaratne,UoM (Moratuwa),Engineering,BSc Electrical Eng,4,Photography
+S0864,Madushani Jayawardena,Wayamba,Engineering,BSc Electrical Eng,1,"AI, Business"
+S0865,Dinithi Gunawardena,UoM (Moratuwa),Computing,BSc Software Engineering,4,"Gaming, Art"
+S0866,Hansani Liyanage,UoP (Peradeniya),Computing,BSc Computer Science,2,"Photography, Business, Cricket"
+S0867,Hansani Balasuriya,SJP (Japura),Science,BSc Chemistry Special,4,"Music, Networking"
+S0868,Hansani Samarasinghe,UoP (Peradeniya),Management,BSc Human Resource Mgt,4,"Coding, Debate, Business"
+S0869,Nimal Samarasinghe,UoR (Ruhuna),Arts,BA Mass Media,1,"Art, Coding"
+S0870,Dinithi De Silva,UoR (Ruhuna),Engineering,BSc Electrical Eng,4,"Networking, Coding, Art"
+S0871,Nayana Dissanayake,SJP (Japura),Science,BSc Biological Science,2,"Coding, Photography"
+S0872,Oshadi Kumara,UoM (Moratuwa),Science,BSc Chemistry Special,1,"Music, Business, Volunteering"
+S0873,Nimanthi Jayasinghe,UCSC,Arts,BA Economics,4,"Photography, Debate"
+S0874,Nimanthi Wickramasinghe,Wayamba,Science,BSc Physical Science,3,"Coding, Art, Debate"
+S0875,Dinesh Jayawardena,Wayamba,Arts,BA English,4,Volunteering
+S0876,Heshan Senanayake,UoR (Ruhuna),Arts,BA Mass Media,4,Networking
+S0877,Kasun Rajapaksha,UoM (Moratuwa),Engineering,BSc Electronic & Telecom,4,"Robotics, Business, Photography"
+S0878,Nimanthi Jayasinghe,UoM (Moratuwa),Engineering,BSc Civil Eng,4,"Art, Business, Music"
+S0879,Heshan Jayasinghe,UoR (Ruhuna),Management,BSc Business Administration,3,Photography
+S0880,Sandali Weerasinghe,UoR (Ruhuna),Management,BSc Human Resource Mgt,4,Debate
+S0881,Nimanthi Karunaratne,UCSC,Arts,BA English,2,"Volunteering, AI, Cricket"
+S0882,Harshani Ratnayake,SJP (Japura),Management,BSc Accounting,3,"Volunteering, Photography, Coding"
+S0883,Heshan Liyanage,UoK (Kelaniya),Management,BSc Business Administration,4,Volunteering
+S0884,Amila Weerasinghe,UoK (Kelaniya),Science,BSc Physical Science,2,"Business, Volunteering"
+S0885,Nimal Dissanayake,UoM (Moratuwa),Management,BSc Business Administration,3,Robotics
+S0886,Tharindu Kumara,SJP (Japura),Management,BSc Accounting,3,"Photography, Coding"
+S0887,Gayan Siriwardena,UoJ (Jaffna),Engineering,BSc Civil Eng,1,"Photography, AI"
+S0888,Nadeesha Rajapaksha,UCSC,Management,BSc Business Administration,1,Art
+S0889,Nayana De Silva,UoM (Moratuwa),Management,BSc Accounting,1,"Volunteering, Cricket"
+S0890,Nadeesha De Silva,UoJ (Jaffna),Arts,BA Mass Media,3,"Music, Robotics"
+S0891,Dinesh Bandara,SJP (Japura),Science,BSc Chemistry Special,1,"Volunteering, Robotics, Debate"
+S0892,Ashani Silva,UoJ (Jaffna),Engineering,BSc Mechanical Eng,4,"Debate, Business"
+S0893,Piumi Balasuriya,UoM (Moratuwa),Arts,BA Economics,2,"AI, Debate"
+S0894,Heshan Perera,UoR (Ruhuna),Science,BSc Physical Science,1,"Volunteering, Art"
+S0895,Heshan Siriwardena,UoK (Kelaniya),Computing,BSc Information Systems,3,"AI, Debate"
+S0896,Sandali Weerasinghe,UoK (Kelaniya),Computing,BSc Information Systems,3,"Debate, Coding"
+S0897,Upeka Siriwardena,UoJ (Jaffna),Computing,BSc Computer Science,3,Cricket
+S0898,Piumi Liyanage,UoJ (Jaffna),Management,BSc Business Administration,3,Gaming
+S0899,Tharushi Liyanage,UoP (Peradeniya),Management,BSc Business Administration,3,"Business, AI, Music"
+S0900,Gayan Siriwardena,UCSC,Management,BSc Human Resource Mgt,4,Photography
+S0901,Heshan Jayawardena,SJP (Japura),Engineering,BSc Civil Eng,1,Photography
+S0902,Nadeesha Balasuriya,UoK (Kelaniya),Computing,BSc Computer Science,4,"Volunteering, Photography, Cricket"
+S0903,Ashani Jayawardena,Wayamba,Science,BSc Biological Science,3,"Cricket, Business, Volunteering"
+S0904,Dinithi Samarasinghe,SJP (Japura),Engineering,BSc Civil Eng,2,"Cricket, Debate"
+S0905,Tharindu Weerasinghe,UoK (Kelaniya),Computing,BSc Computer Science,2,Gaming
+S0906,Kavindi Kumara,SJP (Japura),Computing,BSc Software Engineering,1,"Business, Cricket, Music"
+S0907,Sandun Dissanayake,SJP (Japura),Computing,BSc Information Systems,2,"Photography, Gaming"
+S0908,Sachini Ratnayake,UoJ (Jaffna),Engineering,BSc Electrical Eng,2,"Gaming, Debate, Cricket"
+S0909,Saman Perera,UoK (Kelaniya),Science,BSc Chemistry Special,3,"Cricket, Debate"
+S0910,Ashani Balasuriya,Wayamba,Science,BSc Physical Science,4,Art
+S0911,Sandali Balasuriya,Wayamba,Computing,BSc Computer Science,2,Art
+S0912,Lahiru Ranasinghe,SJP (Japura),Management,BSc Human Resource Mgt,1,"Networking, Business, Music"
+S0913,Nadeesha Silva,UoK (Kelaniya),Computing,BSc Software Engineering,1,"Art, Networking"
+S0914,Kavindi Bandara,SJP (Japura),Science,BSc Chemistry Special,1,"Debate, Photography"
+S0915,Hansani Jayawardena,UoJ (Jaffna),Arts,BA English,4,AI
+S0916,Sashika De Silva,UoR (Ruhuna),Engineering,BSc Civil Eng,3,"AI, Debate, Cricket"
+S0917,Sachini Rajapaksha,Wayamba,Computing,BSc Computer Science,3,"Volunteering, Art"
+S0918,Hansani Bandara,UoR (Ruhuna),Arts,BA Economics,4,"Cricket, Art"
+S0919,Gayan Silva,UoP (Peradeniya),Computing,BSc Computer Science,4,Robotics
+S0920,Sunil Gunawardena,Wayamba,Science,BSc Physical Science,3,"Music, Gaming"
+S0921,Sandun Senanayake,Wayamba,Arts,BA Economics,1,"Music, Cricket"
+S0922,Dilani Weerasinghe,UoP (Peradeniya),Engineering,BSc Electrical Eng,2,Volunteering
+S0923,Hansani Balasuriya,UoP (Peradeniya),Arts,BA English,1,"Music, Robotics"
+S0924,Kavindi Samarasinghe,UoJ (Jaffna),Science,BSc Physical Science,1,"Photography, Music, Debate"
+S0925,Piumi Gunawardena,UCSC,Science,BSc Physical Science,3,Gaming
+S0926,Upeka Jayawardena,UCSC,Arts,BA Mass Media,2,"Coding, Photography"
+S0927,Sewwandi Munasinghe,UoJ (Jaffna),Engineering,BSc Civil Eng,4,"Coding, Music"
+S0928,Sandali Fernando,UoJ (Jaffna),Computing,BSc Software Engineering,1,Robotics
+S0929,Saman De Silva,SJP (Japura),Engineering,BSc Mechanical Eng,3,"Business, Photography"
+S0930,Lahiru Senanayake,UoJ (Jaffna),Management,BSc Accounting,2,"Networking, Cricket, Art"
+S0931,Nadeesha Liyanage,SJP (Japura),Management,BSc Accounting,1,"Business, Networking"
+S0932,Nuwan Silva,UoP (Peradeniya),Management,BSc Accounting,3,"Photography, Debate"
+S0933,Harshani Siriwardena,UoK (Kelaniya),Management,BSc Human Resource Mgt,1,"Photography, Cricket, Gaming"
+S0934,Heshan Bandara,SJP (Japura),Science,BSc Biological Science,2,Gaming
+S0935,Sewwandi Fernando,SJP (Japura),Science,BSc Physical Science,1,"Networking, Coding"
+S0936,Nimanthi Weerasinghe,SJP (Japura),Arts,BA English,3,"Music, Gaming"
+S0937,Gayan Kumara,UoM (Moratuwa),Science,BSc Chemistry Special,4,"Coding, Music, Gaming"
+S0938,Nimesha Balasuriya,SJP (Japura),Computing,BSc Computer Science,4,"Business, Art, Networking"
+S0939,Gayan Fernando,UoR (Ruhuna),Arts,BA Economics,3,Robotics
+S0940,Sandun Perera,UCSC,Computing,BSc Software Engineering,2,Debate
+S0941,Heshan Munasinghe,SJP (Japura),Management,BSc Accounting,3,"Volunteering, Networking, Gaming"
+S0942,Kamal Ratnayake,UoM (Moratuwa),Management,BSc Accounting,1,Cricket
+S0943,Piumi Siriwardena,UoK (Kelaniya),Computing,BSc Information Systems,2,Robotics
+S0944,Nimesha Bandara,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,4,Business
+S0945,Upeka Karunaratne,UoM (Moratuwa),Management,BSc Business Administration,4,Cricket
+S0946,Nimanthi Wickramasinghe,UoK (Kelaniya),Computing,BSc Software Engineering,1,Business
+S0947,Hansani Samarasinghe,UoM (Moratuwa),Science,BSc Physical Science,3,"Volunteering, Debate, Photography"
+S0948,Hansani Dissanayake,SJP (Japura),Computing,BSc Software Engineering,1,"AI, Networking"
+S0949,Kavindu Siriwardena,SJP (Japura),Arts,BA English,4,"Art, AI, Music"
+S0950,Sachini Perera,Wayamba,Management,BSc Business Administration,2,"Photography, Art, Gaming"
+S0951,Ruwan Jayasinghe,UoK (Kelaniya),Science,BSc Chemistry Special,2,"Art, Gaming"
+S0952,Chamara Rajapaksha,UoR (Ruhuna),Arts,BA Mass Media,4,"Volunteering, Photography, Gaming"
+S0953,Dinesh Rajapaksha,UoR (Ruhuna),Management,BSc Human Resource Mgt,1,"Cricket, Networking"
+S0954,Nadeesha Karunaratne,UoP (Peradeniya),Management,BSc Business Administration,1,Cricket
+S0955,Sewwandi Silva,UoJ (Jaffna),Management,BSc Accounting,1,Robotics
+S0956,Sunil Fernando,UoR (Ruhuna),Science,BSc Biological Science,3,"Cricket, Volunteering, AI"
+S0957,Ruwan Karunaratne,UoK (Kelaniya),Management,BSc Business Administration,3,AI
+S0958,Nadeesha Balasuriya,UCSC,Science,BSc Biological Science,1,"Business, Cricket, AI"
+S0959,Lahiru Ranasinghe,Wayamba,Computing,BSc Software Engineering,1,Music
+S0960,Amila Rajapaksha,UoP (Peradeniya),Arts,BA English,4,"Music, Robotics, Art"
+S0961,Kavindi Jayawardena,UoM (Moratuwa),Arts,BA Economics,2,Photography
+S0962,Piumi Jayawardena,Wayamba,Computing,BSc Computer Science,3,"Coding, Robotics"
+S0963,Kavindi Siriwardena,UoM (Moratuwa),Arts,BA English,2,"Art, Debate"
+S0964,Hiruni Liyanage,UoK (Kelaniya),Engineering,BSc Electronic & Telecom,4,Debate
+S0965,Saman Perera,UoR (Ruhuna),Arts,BA Mass Media,1,Gaming
+S0966,Kasun Wickramasinghe,UoR (Ruhuna),Computing,BSc Software Engineering,1,"Cricket, Debate"
+S0967,Sewwandi Rajapaksha,UoJ (Jaffna),Engineering,BSc Civil Eng,3,"Debate, Photography"
+S0968,Upeka Siriwardena,UoJ (Jaffna),Science,BSc Physical Science,2,"Networking, Cricket, Debate"
+S0969,Tharindu Rajapaksha,Wayamba,Arts,BA Mass Media,1,"Art, Photography, Debate"
+S0970,Harshani Ranasinghe,UoR (Ruhuna),Computing,BSc Information Systems,3,"Volunteering, Cricket"
+S0971,Nimal Perera,UoJ (Jaffna),Engineering,BSc Civil Eng,3,"Art, Photography, Cricket"
+S0972,Sashika Siriwardena,SJP (Japura),Engineering,BSc Electrical Eng,3,"Music, Coding, Art"
+S0973,Kamal Gunawardena,UoM (Moratuwa),Computing,BSc Computer Science,3,"Business, Networking"
+S0974,Nimanthi Balasuriya,UoR (Ruhuna),Engineering,BSc Mechanical Eng,2,"Business, Photography"
+S0975,Harshani Samarasinghe,UoK (Kelaniya),Management,BSc Human Resource Mgt,2,Art
+S0976,Sachini Liyanage,UoM (Moratuwa),Science,BSc Biological Science,1,Volunteering
+S0977,Dinesh Gunawardena,SJP (Japura),Computing,BSc Computer Science,1,Gaming
+S0978,Sashika Samarasinghe,SJP (Japura),Science,BSc Chemistry Special,4,"AI, Volunteering, Debate"
+S0979,Dilani Bandara,Wayamba,Management,BSc Accounting,4,"Debate, Cricket, Photography"
+S0980,Sunil Kumara,UoM (Moratuwa),Management,BSc Business Administration,3,"Robotics, Gaming, Photography"
+S0981,Kavindi Samarasinghe,SJP (Japura),Computing,BSc Information Systems,3,Music
+S0982,Heshan Senanayake,UoP (Peradeniya),Computing,BSc Information Systems,3,Art
+S0983,Ashani Liyanage,UCSC,Science,BSc Biological Science,1,Cricket
+S0984,Hansani Perera,UoK (Kelaniya),Science,BSc Biological Science,1,Volunteering
+S0985,Piumi Samarasinghe,UoM (Moratuwa),Arts,BA Economics,3,Debate
+S0986,Chamara Bandara,UoR (Ruhuna),Arts,BA Economics,4,"Gaming, Networking"
+S0987,Nethmi Fernando,Wayamba,Management,BSc Human Resource Mgt,4,Volunteering
+S0988,Upeka Weerasinghe,SJP (Japura),Management,BSc Business Administration,1,"AI, Coding"
+S0989,Nuwan Ratnayake,UoJ (Jaffna),Engineering,BSc Civil Eng,1,"Photography, Music, AI"
+S0990,Sandun Balasuriya,UoK (Kelaniya),Arts,BA Mass Media,2,"AI, Coding"
+S0991,Ashani Gunawardena,UoK (Kelaniya),Computing,BSc Software Engineering,1,Volunteering
+S0992,Hansani Perera,UoR (Ruhuna),Arts,BA Mass Media,3,"Networking, Coding"
+S0993,Nethmi Wickramasinghe,SJP (Japura),Management,BSc Business Administration,3,AI
+S0994,Gayan Weerasinghe,UoM (Moratuwa),Computing,BSc Computer Science,1,"Cricket, Business, Volunteering"
+S0995,Nethmi Kumara,SJP (Japura),Engineering,BSc Electrical Eng,1,"Cricket, Coding, Networking"
+S0996,Saman Liyanage,SJP (Japura),Computing,BSc Software Engineering,3,Art
+S0997,Nayana Munasinghe,UoM (Moratuwa),Science,BSc Biological Science,2,Robotics
+S0998,Kasun Jayawardena,SJP (Japura),Management,BSc Human Resource Mgt,4,Business
+S0999,Ruwan Perera,UoM (Moratuwa),Arts,BA Economics,3,"Coding, Debate"
+S1000,Chamara Rajapaksha,UoM (Moratuwa),Arts,BA Mass Media,4,AI

@@ -1,0 +1,5001 @@
+student_id,event_id,attended,rating,feedback
+S0109,E112,1,2,The audio was really bad.
+S0925,E099,1,2,The audio was really bad.
+S0682,E122,1,2,Didn't learn anything.
+S0649,E126,1,3,"Nothing special, but not bad."
+S0955,E148,0,0,
+S0067,E088,1,4,Best event of the year!
+S0658,E144,1,2,Waste of time.
+S0266,E030,1,1,Terrible organization.
+S0092,E088,0,0,
+S0960,E049,1,5,Great speakers and organization.
+S0131,E081,1,5,Best event of the year!
+S0002,E080,1,5,Super informative and fun.
+S0195,E100,1,3,Average experience.
+S0817,E033,0,0,
+S0680,E057,1,4,The event was amazing!
+S0552,E118,1,2,The audio was really bad.
+S0858,E057,1,4,Really enjoyed it.
+S0616,E073,1,1,Didn't learn anything.
+S0328,E080,0,0,
+S0706,E032,1,5,Loved the vibe.
+S0647,E056,1,3,Decent event.
+S0061,E086,1,2,Waste of time.
+S0718,E014,1,4,Best event of the year!
+S0402,E077,1,1,Didn't learn anything.
+S0402,E087,1,4,Great speakers and organization.
+S0776,E101,1,1,Didn't learn anything.
+S0745,E073,1,2,Didn't learn anything.
+S0404,E025,1,3,Could be better organized.
+S0887,E014,1,4,Best event of the year!
+S0168,E148,1,4,Best event of the year!
+S0495,E075,1,2,Waste of time.
+S0824,E051,1,3,Could be better organized.
+S0105,E038,1,4,Best event of the year!
+S0862,E044,1,1,The audio was really bad.
+S0998,E122,1,1,Terrible organization.
+S0528,E087,0,0,
+S0445,E039,1,2,Terrible organization.
+S0122,E062,1,4,Great speakers and organization.
+S0705,E045,1,1,Very boring.
+S0886,E098,1,4,Great speakers and organization.
+S0012,E031,1,1,Terrible organization.
+S0501,E131,1,1,Didn't learn anything.
+S0587,E147,1,3,It was okay.
+S0814,E047,1,4,Best event of the year!
+S0720,E112,1,5,Really enjoyed it.
+S0102,E084,1,5,Really enjoyed it.
+S0416,E006,1,5,Super informative and fun.
+S0803,E136,1,1,Didn't learn anything.
+S0858,E150,0,0,
+S0731,E032,1,1,Waste of time.
+S0883,E047,1,5,Loved the vibe.
+S0820,E081,1,1,Waste of time.
+S0589,E053,1,1,Didn't learn anything.
+S0263,E009,1,1,Didn't learn anything.
+S0306,E094,0,0,
+S0176,E109,1,2,The audio was really bad.
+S0048,E133,1,5,Loved the vibe.
+S0144,E148,1,3,Could be better organized.
+S0933,E091,0,0,
+S0552,E131,1,1,Terrible organization.
+S0243,E010,1,2,The audio was really bad.
+S0877,E056,1,5,Super informative and fun.
+S0222,E092,1,2,Didn't learn anything.
+S0433,E020,0,0,
+S0262,E067,1,2,Very boring.
+S0468,E022,1,4,Best event of the year!
+S0147,E138,1,1,The audio was really bad.
+S0649,E050,1,5,Best event of the year!
+S0664,E131,0,0,
+S0168,E108,1,3,Decent event.
+S0389,E007,0,0,
+S0254,E020,1,1,Didn't learn anything.
+S0113,E141,1,1,The audio was really bad.
+S0656,E023,1,3,Average experience.
+S0150,E058,1,1,Terrible organization.
+S0387,E057,1,1,Terrible organization.
+S0180,E135,1,5,Loved the vibe.
+S0098,E136,1,5,Great speakers and organization.
+S0565,E070,0,0,
+S0102,E013,1,3,Decent event.
+S0186,E089,0,0,
+S0565,E104,1,5,Really enjoyed it.
+S0266,E003,0,0,
+S0731,E040,1,2,Very boring.
+S0582,E069,1,3,"Nothing special, but not bad."
+S0695,E108,1,2,Very boring.
+S0363,E120,0,0,
+S0294,E071,1,5,Best event of the year!
+S0903,E059,1,1,The audio was really bad.
+S0417,E081,1,1,Terrible organization.
+S0748,E062,1,2,Didn't learn anything.
+S0059,E022,1,5,Loved the vibe.
+S0828,E003,1,5,Best event of the year!
+S0140,E123,1,5,Best event of the year!
+S0694,E137,1,4,The event was amazing!
+S0632,E049,1,4,Best event of the year!
+S0548,E089,1,5,Best event of the year!
+S0624,E011,0,0,
+S0460,E044,0,0,
+S0926,E058,1,1,The audio was really bad.
+S0860,E035,0,0,
+S0362,E014,1,4,Loved the vibe.
+S0175,E096,1,3,"Nothing special, but not bad."
+S0852,E139,1,3,Average experience.
+S0495,E076,1,2,Terrible organization.
+S0756,E146,1,2,The audio was really bad.
+S0952,E132,1,4,Super informative and fun.
+S0869,E125,1,3,It was okay.
+S0631,E118,1,3,Average experience.
+S0110,E002,1,2,Very boring.
+S0364,E003,1,4,Loved the vibe.
+S0203,E022,0,0,
+S0527,E040,1,1,Very boring.
+S0008,E040,1,2,Very boring.
+S0405,E096,1,3,Decent event.
+S0914,E047,0,0,
+S0832,E069,1,4,Best event of the year!
+S0860,E113,1,2,The audio was really bad.
+S0766,E112,1,3,"Nothing special, but not bad."
+S0114,E049,1,1,Waste of time.
+S0405,E108,1,1,Waste of time.
+S0683,E051,1,3,It was okay.
+S0432,E126,0,0,
+S0508,E033,1,4,Super informative and fun.
+S0744,E100,1,1,Terrible organization.
+S0812,E006,1,2,The audio was really bad.
+S0513,E004,1,1,The audio was really bad.
+S0440,E003,1,4,Great speakers and organization.
+S0289,E125,1,4,Really enjoyed it.
+S0633,E040,0,0,
+S0192,E064,1,1,The audio was really bad.
+S0718,E064,1,2,Very boring.
+S0724,E027,0,0,
+S0626,E047,1,5,Best event of the year!
+S0650,E039,1,1,Waste of time.
+S0411,E010,1,2,Waste of time.
+S0437,E005,0,0,
+S0205,E024,1,4,Loved the vibe.
+S0538,E079,1,2,The audio was really bad.
+S0437,E123,1,5,Loved the vibe.
+S0660,E014,1,1,The audio was really bad.
+S0373,E072,1,4,Really enjoyed it.
+S0328,E013,1,1,Terrible organization.
+S0054,E083,1,3,Decent event.
+S0287,E026,1,2,The audio was really bad.
+S0972,E126,1,3,Average experience.
+S0115,E025,1,5,Really enjoyed it.
+S0340,E093,1,5,Super informative and fun.
+S0620,E096,1,3,"Nothing special, but not bad."
+S0599,E099,1,1,Waste of time.
+S0645,E031,1,5,Best event of the year!
+S0838,E049,1,4,The event was amazing!
+S0077,E140,0,0,
+S0352,E078,1,2,Didn't learn anything.
+S0739,E040,1,2,Waste of time.
+S0429,E141,1,5,Great speakers and organization.
+S0917,E094,1,1,Very boring.
+S0070,E124,1,5,Super informative and fun.
+S0810,E006,1,5,Great speakers and organization.
+S0714,E034,1,1,Didn't learn anything.
+S0063,E049,1,4,Best event of the year!
+S0546,E132,1,2,Very boring.
+S0769,E131,1,5,Loved the vibe.
+S0411,E070,1,2,Terrible organization.
+S0164,E147,1,5,Best event of the year!
+S0010,E132,1,5,Best event of the year!
+S0738,E135,1,3,"Nothing special, but not bad."
+S0304,E069,0,0,
+S0122,E044,1,1,Didn't learn anything.
+S0244,E075,1,2,The audio was really bad.
+S0950,E035,1,1,Waste of time.
+S0844,E054,0,0,
+S0119,E001,1,5,Great speakers and organization.
+S0333,E022,0,0,
+S0271,E035,1,5,Great speakers and organization.
+S0333,E015,1,3,"Nothing special, but not bad."
+S0749,E072,1,3,It was okay.
+S0551,E150,1,4,Best event of the year!
+S0264,E142,1,4,Really enjoyed it.
+S0333,E069,1,5,Best event of the year!
+S0828,E102,1,4,Really enjoyed it.
+S0748,E112,1,2,Very boring.
+S0096,E127,1,4,Really enjoyed it.
+S0836,E046,1,5,Loved the vibe.
+S0966,E047,1,1,The audio was really bad.
+S0167,E046,1,5,Really enjoyed it.
+S0072,E037,1,4,Really enjoyed it.
+S0466,E104,1,5,Really enjoyed it.
+S0745,E004,0,0,
+S0103,E097,1,1,Terrible organization.
+S0847,E004,1,2,Waste of time.
+S0789,E022,1,2,Didn't learn anything.
+S0014,E003,1,5,Best event of the year!
+S0838,E087,1,2,Waste of time.
+S0492,E145,1,2,The audio was really bad.
+S0340,E123,1,2,Terrible organization.
+S0557,E069,0,0,
+S0127,E006,1,1,Didn't learn anything.
+S0304,E027,0,0,
+S0908,E107,1,1,Waste of time.
+S0025,E059,1,4,Really enjoyed it.
+S0362,E074,1,4,Best event of the year!
+S0906,E029,1,2,Terrible organization.
+S0230,E027,1,3,It was okay.
+S0631,E086,1,3,It was okay.
+S0918,E012,0,0,
+S0155,E046,1,5,Great speakers and organization.
+S0615,E047,1,2,The audio was really bad.
+S0640,E074,1,1,The audio was really bad.
+S0939,E128,1,3,It was okay.
+S0808,E001,1,2,The audio was really bad.
+S0152,E100,1,4,The event was amazing!
+S0116,E148,1,3,"Nothing special, but not bad."
+S0093,E083,1,2,Very boring.
+S0362,E082,1,4,Loved the vibe.
+S0711,E106,0,0,
+S0813,E086,1,2,Very boring.
+S0510,E138,0,0,
+S0505,E137,0,0,
+S0842,E059,1,1,Didn't learn anything.
+S0733,E108,0,0,
+S0592,E057,1,2,The audio was really bad.
+S0003,E053,1,3,Could be better organized.
+S0486,E035,1,1,The audio was really bad.
+S0370,E036,1,4,Really enjoyed it.
+S0856,E142,1,2,Waste of time.
+S0848,E058,1,2,Terrible organization.
+S0986,E037,1,1,Very boring.
+S0381,E014,1,5,The event was amazing!
+S0489,E041,1,2,The audio was really bad.
+S0145,E021,1,1,Terrible organization.
+S0583,E107,1,2,Very boring.
+S0762,E036,0,0,
+S0716,E077,1,4,Best event of the year!
+S0346,E114,1,3,It was okay.
+S0160,E016,1,5,Really enjoyed it.
+S0516,E042,1,4,Loved the vibe.
+S0697,E117,0,0,
+S0729,E067,0,0,
+S0514,E079,1,4,Really enjoyed it.
+S0279,E024,0,0,
+S0387,E033,1,4,Super informative and fun.
+S0058,E057,1,2,Didn't learn anything.
+S0620,E020,1,4,Great speakers and organization.
+S0669,E104,1,2,Terrible organization.
+S0823,E096,1,2,The audio was really bad.
+S0112,E027,1,3,Could be better organized.
+S0798,E086,1,2,The audio was really bad.
+S0167,E139,1,1,Waste of time.
+S0612,E003,1,2,Didn't learn anything.
+S0207,E009,1,3,It was okay.
+S0584,E145,1,5,Loved the vibe.
+S0047,E013,1,1,The audio was really bad.
+S0009,E092,1,4,Super informative and fun.
+S0200,E081,1,3,"Nothing special, but not bad."
+S0720,E025,1,4,Best event of the year!
+S0516,E026,0,0,
+S0827,E039,1,5,Loved the vibe.
+S0489,E010,1,2,Waste of time.
+S0699,E119,1,1,Waste of time.
+S0906,E056,1,2,Didn't learn anything.
+S0529,E134,1,4,Really enjoyed it.
+S0348,E075,1,5,Loved the vibe.
+S0041,E100,1,2,Didn't learn anything.
+S0622,E020,1,5,Best event of the year!
+S0510,E025,1,2,The audio was really bad.
+S0561,E023,1,1,Very boring.
+S0322,E044,1,2,Terrible organization.
+S0287,E148,1,3,It was okay.
+S0073,E046,1,3,Decent event.
+S0263,E114,1,1,Didn't learn anything.
+S0500,E011,1,3,Decent event.
+S0419,E034,1,3,Could be better organized.
+S0866,E081,1,1,Very boring.
+S0519,E116,1,1,Didn't learn anything.
+S0660,E015,1,5,The event was amazing!
+S0159,E027,1,4,Really enjoyed it.
+S0584,E103,1,2,Very boring.
+S0896,E119,1,3,Decent event.
+S0480,E137,1,1,Terrible organization.
+S0185,E028,1,4,Really enjoyed it.
+S0412,E085,1,3,Average experience.
+S0619,E125,1,4,The event was amazing!
+S0286,E117,1,5,Really enjoyed it.
+S0972,E121,1,2,The audio was really bad.
+S0582,E009,0,0,
+S0793,E098,1,3,Decent event.
+S0485,E055,1,2,Terrible organization.
+S0976,E109,1,3,"Nothing special, but not bad."
+S0086,E037,1,3,Decent event.
+S0084,E077,1,4,Super informative and fun.
+S0220,E067,1,1,Terrible organization.
+S0917,E110,1,3,"Nothing special, but not bad."
+S0204,E090,1,4,Loved the vibe.
+S0549,E042,1,3,Could be better organized.
+S0399,E003,0,0,
+S0802,E051,1,5,Super informative and fun.
+S0149,E083,1,1,Waste of time.
+S0919,E118,1,4,Great speakers and organization.
+S0117,E105,1,5,Best event of the year!
+S0004,E116,1,4,Best event of the year!
+S0993,E149,1,1,Waste of time.
+S0764,E049,1,5,Really enjoyed it.
+S0616,E097,1,3,"Nothing special, but not bad."
+S0976,E049,0,0,
+S0979,E004,1,3,It was okay.
+S0310,E079,0,0,
+S0839,E032,1,4,Loved the vibe.
+S0421,E091,1,5,Loved the vibe.
+S0536,E086,1,2,Very boring.
+S0439,E096,1,5,Super informative and fun.
+S0447,E098,1,4,Best event of the year!
+S0291,E026,1,1,Terrible organization.
+S0666,E005,0,0,
+S0955,E106,1,4,Best event of the year!
+S0770,E140,1,4,Super informative and fun.
+S0596,E009,1,4,Really enjoyed it.
+S0229,E117,0,0,
+S0391,E030,1,4,The event was amazing!
+S0360,E119,1,4,The event was amazing!
+S0963,E096,1,5,Great speakers and organization.
+S0275,E068,1,4,Best event of the year!
+S0248,E002,1,1,Terrible organization.
+S0027,E040,1,5,Best event of the year!
+S0615,E082,1,2,Didn't learn anything.
+S0441,E062,0,0,
+S0997,E101,1,5,Best event of the year!
+S0403,E014,0,0,
+S0440,E033,1,2,Very boring.
+S0926,E082,0,0,
+S0163,E112,1,1,Waste of time.
+S0517,E031,0,0,
+S0804,E101,1,5,Really enjoyed it.
+S0972,E083,1,1,Terrible organization.
+S0027,E112,1,5,Really enjoyed it.
+S0029,E140,1,5,Loved the vibe.
+S0026,E034,1,3,"Nothing special, but not bad."
+S0246,E057,1,2,Didn't learn anything.
+S0861,E063,1,3,It was okay.
+S0282,E022,1,1,Didn't learn anything.
+S0888,E027,1,4,Super informative and fun.
+S0126,E028,1,3,Average experience.
+S0917,E047,1,1,Very boring.
+S0865,E093,1,4,The event was amazing!
+S0503,E006,1,1,Very boring.
+S0983,E020,1,4,Loved the vibe.
+S0912,E081,1,2,Waste of time.
+S0306,E003,1,5,Best event of the year!
+S0622,E009,1,3,Average experience.
+S0496,E140,1,2,Didn't learn anything.
+S0760,E066,1,2,Didn't learn anything.
+S0031,E138,1,5,Super informative and fun.
+S0780,E040,1,3,It was okay.
+S0921,E056,1,3,"Nothing special, but not bad."
+S0226,E022,1,3,Average experience.
+S0494,E052,1,3,Could be better organized.
+S0668,E076,1,4,Loved the vibe.
+S0525,E103,1,3,"Nothing special, but not bad."
+S0203,E072,1,1,Didn't learn anything.
+S0813,E080,1,2,Very boring.
+S0444,E115,1,5,Best event of the year!
+S0279,E082,0,0,
+S0111,E099,1,2,Didn't learn anything.
+S0362,E096,1,4,Really enjoyed it.
+S0911,E009,0,0,
+S0260,E105,1,5,Best event of the year!
+S0974,E136,1,4,The event was amazing!
+S0118,E047,1,4,Really enjoyed it.
+S0367,E063,1,2,The audio was really bad.
+S0381,E038,1,1,Terrible organization.
+S0327,E003,1,2,Very boring.
+S0582,E083,1,5,The event was amazing!
+S0395,E073,0,0,
+S0218,E135,1,1,Didn't learn anything.
+S0285,E020,0,0,
+S0915,E108,1,3,Average experience.
+S0203,E051,1,4,Loved the vibe.
+S0048,E071,1,1,Terrible organization.
+S0464,E044,0,0,
+S0335,E099,1,5,The event was amazing!
+S0292,E005,0,0,
+S0005,E119,1,2,Very boring.
+S0038,E137,0,0,
+S0041,E087,1,1,Very boring.
+S0098,E107,1,3,Average experience.
+S0772,E089,1,1,Didn't learn anything.
+S0794,E081,1,5,The event was amazing!
+S0403,E077,1,4,Best event of the year!
+S0991,E032,1,5,The event was amazing!
+S0030,E058,1,1,Waste of time.
+S0108,E083,1,2,Waste of time.
+S0091,E049,1,5,The event was amazing!
+S0957,E014,1,1,Terrible organization.
+S0050,E078,1,3,Average experience.
+S0705,E098,1,2,Waste of time.
+S0598,E118,1,2,The audio was really bad.
+S0883,E038,0,0,
+S0910,E106,1,1,Didn't learn anything.
+S0541,E062,0,0,
+S0490,E126,1,3,Decent event.
+S0232,E024,1,3,It was okay.
+S0362,E143,1,2,Terrible organization.
+S0077,E127,1,2,Terrible organization.
+S0687,E056,1,4,Really enjoyed it.
+S0500,E027,1,2,Didn't learn anything.
+S0780,E136,0,0,
+S0880,E081,1,4,Best event of the year!
+S0158,E130,1,2,Waste of time.
+S0939,E094,1,4,Super informative and fun.
+S0526,E052,1,2,Terrible organization.
+S0285,E109,1,3,Could be better organized.
+S0664,E027,1,4,The event was amazing!
+S0763,E029,1,1,Very boring.
+S0192,E069,1,4,Best event of the year!
+S0544,E116,1,3,It was okay.
+S0950,E141,1,3,Decent event.
+S0218,E039,1,5,Loved the vibe.
+S0521,E086,1,4,Great speakers and organization.
+S0379,E026,1,4,Best event of the year!
+S0951,E109,1,3,"Nothing special, but not bad."
+S0413,E046,0,0,
+S0283,E136,0,0,
+S0506,E133,1,1,Terrible organization.
+S0662,E064,1,2,Terrible organization.
+S0055,E010,0,0,
+S0273,E062,1,5,The event was amazing!
+S0283,E058,0,0,
+S0717,E104,1,4,The event was amazing!
+S0226,E069,1,2,Waste of time.
+S0805,E053,1,3,Could be better organized.
+S0295,E001,1,2,Didn't learn anything.
+S0930,E123,1,2,Waste of time.
+S0323,E018,1,2,The audio was really bad.
+S0922,E117,1,1,Very boring.
+S0439,E086,1,2,The audio was really bad.
+S0903,E020,1,1,Didn't learn anything.
+S0361,E122,0,0,
+S0002,E126,1,4,The event was amazing!
+S0047,E005,0,0,
+S0697,E075,1,5,Super informative and fun.
+S0172,E038,1,1,The audio was really bad.
+S0824,E086,1,4,Best event of the year!
+S0360,E140,1,4,Great speakers and organization.
+S0374,E118,1,3,Average experience.
+S0728,E086,0,0,
+S0794,E124,1,3,Could be better organized.
+S0746,E006,1,4,Really enjoyed it.
+S0676,E037,1,4,The event was amazing!
+S0251,E148,1,3,"Nothing special, but not bad."
+S0763,E023,1,4,Best event of the year!
+S0111,E071,0,0,
+S0921,E116,0,0,
+S0180,E068,1,3,Decent event.
+S0604,E107,1,3,"Nothing special, but not bad."
+S0043,E149,0,0,
+S0719,E088,0,0,
+S0126,E111,1,5,Great speakers and organization.
+S0296,E029,1,4,Best event of the year!
+S0151,E120,1,5,Great speakers and organization.
+S0639,E143,1,3,Decent event.
+S0296,E017,1,1,Very boring.
+S0042,E056,1,5,The event was amazing!
+S0055,E126,1,1,Very boring.
+S0361,E001,1,3,"Nothing special, but not bad."
+S0359,E073,0,0,
+S0682,E144,1,1,The audio was really bad.
+S0147,E051,1,5,The event was amazing!
+S0298,E057,1,4,Great speakers and organization.
+S0255,E099,1,4,The event was amazing!
+S0915,E067,1,5,Great speakers and organization.
+S0178,E145,1,3,Could be better organized.
+S0143,E052,1,2,Very boring.
+S0568,E052,1,3,It was okay.
+S0305,E146,1,5,Really enjoyed it.
+S0385,E112,1,2,Didn't learn anything.
+S0453,E081,0,0,
+S0958,E092,1,3,Decent event.
+S0478,E108,1,4,The event was amazing!
+S0935,E144,1,4,The event was amazing!
+S0774,E036,0,0,
+S0929,E078,1,5,Super informative and fun.
+S0383,E033,0,0,
+S0557,E145,1,1,Very boring.
+S0129,E104,1,4,Super informative and fun.
+S0472,E014,1,1,The audio was really bad.
+S0850,E028,1,5,The event was amazing!
+S0842,E075,0,0,
+S0494,E085,1,1,Didn't learn anything.
+S0691,E131,1,2,Didn't learn anything.
+S0148,E144,1,2,Waste of time.
+S0917,E040,1,3,It was okay.
+S0825,E125,0,0,
+S0705,E052,1,1,Terrible organization.
+S0157,E031,0,0,
+S0100,E064,1,1,Very boring.
+S0026,E130,1,4,The event was amazing!
+S0949,E032,1,4,Loved the vibe.
+S0189,E061,0,0,
+S0267,E113,0,0,
+S0127,E111,1,1,Waste of time.
+S0146,E062,1,5,Best event of the year!
+S0717,E140,1,4,Loved the vibe.
+S0297,E075,1,5,Loved the vibe.
+S0377,E071,1,4,Best event of the year!
+S0820,E028,1,4,Loved the vibe.
+S0152,E008,1,4,The event was amazing!
+S0578,E100,1,5,Great speakers and organization.
+S0035,E114,1,3,"Nothing special, but not bad."
+S0480,E118,1,1,Waste of time.
+S0367,E129,0,0,
+S0216,E090,0,0,
+S0400,E132,1,2,Waste of time.
+S0361,E145,1,4,Best event of the year!
+S0880,E036,1,3,Decent event.
+S0386,E121,0,0,
+S0675,E047,0,0,
+S0726,E130,0,0,
+S0266,E034,1,5,Super informative and fun.
+S0357,E150,0,0,
+S0850,E104,1,1,Terrible organization.
+S0873,E041,1,1,Terrible organization.
+S0512,E122,1,2,Waste of time.
+S0108,E045,1,4,The event was amazing!
+S0064,E065,1,1,Terrible organization.
+S0453,E096,0,0,
+S0647,E008,1,3,It was okay.
+S0716,E116,1,2,Didn't learn anything.
+S0570,E052,1,3,Decent event.
+S0449,E074,1,2,Waste of time.
+S0445,E136,1,1,Didn't learn anything.
+S0025,E025,1,1,Waste of time.
+S0915,E002,1,4,Super informative and fun.
+S0560,E019,1,2,Didn't learn anything.
+S0509,E049,1,5,Loved the vibe.
+S0513,E091,1,5,Super informative and fun.
+S0874,E036,1,4,Loved the vibe.
+S0641,E097,1,5,The event was amazing!
+S0131,E133,1,1,Terrible organization.
+S0511,E060,1,5,Super informative and fun.
+S0339,E006,1,3,Average experience.
+S0400,E092,1,2,The audio was really bad.
+S0077,E137,0,0,
+S0248,E133,0,0,
+S0513,E080,1,5,The event was amazing!
+S0560,E029,0,0,
+S0483,E068,1,1,The audio was really bad.
+S0432,E067,1,3,It was okay.
+S0143,E053,0,0,
+S0837,E085,1,2,Very boring.
+S0075,E145,0,0,
+S0720,E010,1,1,Very boring.
+S0613,E021,0,0,
+S0491,E034,1,1,Terrible organization.
+S0037,E128,0,0,
+S0231,E090,1,4,Great speakers and organization.
+S0801,E059,1,1,Terrible organization.
+S0793,E051,0,0,
+S0623,E098,1,5,Loved the vibe.
+S0054,E100,1,2,Very boring.
+S0719,E110,0,0,
+S0142,E030,1,1,Didn't learn anything.
+S0926,E095,1,2,The audio was really bad.
+S0448,E015,1,2,Terrible organization.
+S0603,E003,1,4,Best event of the year!
+S0771,E138,0,0,
+S0047,E004,1,1,Terrible organization.
+S0059,E033,1,2,The audio was really bad.
+S0045,E081,1,5,Best event of the year!
+S0912,E063,1,2,Didn't learn anything.
+S0408,E123,1,1,Terrible organization.
+S0257,E140,1,4,Best event of the year!
+S0753,E092,1,4,Best event of the year!
+S0310,E094,0,0,
+S0300,E063,0,0,
+S0915,E069,1,5,Super informative and fun.
+S0107,E014,1,4,Best event of the year!
+S0974,E125,1,1,Waste of time.
+S0934,E036,0,0,
+S0237,E079,0,0,
+S0216,E032,1,2,Terrible organization.
+S0241,E113,1,1,Terrible organization.
+S0511,E009,1,3,Could be better organized.
+S0394,E077,1,1,The audio was really bad.
+S0876,E099,1,1,Very boring.
+S0394,E114,1,2,Waste of time.
+S0389,E048,1,5,The event was amazing!
+S0677,E079,1,5,Great speakers and organization.
+S0960,E007,0,0,
+S0773,E087,1,5,Really enjoyed it.
+S0776,E008,1,5,Loved the vibe.
+S0887,E110,1,1,Didn't learn anything.
+S0398,E074,0,0,
+S0475,E109,0,0,
+S0737,E146,0,0,
+S0267,E042,1,4,Best event of the year!
+S0947,E061,1,1,The audio was really bad.
+S0819,E071,1,2,Didn't learn anything.
+S0303,E087,0,0,
+S0405,E010,0,0,
+S0281,E093,1,3,Could be better organized.
+S0013,E032,1,5,Best event of the year!
+S0329,E068,1,4,Loved the vibe.
+S0018,E113,1,4,The event was amazing!
+S0990,E092,1,5,Really enjoyed it.
+S0419,E015,0,0,
+S0962,E021,1,5,Super informative and fun.
+S0322,E017,1,2,The audio was really bad.
+S0785,E071,1,4,Really enjoyed it.
+S0233,E045,1,5,Best event of the year!
+S0051,E060,1,1,Waste of time.
+S0701,E130,1,5,Great speakers and organization.
+S0043,E142,1,1,The audio was really bad.
+S0999,E066,1,3,Could be better organized.
+S0736,E012,0,0,
+S0241,E090,1,1,Didn't learn anything.
+S0455,E029,0,0,
+S0080,E061,1,3,Could be better organized.
+S0381,E107,1,4,Great speakers and organization.
+S0147,E007,1,5,Great speakers and organization.
+S0344,E105,1,4,Great speakers and organization.
+S0637,E008,1,3,It was okay.
+S0298,E039,0,0,
+S0027,E028,0,0,
+S0217,E081,0,0,
+S0733,E131,0,0,
+S0730,E089,1,4,Super informative and fun.
+S0034,E039,1,1,Terrible organization.
+S0982,E058,0,0,
+S0516,E148,0,0,
+S0752,E108,0,0,
+S0751,E032,0,0,
+S0818,E014,0,0,
+S0484,E135,0,0,
+S0452,E082,1,2,Didn't learn anything.
+S0301,E063,1,2,The audio was really bad.
+S0237,E117,1,1,Waste of time.
+S0456,E105,1,1,The audio was really bad.
+S0574,E130,1,3,Decent event.
+S0620,E059,1,4,Really enjoyed it.
+S0584,E033,0,0,
+S0251,E105,0,0,
+S0682,E036,0,0,
+S0267,E074,1,3,It was okay.
+S0084,E105,1,5,Really enjoyed it.
+S0590,E127,1,2,Very boring.
+S0016,E043,1,4,Great speakers and organization.
+S0784,E142,1,1,Waste of time.
+S0891,E009,1,1,Waste of time.
+S0075,E034,0,0,
+S0888,E136,1,4,Great speakers and organization.
+S0131,E103,0,0,
+S0248,E076,1,3,Average experience.
+S0606,E028,1,1,The audio was really bad.
+S0973,E115,1,4,Best event of the year!
+S0855,E112,1,4,Best event of the year!
+S0138,E047,0,0,
+S0939,E131,1,2,Terrible organization.
+S0608,E095,1,4,Great speakers and organization.
+S0450,E046,0,0,
+S0740,E072,1,2,The audio was really bad.
+S0506,E088,1,5,Super informative and fun.
+S0919,E135,0,0,
+S0521,E110,1,3,Decent event.
+S0327,E046,1,1,Waste of time.
+S0441,E133,1,5,Super informative and fun.
+S0322,E026,1,3,"Nothing special, but not bad."
+S0122,E074,1,4,Loved the vibe.
+S0230,E044,1,3,Could be better organized.
+S0772,E028,1,3,"Nothing special, but not bad."
+S0099,E053,0,0,
+S0859,E131,1,1,Didn't learn anything.
+S0925,E011,0,0,
+S0551,E050,1,4,The event was amazing!
+S0379,E053,1,5,Loved the vibe.
+S0750,E114,0,0,
+S0130,E117,1,1,Terrible organization.
+S0456,E111,1,3,It was okay.
+S0886,E036,1,1,The audio was really bad.
+S0823,E021,1,1,The audio was really bad.
+S0161,E130,1,3,Decent event.
+S0646,E132,1,3,It was okay.
+S0444,E026,0,0,
+S0326,E049,0,0,
+S0677,E010,1,2,Waste of time.
+S0601,E097,1,2,The audio was really bad.
+S0482,E039,1,2,Very boring.
+S0290,E034,1,1,Didn't learn anything.
+S0878,E055,1,4,The event was amazing!
+S0503,E143,0,0,
+S0214,E046,1,4,Best event of the year!
+S0270,E098,0,0,
+S0496,E136,1,3,"Nothing special, but not bad."
+S0897,E075,1,4,Best event of the year!
+S0402,E092,0,0,
+S0493,E076,1,2,Terrible organization.
+S0987,E074,1,4,Great speakers and organization.
+S0254,E109,1,2,Very boring.
+S0980,E082,1,3,Decent event.
+S0722,E033,1,4,Super informative and fun.
+S0422,E061,1,3,Average experience.
+S0520,E056,1,1,Didn't learn anything.
+S0791,E083,1,3,Decent event.
+S0401,E114,1,4,Great speakers and organization.
+S0935,E014,1,4,Best event of the year!
+S0225,E087,1,3,Decent event.
+S0420,E057,0,0,
+S0897,E043,0,0,
+S0212,E029,0,0,
+S0626,E085,1,5,Super informative and fun.
+S0021,E006,1,1,The audio was really bad.
+S0935,E091,0,0,
+S0065,E013,0,0,
+S0216,E093,0,0,
+S0204,E041,0,0,
+S0406,E059,1,2,The audio was really bad.
+S0340,E106,1,5,Best event of the year!
+S0255,E004,1,1,Didn't learn anything.
+S0105,E129,1,4,The event was amazing!
+S0161,E073,1,1,Waste of time.
+S0647,E064,1,3,It was okay.
+S0833,E097,1,2,The audio was really bad.
+S0883,E022,1,1,Didn't learn anything.
+S0740,E107,1,1,Didn't learn anything.
+S0620,E039,1,5,Loved the vibe.
+S0199,E080,1,4,Super informative and fun.
+S0762,E006,1,3,Decent event.
+S0208,E026,1,5,Loved the vibe.
+S0386,E075,1,1,Waste of time.
+S0991,E105,0,0,
+S0286,E124,1,5,Super informative and fun.
+S0251,E098,1,4,Best event of the year!
+S0404,E096,0,0,
+S0732,E028,1,2,Didn't learn anything.
+S0999,E007,1,2,Very boring.
+S0379,E123,0,0,
+S0112,E080,1,2,Terrible organization.
+S0098,E144,1,2,Very boring.
+S0608,E064,1,2,Very boring.
+S0632,E122,0,0,
+S0741,E146,1,1,Very boring.
+S0259,E106,1,3,"Nothing special, but not bad."
+S0038,E083,0,0,
+S0614,E105,1,3,"Nothing special, but not bad."
+S0774,E144,1,5,Loved the vibe.
+S0321,E061,1,4,Best event of the year!
+S0495,E132,0,0,
+S0880,E021,1,4,Best event of the year!
+S0080,E097,1,1,Waste of time.
+S0533,E032,1,2,Very boring.
+S0891,E030,1,4,Loved the vibe.
+S0175,E135,1,2,Didn't learn anything.
+S0429,E103,1,3,It was okay.
+S0446,E076,1,5,Great speakers and organization.
+S0630,E096,0,0,
+S0666,E043,1,3,Could be better organized.
+S0702,E053,0,0,
+S0975,E096,0,0,
+S0620,E065,1,4,Really enjoyed it.
+S0959,E085,1,2,Didn't learn anything.
+S0733,E122,1,3,Decent event.
+S0184,E039,1,1,Terrible organization.
+S0320,E049,1,1,Didn't learn anything.
+S0470,E085,1,1,Didn't learn anything.
+S0480,E041,1,3,Could be better organized.
+S0905,E058,1,1,Waste of time.
+S0282,E073,1,5,Best event of the year!
+S0314,E095,0,0,
+S0786,E104,1,5,Super informative and fun.
+S0657,E052,1,5,Really enjoyed it.
+S0106,E056,1,2,The audio was really bad.
+S0578,E027,1,5,Super informative and fun.
+S0661,E099,1,5,Super informative and fun.
+S0620,E071,0,0,
+S0685,E122,1,2,Terrible organization.
+S0803,E060,1,1,Didn't learn anything.
+S0151,E037,1,4,The event was amazing!
+S0332,E020,1,2,Didn't learn anything.
+S0827,E113,1,4,Great speakers and organization.
+S0310,E129,1,2,Didn't learn anything.
+S0403,E097,1,4,Great speakers and organization.
+S0320,E134,1,5,The event was amazing!
+S0905,E055,1,3,"Nothing special, but not bad."
+S0861,E112,0,0,
+S0453,E126,1,1,Didn't learn anything.
+S0922,E112,1,2,Terrible organization.
+S0887,E094,1,3,Decent event.
+S0219,E144,1,4,Great speakers and organization.
+S0184,E003,1,4,Great speakers and organization.
+S0539,E050,1,5,Great speakers and organization.
+S0337,E025,1,3,Could be better organized.
+S0944,E004,0,0,
+S0280,E009,1,4,Loved the vibe.
+S0045,E065,1,1,Didn't learn anything.
+S0844,E008,1,5,Best event of the year!
+S0466,E126,1,4,Best event of the year!
+S0896,E140,1,1,The audio was really bad.
+S0030,E040,1,2,Terrible organization.
+S0430,E031,1,4,Best event of the year!
+S0728,E016,1,1,Didn't learn anything.
+S0285,E050,0,0,
+S0756,E005,1,3,"Nothing special, but not bad."
+S0928,E094,0,0,
+S0015,E104,1,1,Terrible organization.
+S0198,E129,1,3,It was okay.
+S0177,E114,1,3,Could be better organized.
+S0204,E130,1,2,Terrible organization.
+S0319,E071,0,0,
+S0360,E031,1,4,Super informative and fun.
+S0857,E023,0,0,
+S0953,E119,1,1,Terrible organization.
+S0187,E023,1,3,Could be better organized.
+S0642,E006,1,1,Waste of time.
+S0654,E096,1,1,Waste of time.
+S0316,E049,1,3,It was okay.
+S0389,E074,1,3,"Nothing special, but not bad."
+S0579,E081,1,2,Waste of time.
+S0280,E052,1,3,Average experience.
+S0715,E113,1,1,Very boring.
+S0364,E149,1,3,Could be better organized.
+S0461,E044,1,5,Loved the vibe.
+S0160,E138,0,0,
+S0216,E112,1,3,"Nothing special, but not bad."
+S0351,E129,0,0,
+S0850,E069,1,5,Really enjoyed it.
+S0265,E056,1,3,It was okay.
+S0945,E030,0,0,
+S0675,E048,1,2,Very boring.
+S0601,E083,1,5,Loved the vibe.
+S0675,E009,1,1,The audio was really bad.
+S0891,E003,1,4,Loved the vibe.
+S0343,E087,1,2,The audio was really bad.
+S0314,E042,1,5,Really enjoyed it.
+S0771,E006,1,5,Loved the vibe.
+S0608,E148,1,4,Loved the vibe.
+S0855,E063,1,3,Could be better organized.
+S0346,E124,1,3,It was okay.
+S0995,E060,0,0,
+S0111,E108,1,3,Could be better organized.
+S0411,E008,1,5,Really enjoyed it.
+S0945,E077,0,0,
+S0989,E135,1,5,Really enjoyed it.
+S0134,E086,1,1,The audio was really bad.
+S0812,E037,1,4,Loved the vibe.
+S0170,E118,1,2,Waste of time.
+S0905,E045,1,3,It was okay.
+S0190,E061,1,4,The event was amazing!
+S0742,E063,1,5,Great speakers and organization.
+S0006,E123,1,3,It was okay.
+S0483,E141,1,2,Very boring.
+S0685,E097,1,2,Terrible organization.
+S0397,E033,1,2,Very boring.
+S0792,E084,1,4,Super informative and fun.
+S0404,E137,1,3,Decent event.
+S0686,E007,1,5,Really enjoyed it.
+S0787,E061,1,3,Average experience.
+S0514,E001,0,0,
+S0614,E102,1,2,Waste of time.
+S0512,E049,1,2,The audio was really bad.
+S0446,E024,1,4,Best event of the year!
+S0185,E109,1,3,Average experience.
+S0397,E124,1,3,Decent event.
+S0184,E042,1,5,The event was amazing!
+S0477,E022,1,1,Very boring.
+S0823,E004,1,3,"Nothing special, but not bad."
+S0589,E130,1,4,The event was amazing!
+S0498,E103,1,1,The audio was really bad.
+S0436,E067,1,5,Loved the vibe.
+S0515,E096,1,3,Could be better organized.
+S0996,E094,1,2,Very boring.
+S0545,E099,1,2,Terrible organization.
+S0346,E067,1,5,Super informative and fun.
+S0746,E117,1,1,Very boring.
+S0289,E011,1,4,Loved the vibe.
+S0376,E013,0,0,
+S0703,E095,1,4,Great speakers and organization.
+S0692,E076,1,5,Great speakers and organization.
+S0184,E076,1,4,The event was amazing!
+S0458,E084,1,1,Didn't learn anything.
+S0115,E092,1,5,Best event of the year!
+S0406,E064,1,1,Didn't learn anything.
+S0097,E033,1,4,Loved the vibe.
+S0915,E071,1,4,Best event of the year!
+S0633,E063,0,0,
+S0583,E118,1,1,The audio was really bad.
+S0382,E010,1,5,Best event of the year!
+S0654,E026,1,5,Best event of the year!
+S0081,E087,1,4,Loved the vibe.
+S0023,E048,1,1,Very boring.
+S0989,E030,1,5,Great speakers and organization.
+S0311,E132,0,0,
+S0875,E063,1,3,Could be better organized.
+S0485,E056,1,3,"Nothing special, but not bad."
+S0284,E129,1,5,Loved the vibe.
+S0932,E047,1,3,It was okay.
+S0417,E054,1,4,Best event of the year!
+S0133,E071,1,4,Super informative and fun.
+S0810,E082,1,2,Waste of time.
+S0019,E084,1,1,Didn't learn anything.
+S0295,E118,0,0,
+S0431,E085,0,0,
+S0399,E122,0,0,
+S0013,E088,1,3,Average experience.
+S0843,E114,1,4,Best event of the year!
+S0511,E054,0,0,
+S0715,E044,1,3,Decent event.
+S0034,E147,1,4,Super informative and fun.
+S0354,E022,1,5,Great speakers and organization.
+S0312,E075,1,4,Best event of the year!
+S0479,E008,1,5,Super informative and fun.
+S0171,E091,0,0,
+S0442,E107,1,3,Could be better organized.
+S0762,E126,1,4,Super informative and fun.
+S0135,E097,0,0,
+S0972,E032,1,4,Really enjoyed it.
+S0217,E029,0,0,
+S0297,E046,1,4,Super informative and fun.
+S0419,E091,1,4,Super informative and fun.
+S0286,E082,1,1,The audio was really bad.
+S0515,E138,0,0,
+S0402,E058,1,4,Loved the vibe.
+S0294,E116,1,2,Very boring.
+S0296,E001,0,0,
+S0850,E086,1,2,Terrible organization.
+S0393,E149,1,4,Loved the vibe.
+S0194,E008,0,0,
+S0230,E036,0,0,
+S0635,E129,1,5,Super informative and fun.
+S0750,E105,1,3,Could be better organized.
+S0256,E043,0,0,
+S0641,E121,1,3,It was okay.
+S0761,E100,0,0,
+S0524,E050,1,4,Great speakers and organization.
+S0741,E062,1,4,Best event of the year!
+S0944,E052,1,2,The audio was really bad.
+S0067,E008,1,5,Loved the vibe.
+S0471,E063,0,0,
+S0455,E062,1,4,Super informative and fun.
+S0657,E029,0,0,
+S0858,E085,1,2,Very boring.
+S0740,E018,1,1,Very boring.
+S0888,E134,1,4,The event was amazing!
+S0802,E107,1,5,The event was amazing!
+S0733,E137,1,4,Loved the vibe.
+S0848,E016,1,4,Best event of the year!
+S0788,E011,1,4,Best event of the year!
+S0950,E131,1,4,The event was amazing!
+S0107,E038,1,5,The event was amazing!
+S0740,E044,1,4,Best event of the year!
+S0348,E037,1,4,Really enjoyed it.
+S0271,E025,1,1,Very boring.
+S0921,E126,1,3,Average experience.
+S0303,E114,1,4,Best event of the year!
+S0265,E146,1,5,The event was amazing!
+S0780,E036,1,5,Great speakers and organization.
+S0027,E057,1,5,Great speakers and organization.
+S0731,E075,1,2,Didn't learn anything.
+S0650,E079,1,4,Best event of the year!
+S0302,E040,1,2,Didn't learn anything.
+S0300,E099,1,2,Terrible organization.
+S0872,E055,0,0,
+S0311,E038,0,0,
+S0013,E067,1,5,Best event of the year!
+S0892,E133,1,4,Super informative and fun.
+S0922,E044,1,2,Didn't learn anything.
+S0874,E129,1,5,Great speakers and organization.
+S0388,E125,1,5,Loved the vibe.
+S0180,E124,1,1,Terrible organization.
+S0351,E058,1,2,Waste of time.
+S0154,E072,0,0,
+S0797,E031,1,3,Decent event.
+S0471,E146,1,5,Really enjoyed it.
+S0760,E052,1,1,Very boring.
+S0642,E026,1,5,The event was amazing!
+S0278,E142,0,0,
+S0867,E138,1,1,Very boring.
+S0581,E134,1,2,The audio was really bad.
+S0817,E047,1,2,Very boring.
+S0182,E011,0,0,
+S0273,E142,1,1,Waste of time.
+S0751,E017,1,5,Great speakers and organization.
+S0063,E054,1,2,Didn't learn anything.
+S0780,E149,1,4,The event was amazing!
+S0550,E014,1,1,Waste of time.
+S0490,E030,1,1,Very boring.
+S0203,E026,0,0,
+S0604,E056,0,0,
+S0499,E077,0,0,
+S0010,E149,1,1,Very boring.
+S0797,E050,0,0,
+S0826,E117,1,3,Decent event.
+S0616,E070,1,2,The audio was really bad.
+S0520,E124,0,0,
+S0291,E077,1,5,Really enjoyed it.
+S0350,E071,0,0,
+S0516,E080,1,1,Waste of time.
+S0500,E002,1,5,Loved the vibe.
+S0508,E042,1,1,Very boring.
+S0690,E078,1,4,Great speakers and organization.
+S0654,E138,1,2,Terrible organization.
+S0782,E060,1,3,Could be better organized.
+S0313,E082,0,0,
+S0484,E027,1,5,Really enjoyed it.
+S0585,E040,1,2,Waste of time.
+S0785,E102,1,2,Didn't learn anything.
+S0679,E041,1,5,Loved the vibe.
+S0670,E107,1,2,The audio was really bad.
+S0484,E078,1,2,The audio was really bad.
+S0342,E091,1,4,Great speakers and organization.
+S0436,E145,1,4,The event was amazing!
+S0781,E104,1,4,Great speakers and organization.
+S0662,E036,1,3,It was okay.
+S0839,E052,1,3,Average experience.
+S0853,E096,1,3,Decent event.
+S0810,E098,1,5,Super informative and fun.
+S0757,E052,1,5,Super informative and fun.
+S0451,E071,1,1,Waste of time.
+S0165,E084,1,5,Loved the vibe.
+S0975,E012,1,4,Really enjoyed it.
+S0287,E097,1,1,Terrible organization.
+S0655,E088,1,5,Great speakers and organization.
+S0449,E073,1,4,Really enjoyed it.
+S0902,E019,1,4,Really enjoyed it.
+S0895,E039,0,0,
+S0307,E147,1,5,The event was amazing!
+S0449,E063,1,5,Super informative and fun.
+S0782,E067,0,0,
+S0544,E075,1,2,Terrible organization.
+S0892,E081,1,4,Best event of the year!
+S0906,E055,1,3,Decent event.
+S0234,E118,1,3,"Nothing special, but not bad."
+S0694,E067,1,5,Best event of the year!
+S0956,E006,1,1,Very boring.
+S0438,E102,1,1,Didn't learn anything.
+S0062,E132,1,1,Didn't learn anything.
+S0448,E009,0,0,
+S0895,E084,0,0,
+S0504,E073,0,0,
+S0342,E018,1,5,The event was amazing!
+S0998,E143,1,5,Really enjoyed it.
+S0818,E132,1,5,Loved the vibe.
+S0625,E049,1,4,Great speakers and organization.
+S0477,E116,1,3,It was okay.
+S0187,E148,1,4,Super informative and fun.
+S0800,E111,1,4,Super informative and fun.
+S0301,E002,0,0,
+S0849,E100,1,1,Waste of time.
+S0331,E110,1,3,"Nothing special, but not bad."
+S0599,E084,0,0,
+S0469,E052,0,0,
+S0948,E091,0,0,
+S0157,E049,1,2,The audio was really bad.
+S0186,E026,1,5,Super informative and fun.
+S0968,E011,1,5,Great speakers and organization.
+S0978,E018,1,3,"Nothing special, but not bad."
+S0674,E054,1,3,"Nothing special, but not bad."
+S0435,E070,1,2,The audio was really bad.
+S0028,E036,1,1,Very boring.
+S0027,E114,1,4,The event was amazing!
+S0458,E113,1,2,Waste of time.
+S0790,E098,0,0,
+S0835,E032,1,2,Didn't learn anything.
+S0936,E149,0,0,
+S0125,E042,1,1,Very boring.
+S0759,E092,1,4,Really enjoyed it.
+S0216,E024,0,0,
+S0369,E123,1,5,The event was amazing!
+S0968,E117,1,1,Very boring.
+S0823,E108,1,1,The audio was really bad.
+S0370,E080,1,4,Best event of the year!
+S0308,E059,1,4,Loved the vibe.
+S0017,E071,1,1,Waste of time.
+S0868,E064,1,5,The event was amazing!
+S0132,E133,1,2,Very boring.
+S0781,E010,1,5,Really enjoyed it.
+S0888,E076,1,5,Loved the vibe.
+S0844,E041,1,2,Waste of time.
+S0959,E133,1,2,The audio was really bad.
+S0901,E029,1,1,Very boring.
+S0209,E079,1,3,Average experience.
+S0637,E083,1,1,The audio was really bad.
+S0030,E121,1,2,Very boring.
+S0048,E139,1,5,Best event of the year!
+S0538,E044,1,1,Terrible organization.
+S0358,E058,1,4,The event was amazing!
+S0116,E122,1,4,Super informative and fun.
+S0451,E035,0,0,
+S0829,E001,1,4,Loved the vibe.
+S0922,E066,1,3,Could be better organized.
+S0375,E025,1,4,Best event of the year!
+S0852,E147,1,2,Waste of time.
+S0528,E034,1,2,Terrible organization.
+S0762,E025,1,3,Could be better organized.
+S0108,E064,1,3,"Nothing special, but not bad."
+S0748,E078,1,4,Best event of the year!
+S0605,E134,0,0,
+S0592,E069,1,3,Decent event.
+S0384,E038,0,0,
+S0755,E009,1,1,Waste of time.
+S0187,E004,1,1,Waste of time.
+S0166,E102,1,1,Didn't learn anything.
+S0493,E124,1,2,Didn't learn anything.
+S0416,E116,1,4,Super informative and fun.
+S0270,E140,1,1,The audio was really bad.
+S0672,E132,1,3,"Nothing special, but not bad."
+S0262,E088,1,5,Loved the vibe.
+S0680,E025,1,5,Great speakers and organization.
+S0065,E094,1,1,Didn't learn anything.
+S0130,E025,1,4,The event was amazing!
+S0124,E141,1,2,The audio was really bad.
+S0315,E116,1,5,The event was amazing!
+S0990,E130,1,4,Super informative and fun.
+S0200,E037,1,1,Waste of time.
+S0752,E091,0,0,
+S0616,E039,0,0,
+S0881,E136,0,0,
+S0049,E137,1,5,Really enjoyed it.
+S0711,E136,1,3,"Nothing special, but not bad."
+S0103,E043,0,0,
+S0232,E039,0,0,
+S0965,E109,1,3,It was okay.
+S0983,E103,1,4,Super informative and fun.
+S0996,E108,1,4,Great speakers and organization.
+S0140,E077,1,1,The audio was really bad.
+S0726,E143,1,2,Didn't learn anything.
+S0609,E018,1,4,Really enjoyed it.
+S0148,E124,1,2,Very boring.
+S0806,E041,1,4,Super informative and fun.
+S0199,E064,1,1,Waste of time.
+S0987,E071,1,4,The event was amazing!
+S0744,E150,1,2,Very boring.
+S0146,E071,1,1,Terrible organization.
+S0534,E080,0,0,
+S0106,E121,1,4,Great speakers and organization.
+S0842,E032,0,0,
+S0761,E117,1,1,The audio was really bad.
+S0897,E070,1,4,Great speakers and organization.
+S0116,E120,1,5,Really enjoyed it.
+S0898,E125,1,2,Didn't learn anything.
+S0106,E023,0,0,
+S0983,E093,1,4,Best event of the year!
+S0987,E111,1,1,Terrible organization.
+S0886,E072,1,3,Could be better organized.
+S0337,E108,1,3,It was okay.
+S0014,E026,1,2,Didn't learn anything.
+S0507,E057,0,0,
+S0445,E069,1,4,Super informative and fun.
+S0622,E145,1,5,Super informative and fun.
+S0892,E098,1,5,The event was amazing!
+S0605,E026,0,0,
+S0098,E031,1,3,Could be better organized.
+S0689,E108,1,1,The audio was really bad.
+S0663,E113,1,5,Super informative and fun.
+S0039,E103,1,1,Waste of time.
+S0581,E047,1,3,It was okay.
+S0300,E106,1,4,Great speakers and organization.
+S0368,E089,1,2,The audio was really bad.
+S0457,E013,1,4,Best event of the year!
+S0651,E068,1,2,Didn't learn anything.
+S0790,E141,1,4,Great speakers and organization.
+S0800,E045,1,1,The audio was really bad.
+S0361,E138,1,3,Average experience.
+S0104,E024,1,3,Could be better organized.
+S0510,E048,1,2,The audio was really bad.
+S0877,E125,1,3,Decent event.
+S0918,E093,1,2,The audio was really bad.
+S0017,E029,1,5,Great speakers and organization.
+S0931,E130,0,0,
+S0304,E144,0,0,
+S0183,E102,0,0,
+S0713,E020,1,1,Terrible organization.
+S0729,E104,1,2,The audio was really bad.
+S0546,E091,1,2,Very boring.
+S0107,E076,0,0,
+S0584,E022,1,2,Very boring.
+S0846,E011,1,5,Really enjoyed it.
+S0684,E071,1,4,Really enjoyed it.
+S0854,E057,1,2,Very boring.
+S0664,E056,1,1,The audio was really bad.
+S0250,E006,0,0,
+S0495,E113,1,5,Super informative and fun.
+S0582,E050,1,2,Didn't learn anything.
+S0595,E103,0,0,
+S0910,E100,1,3,Average experience.
+S0442,E095,1,2,The audio was really bad.
+S0554,E092,1,2,The audio was really bad.
+S0881,E064,0,0,
+S0593,E033,1,5,Best event of the year!
+S0488,E138,1,1,Didn't learn anything.
+S0234,E090,0,0,
+S0841,E058,1,3,Could be better organized.
+S0857,E014,1,5,Loved the vibe.
+S0510,E112,1,2,Terrible organization.
+S0574,E115,0,0,
+S0666,E015,1,4,Best event of the year!
+S0152,E017,1,1,The audio was really bad.
+S0584,E065,1,5,Loved the vibe.
+S0442,E035,1,2,Very boring.
+S0318,E138,1,3,"Nothing special, but not bad."
+S0584,E131,1,2,Didn't learn anything.
+S0698,E081,1,5,The event was amazing!
+S0730,E092,0,0,
+S0123,E019,0,0,
+S0066,E136,1,2,Waste of time.
+S0255,E046,1,1,Very boring.
+S0747,E031,1,1,Terrible organization.
+S0969,E104,0,0,
+S0718,E100,1,4,Best event of the year!
+S0486,E036,1,2,Terrible organization.
+S0319,E091,1,4,Great speakers and organization.
+S0512,E024,1,3,Decent event.
+S0206,E059,1,1,The audio was really bad.
+S0463,E025,0,0,
+S0264,E006,0,0,
+S0063,E143,1,3,It was okay.
+S0173,E001,0,0,
+S0013,E002,1,4,Great speakers and organization.
+S0029,E146,0,0,
+S0384,E018,1,2,Didn't learn anything.
+S0511,E047,0,0,
+S0224,E089,1,2,Didn't learn anything.
+S0384,E147,1,4,Best event of the year!
+S0867,E046,0,0,
+S0153,E114,1,5,The event was amazing!
+S0958,E138,1,3,Average experience.
+S0111,E090,1,5,Super informative and fun.
+S0172,E026,1,2,Didn't learn anything.
+S0159,E087,1,5,Loved the vibe.
+S0803,E115,1,5,The event was amazing!
+S0347,E064,1,2,Waste of time.
+S0984,E126,1,4,The event was amazing!
+S0367,E016,1,5,The event was amazing!
+S0869,E134,1,3,Could be better organized.
+S0577,E148,0,0,
+S0535,E101,0,0,
+S0659,E052,1,3,"Nothing special, but not bad."
+S0459,E051,1,4,Loved the vibe.
+S0446,E097,1,4,The event was amazing!
+S0504,E027,1,5,Loved the vibe.
+S0625,E100,1,4,Great speakers and organization.
+S0790,E015,0,0,
+S0852,E011,1,1,The audio was really bad.
+S0914,E147,0,0,
+S0178,E081,1,5,The event was amazing!
+S0049,E078,1,2,The audio was really bad.
+S0988,E138,1,4,Best event of the year!
+S0521,E135,1,5,Great speakers and organization.
+S0698,E012,1,1,Very boring.
+S0973,E048,1,3,It was okay.
+S0732,E053,1,2,Didn't learn anything.
+S0656,E004,1,4,Really enjoyed it.
+S0922,E030,1,1,Waste of time.
+S0676,E085,1,4,Really enjoyed it.
+S0381,E103,1,2,Waste of time.
+S0614,E064,0,0,
+S0685,E067,1,5,Best event of the year!
+S0885,E080,1,3,Decent event.
+S0707,E003,1,4,Loved the vibe.
+S0285,E049,1,3,Could be better organized.
+S0011,E102,1,4,Really enjoyed it.
+S0679,E058,1,1,Terrible organization.
+S0163,E126,1,2,Didn't learn anything.
+S0336,E043,1,4,Great speakers and organization.
+S0550,E074,1,5,Great speakers and organization.
+S0112,E031,1,2,Terrible organization.
+S0569,E128,1,2,Didn't learn anything.
+S0037,E121,1,1,Terrible organization.
+S0235,E010,1,2,Terrible organization.
+S0781,E018,1,4,Super informative and fun.
+S0380,E113,1,4,Super informative and fun.
+S0679,E129,1,2,The audio was really bad.
+S0045,E146,1,2,The audio was really bad.
+S0881,E065,1,3,Decent event.
+S0206,E015,1,4,Really enjoyed it.
+S0970,E075,0,0,
+S0066,E058,1,2,The audio was really bad.
+S0674,E113,1,4,The event was amazing!
+S0864,E063,0,0,
+S0542,E074,0,0,
+S0165,E037,0,0,
+S0988,E082,1,1,Terrible organization.
+S0420,E133,0,0,
+S0018,E044,1,3,It was okay.
+S0147,E027,1,1,Very boring.
+S0004,E145,1,4,Super informative and fun.
+S0123,E058,1,5,Super informative and fun.
+S0076,E006,1,5,Best event of the year!
+S0396,E073,0,0,
+S0397,E116,1,4,Super informative and fun.
+S0257,E089,1,4,Really enjoyed it.
+S0466,E138,1,2,Waste of time.
+S0294,E045,1,3,"Nothing special, but not bad."
+S0377,E006,1,3,"Nothing special, but not bad."
+S0044,E118,1,5,Really enjoyed it.
+S0412,E033,1,2,Very boring.
+S0432,E107,1,4,Loved the vibe.
+S0976,E100,1,3,Average experience.
+S0334,E103,1,5,Really enjoyed it.
+S0252,E056,1,5,Really enjoyed it.
+S0971,E094,1,5,Loved the vibe.
+S0384,E079,1,4,Really enjoyed it.
+S0482,E028,0,0,
+S0668,E116,1,5,Loved the vibe.
+S0053,E052,1,3,Could be better organized.
+S0912,E041,1,5,Loved the vibe.
+S0185,E114,1,2,Very boring.
+S0582,E045,1,5,Really enjoyed it.
+S0657,E103,0,0,
+S0801,E051,1,4,Great speakers and organization.
+S0480,E063,1,4,Great speakers and organization.
+S0626,E136,1,1,Terrible organization.
+S0088,E006,1,1,The audio was really bad.
+S0874,E024,1,3,"Nothing special, but not bad."
+S0762,E039,1,3,It was okay.
+S0372,E081,0,0,
+S0927,E115,1,3,"Nothing special, but not bad."
+S0297,E078,1,5,Really enjoyed it.
+S0923,E039,1,4,The event was amazing!
+S0546,E105,1,5,Super informative and fun.
+S0644,E121,1,2,Terrible organization.
+S0680,E038,1,1,Terrible organization.
+S0139,E098,1,4,Loved the vibe.
+S0175,E006,0,0,
+S0705,E093,1,5,Super informative and fun.
+S0187,E115,1,4,Best event of the year!
+S0581,E089,1,1,The audio was really bad.
+S0071,E046,1,5,Great speakers and organization.
+S0694,E101,1,1,Waste of time.
+S0985,E083,1,1,The audio was really bad.
+S0618,E127,1,5,Super informative and fun.
+S0428,E044,1,3,"Nothing special, but not bad."
+S0526,E072,0,0,
+S0926,E007,1,3,"Nothing special, but not bad."
+S0054,E062,1,3,Decent event.
+S0444,E087,1,3,Decent event.
+S0676,E021,1,5,The event was amazing!
+S0134,E003,0,0,
+S0020,E078,1,2,Very boring.
+S0390,E100,1,3,Decent event.
+S0344,E094,0,0,
+S0875,E109,1,3,"Nothing special, but not bad."
+S0966,E089,1,5,Really enjoyed it.
+S0501,E073,1,1,Very boring.
+S0941,E022,1,5,The event was amazing!
+S0024,E033,1,2,Terrible organization.
+S0182,E096,1,2,Didn't learn anything.
+S0821,E061,1,1,Terrible organization.
+S0741,E004,1,5,The event was amazing!
+S0160,E150,1,3,It was okay.
+S0628,E032,1,2,Waste of time.
+S0941,E021,1,1,Terrible organization.
+S0004,E111,1,2,Terrible organization.
+S0735,E021,1,3,Could be better organized.
+S0198,E122,1,4,Super informative and fun.
+S0724,E048,1,3,Could be better organized.
+S0886,E016,1,2,Didn't learn anything.
+S0007,E021,1,2,The audio was really bad.
+S0148,E139,0,0,
+S0997,E049,1,1,Waste of time.
+S0192,E083,1,2,Very boring.
+S0651,E076,0,0,
+S0423,E130,1,2,Very boring.
+S0754,E062,0,0,
+S0008,E065,1,2,Terrible organization.
+S0064,E017,1,3,It was okay.
+S0635,E111,1,4,The event was amazing!
+S0327,E093,0,0,
+S0695,E017,0,0,
+S0269,E082,1,3,Decent event.
+S0380,E128,1,4,Great speakers and organization.
+S0560,E049,1,5,Really enjoyed it.
+S0044,E091,1,4,Loved the vibe.
+S0333,E104,1,4,Loved the vibe.
+S0157,E037,1,4,The event was amazing!
+S0895,E036,1,4,Best event of the year!
+S0153,E103,1,1,Very boring.
+S0811,E045,1,5,Really enjoyed it.
+S0223,E025,1,4,Loved the vibe.
+S0154,E070,1,2,Terrible organization.
+S0510,E101,1,3,Could be better organized.
+S0285,E059,1,4,Super informative and fun.
+S0742,E128,1,4,Really enjoyed it.
+S0500,E016,1,1,Terrible organization.
+S0976,E083,1,5,Great speakers and organization.
+S0145,E061,0,0,
+S0966,E127,1,4,Loved the vibe.
+S0014,E079,1,3,Average experience.
+S0701,E110,0,0,
+S0125,E034,0,0,
+S0289,E088,1,2,The audio was really bad.
+S0579,E122,1,1,Very boring.
+S0379,E107,1,2,The audio was really bad.
+S0705,E060,1,4,Great speakers and organization.
+S0569,E088,0,0,
+S0813,E085,1,2,The audio was really bad.
+S0801,E147,1,5,Super informative and fun.
+S0243,E064,1,5,Loved the vibe.
+S0912,E005,1,5,The event was amazing!
+S0394,E038,0,0,
+S0330,E021,0,0,
+S0503,E119,0,0,
+S0923,E069,1,4,Loved the vibe.
+S0811,E071,1,3,It was okay.
+S0486,E064,1,1,The audio was really bad.
+S0365,E124,0,0,
+S0150,E070,1,4,Great speakers and organization.
+S0620,E138,1,2,Didn't learn anything.
+S0620,E031,1,1,Waste of time.
+S0537,E130,1,2,Very boring.
+S0434,E003,1,3,"Nothing special, but not bad."
+S0148,E076,1,1,Very boring.
+S0081,E095,1,2,Very boring.
+S0641,E098,0,0,
+S0161,E114,1,1,The audio was really bad.
+S0467,E071,1,5,Loved the vibe.
+S0292,E042,0,0,
+S0132,E083,1,1,Terrible organization.
+S0889,E084,0,0,
+S0489,E095,1,3,Decent event.
+S0564,E007,1,3,Decent event.
+S0183,E084,0,0,
+S0857,E009,1,3,Could be better organized.
+S0775,E146,1,5,The event was amazing!
+S0741,E034,1,1,Terrible organization.
+S0144,E039,1,5,Really enjoyed it.
+S0963,E061,1,3,Average experience.
+S0347,E021,1,3,It was okay.
+S0505,E103,0,0,
+S0064,E135,1,4,Best event of the year!
+S0159,E141,1,2,Very boring.
+S0163,E030,1,2,Waste of time.
+S0058,E143,1,1,Waste of time.
+S0491,E011,1,2,Waste of time.
+S0973,E040,1,5,Great speakers and organization.
+S0331,E100,1,1,Didn't learn anything.
+S0784,E075,1,1,Very boring.
+S0564,E018,1,2,Didn't learn anything.
+S0037,E054,1,5,Loved the vibe.
+S0008,E090,1,5,Great speakers and organization.
+S0522,E043,1,2,Waste of time.
+S0550,E002,0,0,
+S0289,E069,0,0,
+S0384,E131,1,2,Waste of time.
+S0773,E066,1,2,The audio was really bad.
+S0920,E067,1,1,The audio was really bad.
+S0463,E008,1,5,Best event of the year!
+S0688,E132,1,2,Waste of time.
+S0116,E011,1,1,Waste of time.
+S0205,E146,1,2,Didn't learn anything.
+S0838,E078,1,4,The event was amazing!
+S0664,E059,0,0,
+S0912,E065,1,5,The event was amazing!
+S0318,E004,1,2,The audio was really bad.
+S0212,E128,1,3,Decent event.
+S0401,E043,1,4,Super informative and fun.
+S0612,E074,1,1,Didn't learn anything.
+S0110,E001,1,5,The event was amazing!
+S0878,E003,1,1,The audio was really bad.
+S0456,E098,0,0,
+S0985,E041,1,1,The audio was really bad.
+S0221,E049,1,3,It was okay.
+S0287,E107,1,3,It was okay.
+S0921,E031,1,2,The audio was really bad.
+S0468,E053,1,1,Very boring.
+S0179,E004,1,1,Waste of time.
+S0467,E149,0,0,
+S0280,E070,1,5,Loved the vibe.
+S0065,E040,1,1,Very boring.
+S0695,E097,1,1,Very boring.
+S0443,E120,1,2,Terrible organization.
+S0591,E012,1,3,Average experience.
+S0737,E123,1,3,It was okay.
+S0688,E070,1,2,Very boring.
+S0830,E001,1,5,Loved the vibe.
+S0573,E126,1,1,The audio was really bad.
+S0373,E023,0,0,
+S0377,E117,1,5,Really enjoyed it.
+S0383,E096,0,0,
+S0554,E038,1,3,Decent event.
+S0179,E149,1,3,Decent event.
+S0356,E075,1,4,Best event of the year!
+S0556,E105,1,4,The event was amazing!
+S0617,E065,1,3,Average experience.
+S0661,E120,1,5,Best event of the year!
+S0169,E011,1,5,Best event of the year!
+S0149,E088,0,0,
+S0648,E041,0,0,
+S0845,E102,1,4,The event was amazing!
+S0514,E140,1,5,The event was amazing!
+S0590,E002,1,5,Best event of the year!
+S0965,E043,1,3,Decent event.
+S0120,E084,1,5,Loved the vibe.
+S0536,E101,1,5,Great speakers and organization.
+S0768,E105,1,2,Very boring.
+S0160,E049,1,5,The event was amazing!
+S0508,E037,1,3,"Nothing special, but not bad."
+S0774,E104,1,2,Didn't learn anything.
+S0654,E025,1,1,Terrible organization.
+S0032,E076,1,2,Waste of time.
+S0848,E019,1,3,Decent event.
+S0974,E031,1,3,Decent event.
+S0011,E077,1,4,Great speakers and organization.
+S0214,E078,1,5,Super informative and fun.
+S0942,E123,0,0,
+S0608,E011,1,1,Very boring.
+S0328,E090,1,3,Decent event.
+S0882,E099,0,0,
+S0789,E026,1,5,Super informative and fun.
+S0902,E090,1,1,Very boring.
+S0040,E125,1,4,Great speakers and organization.
+S0557,E024,1,2,Terrible organization.
+S0466,E098,1,2,Didn't learn anything.
+S0481,E009,1,3,Could be better organized.
+S0796,E116,1,5,Loved the vibe.
+S0098,E003,1,5,Best event of the year!
+S0800,E008,0,0,
+S0456,E018,0,0,
+S0186,E119,1,5,Loved the vibe.
+S0821,E138,1,3,Could be better organized.
+S0121,E133,1,2,Very boring.
+S0301,E042,1,3,Could be better organized.
+S0340,E110,1,2,Terrible organization.
+S0204,E124,1,2,Terrible organization.
+S0397,E046,1,1,The audio was really bad.
+S0188,E058,1,5,Loved the vibe.
+S0235,E114,1,1,Waste of time.
+S0143,E034,0,0,
+S0577,E007,1,4,Great speakers and organization.
+S0814,E111,1,5,Best event of the year!
+S0378,E140,1,4,Loved the vibe.
+S0035,E072,1,5,Best event of the year!
+S0433,E018,1,1,The audio was really bad.
+S0899,E092,1,4,Super informative and fun.
+S0942,E063,1,1,Terrible organization.
+S0166,E023,0,0,
+S0192,E051,1,5,Great speakers and organization.
+S0571,E068,1,1,Waste of time.
+S0597,E106,1,5,The event was amazing!
+S0238,E052,1,3,"Nothing special, but not bad."
+S0765,E101,1,3,It was okay.
+S0523,E004,1,5,Best event of the year!
+S0273,E150,0,0,
+S0010,E078,1,3,"Nothing special, but not bad."
+S0882,E123,1,2,Very boring.
+S0490,E123,1,1,Waste of time.
+S0398,E142,0,0,
+S0880,E019,1,2,Didn't learn anything.
+S0149,E018,1,5,The event was amazing!
+S0580,E043,1,4,Best event of the year!
+S0371,E058,1,4,The event was amazing!
+S0771,E111,1,3,Decent event.
+S0029,E050,1,4,Loved the vibe.
+S0621,E058,1,4,Super informative and fun.
+S0973,E131,1,2,Waste of time.
+S0614,E134,1,4,The event was amazing!
+S0444,E008,1,1,Didn't learn anything.
+S0087,E038,1,3,Average experience.
+S0403,E072,1,3,Average experience.
+S0857,E138,0,0,
+S0335,E079,1,5,Loved the vibe.
+S0396,E144,0,0,
+S0614,E147,1,4,Great speakers and organization.
+S0094,E126,1,5,Super informative and fun.
+S0632,E017,1,3,Average experience.
+S0896,E074,0,0,
+S0526,E059,1,3,"Nothing special, but not bad."
+S0580,E049,1,3,"Nothing special, but not bad."
+S0846,E086,0,0,
+S0693,E106,1,3,Could be better organized.
+S0435,E049,0,0,
+S0912,E036,1,2,The audio was really bad.
+S0730,E139,0,0,
+S0329,E053,1,5,Super informative and fun.
+S0178,E031,1,2,Waste of time.
+S0613,E087,1,4,Great speakers and organization.
+S0252,E101,1,3,Could be better organized.
+S0471,E138,1,2,The audio was really bad.
+S0621,E019,1,1,Very boring.
+S0833,E141,1,1,Terrible organization.
+S0194,E066,1,4,Super informative and fun.
+S0598,E071,0,0,
+S0582,E108,1,3,It was okay.
+S0438,E126,0,0,
+S0111,E122,1,4,Great speakers and organization.
+S0123,E036,1,1,The audio was really bad.
+S0779,E014,1,1,The audio was really bad.
+S0111,E141,0,0,
+S0275,E033,1,4,Really enjoyed it.
+S0041,E146,1,1,Terrible organization.
+S0346,E071,1,4,Really enjoyed it.
+S0237,E057,0,0,
+S0619,E147,1,5,Great speakers and organization.
+S0861,E061,1,1,Didn't learn anything.
+S0599,E082,1,2,Very boring.
+S0209,E139,0,0,
+S0018,E042,1,5,Best event of the year!
+S0629,E070,1,1,Terrible organization.
+S0253,E105,1,2,Very boring.
+S0625,E043,1,2,The audio was really bad.
+S0245,E079,1,5,Super informative and fun.
+S0870,E099,1,2,Waste of time.
+S0103,E021,1,4,Loved the vibe.
+S0154,E099,0,0,
+S0769,E098,1,5,Great speakers and organization.
+S0211,E126,1,5,Great speakers and organization.
+S0330,E006,1,5,Super informative and fun.
+S0398,E114,0,0,
+S0211,E096,1,1,Didn't learn anything.
+S0858,E097,1,4,Really enjoyed it.
+S0224,E081,1,4,Great speakers and organization.
+S0255,E075,1,4,Super informative and fun.
+S0899,E121,1,5,Really enjoyed it.
+S0661,E017,1,1,Very boring.
+S0586,E089,1,4,The event was amazing!
+S0503,E112,1,4,The event was amazing!
+S0448,E066,1,2,The audio was really bad.
+S0376,E067,1,2,Waste of time.
+S0225,E150,0,0,
+S0614,E136,1,1,Very boring.
+S0374,E013,1,1,Waste of time.
+S0095,E142,1,3,It was okay.
+S0538,E066,1,2,The audio was really bad.
+S0146,E112,1,2,Waste of time.
+S0420,E080,1,5,The event was amazing!
+S0238,E024,0,0,
+S0054,E147,1,3,Could be better organized.
+S0482,E109,1,2,Terrible organization.
+S0828,E051,0,0,
+S0730,E020,1,1,The audio was really bad.
+S0837,E046,0,0,
+S0128,E119,0,0,
+S0780,E095,1,2,Didn't learn anything.
+S0955,E048,1,1,The audio was really bad.
+S0876,E044,1,5,The event was amazing!
+S0513,E130,1,4,Really enjoyed it.
+S0172,E013,1,2,Waste of time.
+S0248,E095,0,0,
+S0802,E072,1,2,Very boring.
+S0180,E029,1,2,Didn't learn anything.
+S0773,E011,1,4,Really enjoyed it.
+S0001,E074,1,5,Loved the vibe.
+S0694,E102,0,0,
+S0555,E104,0,0,
+S0478,E134,1,5,Super informative and fun.
+S0736,E104,1,5,Loved the vibe.
+S0171,E129,1,2,Terrible organization.
+S0212,E019,0,0,
+S0377,E077,1,5,Loved the vibe.
+S0392,E097,1,3,It was okay.
+S0323,E125,1,1,Waste of time.
+S0446,E038,1,5,Best event of the year!
+S0144,E078,1,2,Waste of time.
+S0017,E059,1,3,Decent event.
+S0409,E120,1,3,"Nothing special, but not bad."
+S0475,E034,1,1,Waste of time.
+S0971,E038,1,3,Average experience.
+S0055,E090,1,4,Best event of the year!
+S0894,E111,1,5,Great speakers and organization.
+S0364,E132,0,0,
+S0489,E011,1,1,The audio was really bad.
+S0340,E050,1,5,Really enjoyed it.
+S0012,E026,1,5,Great speakers and organization.
+S0062,E007,0,0,
+S0224,E134,1,1,Very boring.
+S0414,E086,0,0,
+S0472,E089,0,0,
+S0335,E073,1,1,Didn't learn anything.
+S0600,E032,1,4,Loved the vibe.
+S0782,E132,1,5,Best event of the year!
+S0767,E145,0,0,
+S0069,E040,1,3,Decent event.
+S0750,E069,1,2,Waste of time.
+S0096,E099,1,4,Really enjoyed it.
+S0043,E012,1,1,Waste of time.
+S0200,E108,0,0,
+S0199,E107,1,4,Super informative and fun.
+S0582,E066,1,1,Terrible organization.
+S0168,E010,1,4,The event was amazing!
+S0225,E120,1,4,The event was amazing!
+S0082,E118,1,5,Best event of the year!
+S0382,E121,1,5,Super informative and fun.
+S0562,E085,1,5,Really enjoyed it.
+S0684,E134,1,5,Really enjoyed it.
+S0232,E006,1,4,Great speakers and organization.
+S0337,E131,1,4,Best event of the year!
+S0415,E014,0,0,
+S0308,E066,1,2,Didn't learn anything.
+S0229,E057,1,4,Really enjoyed it.
+S0949,E026,0,0,
+S0518,E093,1,4,Loved the vibe.
+S0581,E085,1,1,Waste of time.
+S0167,E124,1,3,It was okay.
+S0447,E104,1,2,Very boring.
+S0485,E008,1,3,It was okay.
+S0316,E061,1,4,Loved the vibe.
+S0603,E055,1,4,Really enjoyed it.
+S0294,E063,0,0,
+S0824,E043,1,2,Didn't learn anything.
+S0335,E097,1,1,Terrible organization.
+S0085,E003,1,5,Loved the vibe.
+S0505,E024,1,1,Terrible organization.
+S0483,E046,1,2,The audio was really bad.
+S0864,E094,1,5,The event was amazing!
+S0042,E043,1,3,It was okay.
+S0040,E150,1,1,Didn't learn anything.
+S0001,E050,1,4,Loved the vibe.
+S0111,E069,0,0,
+S0299,E135,1,5,Great speakers and organization.
+S0142,E017,1,5,Great speakers and organization.
+S0162,E132,1,4,Super informative and fun.
+S0230,E073,1,4,Great speakers and organization.
+S0681,E042,1,4,Great speakers and organization.
+S0975,E131,1,3,Decent event.
+S0429,E061,1,3,"Nothing special, but not bad."
+S0247,E119,1,2,Terrible organization.
+S0082,E016,0,0,
+S0897,E031,1,1,Very boring.
+S0130,E039,1,3,Average experience.
+S0705,E082,0,0,
+S0245,E124,1,4,The event was amazing!
+S0953,E142,0,0,
+S0310,E054,1,1,The audio was really bad.
+S0161,E101,1,3,It was okay.
+S0051,E009,1,4,Really enjoyed it.
+S0833,E128,1,4,Best event of the year!
+S0884,E083,1,2,The audio was really bad.
+S0764,E109,1,5,Best event of the year!
+S0189,E002,1,3,Decent event.
+S0096,E125,1,2,Terrible organization.
+S0906,E036,1,5,Super informative and fun.
+S0508,E072,1,2,Very boring.
+S0040,E003,1,3,Could be better organized.
+S0382,E087,1,1,Very boring.
+S0791,E129,1,2,Waste of time.
+S0341,E130,1,5,Loved the vibe.
+S0911,E136,0,0,
+S0628,E051,1,1,Very boring.
+S0988,E141,1,5,Loved the vibe.
+S0046,E073,1,1,Very boring.
+S0604,E017,1,4,Loved the vibe.
+S0937,E147,1,3,Could be better organized.
+S0229,E116,1,3,It was okay.
+S0837,E059,0,0,
+S0261,E102,1,1,Didn't learn anything.
+S0235,E011,1,4,Really enjoyed it.
+S0407,E001,1,1,Terrible organization.
+S0822,E071,0,0,
+S0834,E140,1,1,Didn't learn anything.
+S0890,E079,0,0,
+S0680,E014,1,5,Really enjoyed it.
+S0547,E142,1,1,Waste of time.
+S0948,E100,0,0,
+S0744,E085,1,5,Best event of the year!
+S0206,E004,1,1,The audio was really bad.
+S0663,E063,1,1,Terrible organization.
+S0133,E067,1,3,Average experience.
+S0426,E042,1,2,Waste of time.
+S0371,E025,1,3,Could be better organized.
+S0709,E141,1,1,Waste of time.
+S0895,E032,1,2,Terrible organization.
+S0798,E070,1,1,Very boring.
+S0346,E032,0,0,
+S0785,E137,1,5,The event was amazing!
+S0493,E072,1,3,It was okay.
+S0362,E046,1,2,Didn't learn anything.
+S0968,E065,1,5,The event was amazing!
+S0065,E042,1,3,"Nothing special, but not bad."
+S0535,E137,1,4,Best event of the year!
+S0360,E008,1,4,Loved the vibe.
+S0107,E132,1,2,Waste of time.
+S0195,E124,0,0,
+S0766,E018,1,4,Super informative and fun.
+S0790,E118,1,3,Average experience.
+S0204,E011,1,4,Really enjoyed it.
+S0004,E147,1,1,The audio was really bad.
+S0665,E087,1,1,The audio was really bad.
+S0883,E119,1,2,Terrible organization.
+S0609,E134,0,0,
+S0785,E030,0,0,
+S0140,E122,1,5,Super informative and fun.
+S0744,E088,1,5,The event was amazing!
+S0806,E082,1,3,Could be better organized.
+S0842,E109,1,1,Terrible organization.
+S0057,E077,1,3,Decent event.
+S0157,E072,1,4,The event was amazing!
+S0999,E136,1,1,Very boring.
+S0316,E077,1,1,Terrible organization.
+S0292,E084,1,1,Waste of time.
+S0954,E135,0,0,
+S0614,E026,1,1,Terrible organization.
+S0999,E068,1,3,It was okay.
+S0188,E148,1,5,The event was amazing!
+S0238,E013,1,3,Could be better organized.
+S0773,E139,1,5,Super informative and fun.
+S0892,E140,1,5,Best event of the year!
+S0305,E026,1,1,The audio was really bad.
+S0941,E108,1,3,Average experience.
+S0759,E014,1,1,Terrible organization.
+S0972,E002,1,4,The event was amazing!
+S0481,E093,1,5,The event was amazing!
+S0271,E041,0,0,
+S0963,E144,1,1,The audio was really bad.
+S0173,E048,0,0,
+S0718,E027,1,4,Really enjoyed it.
+S0747,E033,1,5,Really enjoyed it.
+S0418,E002,0,0,
+S0591,E049,1,5,Really enjoyed it.
+S0061,E111,1,5,Best event of the year!
+S0398,E050,0,0,
+S0300,E089,1,4,Super informative and fun.
+S0422,E149,1,3,"Nothing special, but not bad."
+S0632,E032,1,3,Could be better organized.
+S0510,E001,1,4,Super informative and fun.
+S0196,E065,1,5,Really enjoyed it.
+S0834,E149,1,2,Waste of time.
+S0729,E011,1,2,Terrible organization.
+S0749,E019,1,2,Waste of time.
+S0284,E029,0,0,
+S0003,E054,1,1,Very boring.
+S0110,E088,1,4,Really enjoyed it.
+S0151,E032,1,3,Decent event.
+S0388,E133,1,4,Best event of the year!
+S0207,E038,1,4,Great speakers and organization.
+S0193,E063,1,4,Great speakers and organization.
+S0448,E013,1,1,Very boring.
+S0475,E041,1,1,Very boring.
+S0537,E075,1,4,The event was amazing!
+S0903,E074,1,3,Average experience.
+S0182,E110,1,4,Super informative and fun.
+S0067,E117,1,3,"Nothing special, but not bad."
+S0461,E052,1,4,Loved the vibe.
+S0277,E042,1,2,Very boring.
+S0927,E035,1,2,Very boring.
+S0394,E057,0,0,
+S0522,E038,1,3,Average experience.
+S0535,E066,1,3,Could be better organized.
+S0819,E080,1,1,Terrible organization.
+S0581,E028,1,3,Average experience.
+S0830,E063,0,0,
+S0877,E148,0,0,
+S0944,E047,1,5,The event was amazing!
+S0153,E006,1,5,Loved the vibe.
+S0582,E088,1,4,Really enjoyed it.
+S0192,E028,1,4,Great speakers and organization.
+S0713,E070,0,0,
+S0205,E103,0,0,
+S0579,E145,1,1,Very boring.
+S0484,E051,1,3,It was okay.
+S0879,E087,1,4,Really enjoyed it.
+S0546,E086,1,2,Very boring.
+S0981,E144,1,1,Terrible organization.
+S0579,E036,1,4,The event was amazing!
+S0210,E120,1,5,Best event of the year!
+S0075,E027,0,0,
+S0452,E035,1,2,Waste of time.
+S0380,E025,1,3,It was okay.
+S0941,E105,1,3,Could be better organized.
+S0912,E116,1,1,The audio was really bad.
+S0946,E061,0,0,
+S0122,E024,1,5,Super informative and fun.
+S0765,E062,1,4,Best event of the year!
+S0284,E139,1,1,Very boring.
+S0837,E056,1,3,It was okay.
+S0091,E129,0,0,
+S0235,E148,1,1,Very boring.
+S0714,E090,1,4,Super informative and fun.
+S0713,E043,1,1,Didn't learn anything.
+S0022,E071,1,2,Waste of time.
+S0240,E012,1,2,Waste of time.
+S0203,E034,1,4,The event was amazing!
+S0678,E116,1,5,Really enjoyed it.
+S0033,E031,1,3,Average experience.
+S0855,E111,1,1,Waste of time.
+S0486,E097,1,2,The audio was really bad.
+S0036,E137,1,4,The event was amazing!
+S0087,E041,1,1,Waste of time.
+S0426,E028,1,2,Waste of time.
+S0273,E134,0,0,
+S0906,E136,0,0,
+S0921,E150,1,4,Really enjoyed it.
+S0849,E137,0,0,
+S0221,E115,1,2,Didn't learn anything.
+S0857,E114,1,3,Average experience.
+S0621,E055,1,2,Very boring.
+S0303,E097,0,0,
+S0477,E024,0,0,
+S0119,E033,1,2,Didn't learn anything.
+S0973,E029,0,0,
+S0491,E102,0,0,
+S0730,E035,1,5,Really enjoyed it.
+S0552,E060,1,2,Terrible organization.
+S0521,E140,1,2,Didn't learn anything.
+S0566,E022,1,5,Super informative and fun.
+S0096,E067,1,3,Could be better organized.
+S0140,E046,1,4,Loved the vibe.
+S0871,E053,1,2,Terrible organization.
+S0531,E038,0,0,
+S0453,E019,1,5,The event was amazing!
+S0756,E083,1,2,The audio was really bad.
+S0868,E087,1,1,Terrible organization.
+S0799,E007,1,1,Terrible organization.
+S0331,E043,0,0,
+S0084,E022,1,4,The event was amazing!
+S0450,E138,1,1,Didn't learn anything.
+S0027,E039,1,3,Decent event.
+S0689,E030,0,0,
+S0662,E075,1,3,"Nothing special, but not bad."
+S0088,E140,1,5,Best event of the year!
+S0591,E139,1,3,Decent event.
+S0535,E020,1,2,The audio was really bad.
+S0514,E011,1,4,Loved the vibe.
+S0042,E130,1,4,The event was amazing!
+S0046,E013,1,3,"Nothing special, but not bad."
+S0387,E089,1,1,The audio was really bad.
+S0742,E133,1,5,Really enjoyed it.
+S0415,E097,0,0,
+S0126,E061,1,2,The audio was really bad.
+S0524,E059,1,3,It was okay.
+S0375,E080,1,5,Loved the vibe.
+S0748,E011,0,0,
+S0732,E011,1,1,Very boring.
+S0213,E062,1,5,Super informative and fun.
+S0572,E118,0,0,
+S0364,E005,0,0,
+S0798,E135,1,2,Terrible organization.
+S0063,E069,1,1,Very boring.
+S0259,E136,1,5,Super informative and fun.
+S0757,E002,1,3,"Nothing special, but not bad."
+S0561,E122,1,2,Didn't learn anything.
+S0199,E097,1,5,Best event of the year!
+S0066,E103,1,2,Waste of time.
+S0690,E017,1,4,Super informative and fun.
+S0695,E076,1,5,Super informative and fun.
+S0661,E079,1,3,"Nothing special, but not bad."
+S0022,E063,1,2,The audio was really bad.
+S0740,E136,1,2,Terrible organization.
+S0318,E065,1,4,The event was amazing!
+S0842,E100,1,4,Really enjoyed it.
+S0364,E096,1,1,Waste of time.
+S0413,E059,1,3,Could be better organized.
+S0700,E048,1,2,Terrible organization.
+S0685,E022,1,4,Great speakers and organization.
+S0422,E072,1,5,Super informative and fun.
+S0984,E136,0,0,
+S0939,E006,1,1,The audio was really bad.
+S0248,E143,0,0,
+S0532,E046,1,3,"Nothing special, but not bad."
+S0477,E016,1,1,The audio was really bad.
+S0704,E015,1,2,Waste of time.
+S0939,E056,1,3,"Nothing special, but not bad."
+S0849,E135,1,5,Great speakers and organization.
+S0905,E032,1,2,Waste of time.
+S0826,E027,1,1,Didn't learn anything.
+S0466,E135,1,1,Didn't learn anything.
+S0050,E051,1,5,The event was amazing!
+S0647,E051,1,2,Waste of time.
+S0415,E083,1,1,Very boring.
+S0876,E009,1,1,Didn't learn anything.
+S0780,E130,1,3,Decent event.
+S0098,E119,0,0,
+S0879,E105,0,0,
+S0914,E003,1,2,Waste of time.
+S0841,E007,1,5,The event was amazing!
+S0343,E107,1,5,Really enjoyed it.
+S0858,E135,1,2,Very boring.
+S0342,E121,1,3,Average experience.
+S0843,E031,1,1,Didn't learn anything.
+S0697,E055,1,3,Could be better organized.
+S0812,E089,1,1,Terrible organization.
+S0319,E019,1,5,Best event of the year!
+S0791,E148,1,1,Didn't learn anything.
+S0300,E058,1,4,Super informative and fun.
+S0489,E088,1,5,Really enjoyed it.
+S0775,E105,1,2,Waste of time.
+S0965,E056,0,0,
+S0617,E130,1,1,Waste of time.
+S0463,E071,1,3,Decent event.
+S0079,E024,1,1,The audio was really bad.
+S0134,E134,0,0,
+S0418,E011,1,1,The audio was really bad.
+S0244,E127,1,4,Loved the vibe.
+S0990,E012,0,0,
+S0711,E025,1,2,Very boring.
+S0800,E005,1,2,Terrible organization.
+S0533,E053,1,4,Loved the vibe.
+S0906,E023,1,4,Really enjoyed it.
+S0702,E117,1,3,"Nothing special, but not bad."
+S0103,E045,1,3,Average experience.
+S0365,E014,1,5,Super informative and fun.
+S0188,E112,0,0,
+S0112,E125,1,4,Super informative and fun.
+S0660,E037,0,0,
+S0216,E135,1,3,It was okay.
+S0119,E062,1,5,The event was amazing!
+S0813,E136,1,2,The audio was really bad.
+S0306,E061,1,5,Best event of the year!
+S0916,E136,1,4,The event was amazing!
+S0218,E060,1,5,Best event of the year!
+S0128,E014,1,3,Decent event.
+S0708,E005,0,0,
+S0842,E013,0,0,
+S0378,E145,0,0,
+S0725,E017,1,3,Could be better organized.
+S0187,E005,1,3,Could be better organized.
+S0827,E043,1,5,Best event of the year!
+S0587,E108,0,0,
+S0587,E097,1,5,Best event of the year!
+S0620,E117,1,5,Great speakers and organization.
+S0149,E138,1,5,Loved the vibe.
+S0653,E146,1,2,The audio was really bad.
+S0579,E027,1,1,Didn't learn anything.
+S0909,E080,0,0,
+S0634,E050,1,2,Terrible organization.
+S0190,E058,1,2,Very boring.
+S0414,E145,0,0,
+S0984,E015,1,5,Best event of the year!
+S0024,E143,1,2,Very boring.
+S0656,E031,1,4,The event was amazing!
+S0658,E114,1,2,The audio was really bad.
+S0576,E059,0,0,
+S0622,E057,1,5,Great speakers and organization.
+S0666,E063,0,0,
+S0142,E144,1,3,It was okay.
+S0919,E089,1,1,Waste of time.
+S0924,E145,0,0,
+S0445,E088,1,5,Really enjoyed it.
+S0416,E092,0,0,
+S0693,E038,1,3,It was okay.
+S0803,E141,1,5,Loved the vibe.
+S0353,E105,1,2,Terrible organization.
+S0576,E124,1,1,Waste of time.
+S0785,E049,0,0,
+S0322,E147,1,1,The audio was really bad.
+S0864,E050,1,4,Super informative and fun.
+S0153,E062,0,0,
+S0816,E080,0,0,
+S0279,E011,1,2,Very boring.
+S0771,E058,1,1,Didn't learn anything.
+S0445,E101,1,1,Terrible organization.
+S0120,E100,0,0,
+S0207,E020,1,2,Didn't learn anything.
+S0343,E007,1,1,Very boring.
+S0541,E015,0,0,
+S0664,E072,1,3,Could be better organized.
+S0075,E083,1,4,Loved the vibe.
+S0793,E046,0,0,
+S0201,E150,1,4,Best event of the year!
+S0148,E013,1,2,The audio was really bad.
+S0277,E005,1,4,Loved the vibe.
+S0614,E073,1,2,Terrible organization.
+S0732,E115,1,4,Loved the vibe.
+S0688,E034,0,0,
+S0141,E089,1,5,The event was amazing!
+S0764,E126,1,4,The event was amazing!
+S0165,E145,0,0,
+S0069,E068,1,4,Super informative and fun.
+S0691,E137,1,1,Waste of time.
+S0204,E052,1,2,Terrible organization.
+S0960,E034,1,3,"Nothing special, but not bad."
+S0208,E089,1,1,Very boring.
+S0558,E021,1,1,Waste of time.
+S0870,E043,1,1,Didn't learn anything.
+S0168,E001,1,1,Waste of time.
+S0769,E109,1,5,Best event of the year!
+S0326,E034,1,4,Super informative and fun.
+S0588,E089,1,1,Waste of time.
+S0224,E115,1,5,Great speakers and organization.
+S0315,E068,0,0,
+S0051,E044,0,0,
+S0331,E013,1,4,Great speakers and organization.
+S0523,E012,1,4,Great speakers and organization.
+S0292,E014,1,4,Really enjoyed it.
+S0699,E065,1,4,Loved the vibe.
+S0548,E028,1,4,Best event of the year!
+S0810,E128,0,0,
+S0175,E048,1,1,Waste of time.
+S0655,E024,1,5,Super informative and fun.
+S0848,E047,1,2,The audio was really bad.
+S0532,E108,1,5,Super informative and fun.
+S0349,E126,0,0,
+S0449,E060,1,2,Didn't learn anything.
+S0249,E030,0,0,
+S0182,E140,1,4,The event was amazing!
+S0347,E059,0,0,
+S0769,E116,1,4,Best event of the year!
+S0603,E140,1,4,Best event of the year!
+S0950,E031,1,4,Best event of the year!
+S0063,E104,1,2,Very boring.
+S0881,E004,1,1,Very boring.
+S0554,E037,1,2,Waste of time.
+S0230,E090,1,2,Terrible organization.
+S0403,E094,1,3,Could be better organized.
+S0459,E027,1,4,Super informative and fun.
+S0154,E019,0,0,
+S0667,E045,1,5,Really enjoyed it.
+S0336,E146,1,4,Super informative and fun.
+S0978,E011,0,0,
+S0605,E137,1,2,Very boring.
+S0639,E139,1,5,The event was amazing!
+S0976,E041,1,1,The audio was really bad.
+S0818,E009,0,0,
+S0709,E059,0,0,
+S0444,E065,0,0,
+S0993,E075,1,3,Could be better organized.
+S0346,E132,0,0,
+S0645,E017,1,3,Average experience.
+S0463,E140,0,0,
+S0469,E010,1,1,The audio was really bad.
+S0946,E046,1,5,Loved the vibe.
+S0459,E100,1,2,Didn't learn anything.
+S0788,E048,1,5,Loved the vibe.
+S0282,E098,1,5,The event was amazing!
+S0737,E119,1,5,Super informative and fun.
+S0505,E099,0,0,
+S0154,E148,1,5,Loved the vibe.
+S0736,E040,1,3,Could be better organized.
+S0591,E051,1,1,Didn't learn anything.
+S0326,E135,1,4,Best event of the year!
+S0191,E061,1,1,The audio was really bad.
+S0905,E008,1,4,Loved the vibe.
+S0746,E085,1,5,The event was amazing!
+S0032,E032,1,3,Could be better organized.
+S0181,E088,1,3,Average experience.
+S0187,E135,1,4,Super informative and fun.
+S0404,E051,1,3,Could be better organized.
+S0302,E048,1,2,Didn't learn anything.
+S0758,E148,1,4,Really enjoyed it.
+S0888,E050,0,0,
+S0984,E147,1,3,Decent event.
+S0169,E067,1,3,"Nothing special, but not bad."
+S0546,E087,1,2,The audio was really bad.
+S0399,E043,0,0,
+S0176,E104,0,0,
+S0227,E057,1,5,Super informative and fun.
+S0801,E095,1,2,Didn't learn anything.
+S0109,E144,1,3,Average experience.
+S0027,E126,0,0,
+S0270,E099,0,0,
+S0333,E005,0,0,
+S0329,E125,1,3,"Nothing special, but not bad."
+S0008,E050,1,5,The event was amazing!
+S0899,E132,0,0,
+S0077,E029,1,5,Loved the vibe.
+S0169,E013,1,5,Best event of the year!
+S0342,E149,1,3,It was okay.
+S0089,E094,1,4,Great speakers and organization.
+S0091,E084,1,4,The event was amazing!
+S0335,E084,1,1,Waste of time.
+S0747,E045,1,5,Really enjoyed it.
+S0838,E108,1,5,The event was amazing!
+S0244,E110,1,3,It was okay.
+S0017,E069,1,1,The audio was really bad.
+S0974,E023,1,3,"Nothing special, but not bad."
+S0468,E099,0,0,
+S0542,E032,0,0,
+S0537,E122,0,0,
+S0062,E034,1,1,The audio was really bad.
+S0370,E034,1,5,Super informative and fun.
+S0572,E090,1,2,Waste of time.
+S0958,E085,0,0,
+S0829,E110,1,1,The audio was really bad.
+S0885,E150,0,0,
+S0426,E116,0,0,
+S0453,E072,1,2,Waste of time.
+S0505,E087,0,0,
+S0346,E072,0,0,
+S0648,E087,0,0,
+S0433,E094,1,5,Great speakers and organization.
+S0183,E129,1,3,Could be better organized.
+S0933,E031,1,4,Great speakers and organization.
+S0027,E035,1,1,Terrible organization.
+S0160,E079,1,2,Didn't learn anything.
+S0663,E060,1,2,Waste of time.
+S0659,E030,1,3,It was okay.
+S0214,E002,1,3,Decent event.
+S0035,E134,1,4,Super informative and fun.
+S0756,E047,1,3,Average experience.
+S0292,E134,0,0,
+S0632,E099,1,5,Super informative and fun.
+S0734,E126,1,4,Best event of the year!
+S0960,E057,1,4,Best event of the year!
+S0808,E113,1,4,Really enjoyed it.
+S0765,E002,1,3,Could be better organized.
+S0757,E043,1,3,"Nothing special, but not bad."
+S0973,E018,0,0,
+S0224,E045,0,0,
+S0828,E028,1,2,Terrible organization.
+S0130,E052,0,0,
+S0147,E002,1,5,The event was amazing!
+S0061,E097,1,1,Didn't learn anything.
+S0251,E107,1,4,Really enjoyed it.
+S0209,E142,1,3,It was okay.
+S0546,E043,1,4,Super informative and fun.
+S0724,E023,1,2,Waste of time.
+S0922,E090,1,4,Great speakers and organization.
+S0267,E093,0,0,
+S0643,E069,1,2,Very boring.
+S0159,E147,1,3,"Nothing special, but not bad."
+S0634,E024,0,0,
+S0837,E117,1,5,Really enjoyed it.
+S0748,E027,1,1,Didn't learn anything.
+S0890,E047,1,1,Very boring.
+S0180,E017,1,2,Waste of time.
+S0454,E056,0,0,
+S0672,E150,1,1,The audio was really bad.
+S0187,E045,1,5,Super informative and fun.
+S0932,E055,1,2,Terrible organization.
+S0751,E110,1,5,The event was amazing!
+S0656,E078,1,5,Super informative and fun.
+S0148,E061,1,3,Average experience.
+S0720,E063,0,0,
+S0877,E139,1,3,Could be better organized.
+S0963,E079,1,4,The event was amazing!
+S0501,E119,1,2,Waste of time.
+S0828,E101,1,2,Terrible organization.
+S0585,E086,1,3,Could be better organized.
+S0831,E128,0,0,
+S0733,E030,1,4,Super informative and fun.
+S0845,E150,1,1,Waste of time.
+S0585,E045,1,1,Waste of time.
+S0057,E085,1,5,Loved the vibe.
+S0778,E135,1,1,Waste of time.
+S0503,E084,1,5,Super informative and fun.
+S0969,E133,1,2,Waste of time.
+S0029,E026,1,3,Decent event.
+S0747,E014,0,0,
+S0193,E045,1,1,The audio was really bad.
+S0780,E142,1,5,Best event of the year!
+S0907,E120,0,0,
+S0516,E130,0,0,
+S0449,E090,1,3,Could be better organized.
+S0366,E048,1,5,Loved the vibe.
+S0947,E016,1,2,Terrible organization.
+S0285,E078,1,4,Best event of the year!
+S0084,E147,0,0,
+S0329,E029,1,1,The audio was really bad.
+S0856,E042,1,5,The event was amazing!
+S0024,E039,0,0,
+S0172,E090,1,1,The audio was really bad.
+S0204,E123,1,5,Really enjoyed it.
+S0059,E051,1,5,Loved the vibe.
+S0482,E022,1,5,Loved the vibe.
+S0096,E030,1,4,The event was amazing!
+S0649,E039,1,1,Waste of time.
+S0162,E031,1,4,Loved the vibe.
+S0771,E036,1,1,Didn't learn anything.
+S0790,E023,1,1,Very boring.
+S0413,E027,1,2,Terrible organization.
+S0124,E009,1,2,The audio was really bad.
+S0678,E136,1,2,Waste of time.
+S0948,E055,1,3,Could be better organized.
+S0198,E111,1,3,"Nothing special, but not bad."
+S0550,E004,1,4,Best event of the year!
+S0898,E078,0,0,
+S0107,E039,1,2,Terrible organization.
+S0093,E073,1,5,Best event of the year!
+S0405,E135,1,3,It was okay.
+S0591,E084,1,2,Didn't learn anything.
+S0294,E097,1,1,Didn't learn anything.
+S0199,E094,1,4,The event was amazing!
+S0825,E055,0,0,
+S0611,E089,1,5,Loved the vibe.
+S0844,E005,1,2,Very boring.
+S0122,E037,1,2,Very boring.
+S0563,E084,0,0,
+S0376,E100,1,2,Waste of time.
+S0867,E007,1,1,Waste of time.
+S0027,E037,1,1,Very boring.
+S0127,E093,0,0,
+S0166,E123,1,5,Loved the vibe.
+S0285,E016,1,5,Super informative and fun.
+S0063,E114,1,4,Loved the vibe.
+S0883,E006,1,2,Waste of time.
+S0130,E073,0,0,
+S0666,E028,1,3,Average experience.
+S0848,E002,1,3,It was okay.
+S0256,E016,1,1,Didn't learn anything.
+S0372,E104,1,5,Best event of the year!
+S0463,E095,1,3,Could be better organized.
+S0067,E095,1,5,Best event of the year!
+S0798,E090,1,3,Decent event.
+S0864,E045,1,3,Decent event.
+S0862,E028,1,3,Decent event.
+S0445,E001,1,1,Didn't learn anything.
+S0061,E031,0,0,
+S0126,E010,1,1,Very boring.
+S0568,E059,1,4,Loved the vibe.
+S0283,E024,1,2,Very boring.
+S0529,E011,0,0,
+S0014,E133,1,3,Decent event.
+S0110,E038,0,0,
+S0032,E028,1,1,Very boring.
+S0087,E051,0,0,
+S0044,E105,1,1,Waste of time.
+S0056,E119,1,3,It was okay.
+S0993,E013,1,3,Could be better organized.
+S0977,E071,1,3,"Nothing special, but not bad."
+S0821,E103,1,1,Waste of time.
+S0026,E005,0,0,
+S0446,E047,1,5,Super informative and fun.
+S0693,E091,1,4,Best event of the year!
+S0440,E065,1,1,Waste of time.
+S0124,E144,1,3,"Nothing special, but not bad."
+S0688,E052,0,0,
+S0413,E041,1,3,Decent event.
+S0911,E101,1,2,Terrible organization.
+S0362,E150,1,5,Really enjoyed it.
+S0851,E036,1,1,Terrible organization.
+S0059,E069,1,4,Loved the vibe.
+S0103,E080,1,5,The event was amazing!
+S0774,E018,1,1,Very boring.
+S0603,E125,1,1,The audio was really bad.
+S0039,E006,1,5,Really enjoyed it.
+S0557,E142,1,5,Best event of the year!
+S0879,E070,0,0,
+S0004,E081,1,1,The audio was really bad.
+S0804,E045,1,3,Could be better organized.
+S0624,E129,1,5,Great speakers and organization.
+S0663,E128,1,5,Super informative and fun.
+S0505,E058,1,2,Very boring.
+S0605,E113,1,4,Loved the vibe.
+S0618,E143,1,1,Very boring.
+S0930,E098,1,2,Waste of time.
+S0497,E074,1,4,Loved the vibe.
+S0585,E069,1,2,Waste of time.
+S0781,E083,1,2,Waste of time.
+S0755,E132,0,0,
+S0610,E075,0,0,
+S0583,E030,0,0,
+S0457,E004,1,3,"Nothing special, but not bad."
+S0905,E111,1,1,Waste of time.
+S0479,E014,0,0,
+S0472,E139,1,1,Terrible organization.
+S0421,E015,1,1,The audio was really bad.
+S0098,E140,1,2,The audio was really bad.
+S0701,E147,0,0,
+S0610,E130,0,0,
+S0460,E038,1,1,Very boring.
+S0986,E006,0,0,
+S0516,E075,0,0,
+S0032,E019,0,0,
+S0951,E103,1,3,Could be better organized.
+S0142,E042,1,4,Great speakers and organization.
+S0535,E132,1,5,Loved the vibe.
+S0996,E130,1,4,The event was amazing!
+S0553,E045,1,1,The audio was really bad.
+S0554,E012,1,4,Great speakers and organization.
+S0485,E024,1,2,Very boring.
+S0577,E022,1,5,Loved the vibe.
+S0094,E022,1,5,Loved the vibe.
+S0691,E070,1,5,Best event of the year!
+S0434,E144,0,0,
+S0155,E119,1,5,Best event of the year!
+S0953,E123,1,3,It was okay.
+S0603,E091,1,1,The audio was really bad.
+S0927,E023,0,0,
+S0434,E029,1,4,The event was amazing!
+S0507,E142,1,2,Very boring.
+S0291,E142,0,0,
+S0230,E086,1,3,It was okay.
+S0798,E118,0,0,
+S0818,E102,1,3,It was okay.
+S0907,E108,1,5,Loved the vibe.
+S0393,E140,1,3,Could be better organized.
+S0440,E007,1,4,Super informative and fun.
+S0320,E039,1,4,The event was amazing!
+S0157,E144,1,1,Very boring.
+S0146,E041,1,5,Really enjoyed it.
+S0846,E105,1,5,Super informative and fun.
+S0129,E001,0,0,
+S0991,E147,1,3,Could be better organized.
+S0410,E137,0,0,
+S0234,E011,1,2,The audio was really bad.
+S0405,E123,1,5,Loved the vibe.
+S0617,E148,1,4,The event was amazing!
+S0639,E017,1,3,It was okay.
+S0220,E029,0,0,
+S0918,E064,1,5,Best event of the year!
+S0835,E042,1,4,The event was amazing!
+S0239,E055,1,4,The event was amazing!
+S0350,E048,1,1,The audio was really bad.
+S0329,E143,0,0,
+S0097,E103,1,1,Waste of time.
+S0369,E072,1,4,Really enjoyed it.
+S0269,E032,0,0,
+S0100,E110,1,1,Waste of time.
+S0714,E075,1,1,Didn't learn anything.
+S0427,E103,1,4,Best event of the year!
+S0496,E017,0,0,
+S0130,E067,0,0,
+S0552,E147,0,0,
+S0646,E011,0,0,
+S0555,E001,1,4,Super informative and fun.
+S0149,E025,1,1,Very boring.
+S0278,E106,0,0,
+S0869,E027,1,3,Could be better organized.
+S0190,E101,1,3,Could be better organized.
+S0433,E138,0,0,
+S0825,E064,0,0,
+S0406,E141,1,3,Could be better organized.
+S0391,E146,1,1,The audio was really bad.
+S0349,E067,1,1,Terrible organization.
+S0128,E035,0,0,
+S0696,E047,1,4,Great speakers and organization.
+S0253,E098,1,3,It was okay.
+S0073,E122,1,4,Best event of the year!
+S0746,E016,1,5,Super informative and fun.
+S0771,E143,1,2,Very boring.
+S0322,E064,1,2,Terrible organization.
+S0528,E149,1,3,Average experience.
+S0614,E015,1,4,The event was amazing!
+S0051,E007,0,0,
+S0672,E147,1,2,The audio was really bad.
+S0544,E149,1,2,Terrible organization.
+S0301,E097,1,3,Could be better organized.
+S0629,E112,1,4,Loved the vibe.
+S0052,E084,1,3,"Nothing special, but not bad."
+S0015,E080,1,4,Great speakers and organization.
+S0502,E114,1,5,The event was amazing!
+S0585,E116,1,3,"Nothing special, but not bad."
+S0197,E130,0,0,
+S0030,E109,1,2,The audio was really bad.
+S0265,E104,1,2,Waste of time.
+S0789,E108,1,3,It was okay.
+S0112,E102,1,5,Super informative and fun.
+S0356,E059,1,1,Very boring.
+S0165,E048,1,2,Waste of time.
+S0302,E047,1,4,Loved the vibe.
+S0711,E122,1,4,Really enjoyed it.
+S0783,E081,0,0,
+S0069,E100,1,1,Terrible organization.
+S0182,E072,1,1,The audio was really bad.
+S0933,E129,1,5,Super informative and fun.
+S0655,E100,1,1,Didn't learn anything.
+S0016,E028,1,5,Super informative and fun.
+S0406,E124,1,5,Really enjoyed it.
+S0201,E021,1,5,Super informative and fun.
+S0904,E092,1,1,The audio was really bad.
+S0457,E035,1,3,"Nothing special, but not bad."
+S0654,E109,1,2,Terrible organization.
+S0942,E043,1,2,Didn't learn anything.
+S0258,E059,1,3,"Nothing special, but not bad."
+S0441,E089,0,0,
+S0748,E099,0,0,
+S0050,E119,0,0,
+S0359,E044,1,3,Could be better organized.
+S0180,E080,1,1,Didn't learn anything.
+S0712,E060,0,0,
+S0333,E065,1,3,It was okay.
+S0033,E110,1,3,Average experience.
+S0293,E120,1,2,Waste of time.
+S0866,E020,1,2,Waste of time.
+S0158,E115,1,5,Super informative and fun.
+S0784,E126,0,0,
+S0752,E022,1,4,Loved the vibe.
+S0783,E053,1,3,"Nothing special, but not bad."
+S0502,E044,1,2,Didn't learn anything.
+S0552,E098,1,1,Very boring.
+S0363,E004,0,0,
+S0063,E018,0,0,
+S0803,E100,1,1,The audio was really bad.
+S0337,E050,1,4,Super informative and fun.
+S0812,E059,1,5,Super informative and fun.
+S0850,E038,1,5,Really enjoyed it.
+S0339,E059,1,1,Terrible organization.
+S0879,E027,0,0,
+S0071,E102,1,4,Super informative and fun.
+S0294,E132,1,4,Great speakers and organization.
+S0177,E072,1,3,Average experience.
+S0268,E068,1,1,Didn't learn anything.
+S0216,E137,1,1,Very boring.
+S0618,E056,1,5,The event was amazing!
+S0016,E083,1,5,The event was amazing!
+S0151,E138,1,5,Super informative and fun.
+S0677,E066,0,0,
+S0753,E099,0,0,
+S0582,E149,1,5,Super informative and fun.
+S0907,E016,1,3,Decent event.
+S0593,E035,1,1,The audio was really bad.
+S0860,E116,1,3,Decent event.
+S0239,E010,1,5,Super informative and fun.
+S0766,E098,1,2,The audio was really bad.
+S0136,E053,0,0,
+S0665,E058,0,0,
+S0461,E042,0,0,
+S0242,E061,0,0,
+S0812,E027,1,1,Didn't learn anything.
+S0512,E008,1,2,Didn't learn anything.
+S0216,E045,0,0,
+S0888,E132,1,5,Super informative and fun.
+S0947,E055,1,2,Terrible organization.
+S0046,E030,1,2,Waste of time.
+S0180,E001,1,1,Didn't learn anything.
+S0396,E119,1,4,The event was amazing!
+S0047,E008,0,0,
+S0862,E143,1,4,The event was amazing!
+S0012,E141,1,3,"Nothing special, but not bad."
+S0382,E099,1,3,It was okay.
+S0940,E061,0,0,
+S0297,E082,1,1,Didn't learn anything.
+S0523,E013,1,3,Decent event.
+S0802,E141,1,2,The audio was really bad.
+S0317,E105,0,0,
+S0324,E026,1,1,Waste of time.
+S0751,E005,1,4,Really enjoyed it.
+S0004,E095,1,3,Could be better organized.
+S0389,E113,1,3,It was okay.
+S0925,E012,1,4,Best event of the year!
+S0400,E109,1,1,Terrible organization.
+S0014,E101,1,3,It was okay.
+S0726,E024,1,3,It was okay.
+S0828,E115,0,0,
+S0332,E026,1,5,Super informative and fun.
+S0276,E121,1,5,Super informative and fun.
+S0016,E095,0,0,
+S0779,E050,1,4,Super informative and fun.
+S0208,E076,0,0,
+S0145,E097,0,0,
+S0744,E146,0,0,
+S0637,E104,1,4,Super informative and fun.
+S0471,E004,0,0,
+S0240,E139,1,5,Super informative and fun.
+S0533,E145,1,4,Super informative and fun.
+S0699,E125,0,0,
+S0075,E094,1,3,Could be better organized.
+S0440,E047,1,4,The event was amazing!
+S0584,E117,1,1,Didn't learn anything.
+S0243,E033,1,1,Waste of time.
+S0442,E092,1,5,Super informative and fun.
+S0573,E048,1,1,The audio was really bad.
+S0081,E142,1,5,Great speakers and organization.
+S0957,E036,1,4,Great speakers and organization.
+S0344,E131,1,1,Very boring.
+S0499,E117,1,1,Waste of time.
+S0500,E076,1,5,Really enjoyed it.
+S0803,E020,1,5,Best event of the year!
+S0817,E142,1,3,It was okay.
+S0624,E104,1,4,Great speakers and organization.
+S0182,E042,1,5,Loved the vibe.
+S0343,E132,0,0,
+S0077,E116,1,3,Average experience.
+S0273,E034,1,5,Great speakers and organization.
+S0698,E076,1,4,The event was amazing!
+S0327,E112,0,0,
+S0130,E001,0,0,
+S0145,E033,1,4,The event was amazing!
+S0728,E148,1,1,Terrible organization.
+S0648,E103,1,3,Decent event.
+S0282,E014,1,2,Waste of time.
+S0848,E035,1,4,Really enjoyed it.
+S0942,E144,0,0,
+S0336,E072,1,1,Terrible organization.
+S0498,E134,0,0,
+S0188,E042,1,4,Really enjoyed it.
+S0093,E035,1,1,Very boring.
+S0965,E139,1,1,Very boring.
+S0068,E016,1,5,Best event of the year!
+S0715,E016,1,1,Didn't learn anything.
+S0381,E001,0,0,
+S0183,E119,1,1,The audio was really bad.
+S0191,E110,1,1,The audio was really bad.
+S0233,E113,1,5,Really enjoyed it.
+S0205,E012,1,4,The event was amazing!
+S0830,E111,0,0,
+S0322,E004,1,4,Great speakers and organization.
+S0928,E023,0,0,
+S0588,E080,0,0,
+S0729,E084,1,2,Waste of time.
+S0817,E146,0,0,
+S0480,E106,0,0,
+S0569,E147,1,4,Great speakers and organization.
+S0135,E066,1,4,The event was amazing!
+S0424,E023,0,0,
+S0813,E132,1,4,Really enjoyed it.
+S0825,E080,0,0,
+S0085,E055,1,1,The audio was really bad.
+S0341,E012,1,3,Could be better organized.
+S0680,E104,1,2,Terrible organization.
+S0480,E076,1,3,Decent event.
+S0263,E135,1,3,"Nothing special, but not bad."
+S0431,E136,1,4,Great speakers and organization.
+S0559,E112,1,4,Loved the vibe.
+S0199,E141,1,3,Average experience.
+S0954,E139,0,0,
+S0200,E141,1,2,The audio was really bad.
+S0820,E059,1,3,Decent event.
+S0937,E036,0,0,
+S0049,E085,1,1,Very boring.
+S0836,E114,1,1,Very boring.
+S0369,E115,0,0,
+S0344,E091,1,3,Decent event.
+S0164,E053,0,0,
+S0188,E003,0,0,
+S0035,E139,1,3,It was okay.
+S0044,E127,1,1,Didn't learn anything.
+S0105,E060,1,1,Terrible organization.
+S0474,E130,1,1,Didn't learn anything.
+S0704,E005,1,3,Average experience.
+S0722,E114,1,1,Waste of time.
+S0173,E007,1,5,Great speakers and organization.
+S0942,E060,1,3,It was okay.
+S0699,E046,1,1,Waste of time.
+S0187,E113,1,5,Great speakers and organization.
+S0893,E016,1,2,Very boring.
+S0778,E013,1,3,It was okay.
+S0346,E055,1,3,Could be better organized.
+S0266,E113,0,0,
+S0348,E009,1,3,It was okay.
+S0979,E127,1,4,Best event of the year!
+S0196,E034,1,5,Super informative and fun.
+S0051,E091,0,0,
+S0691,E094,1,2,Terrible organization.
+S0050,E003,1,3,Could be better organized.
+S0222,E078,1,2,Didn't learn anything.
+S0122,E001,1,3,"Nothing special, but not bad."
+S0961,E009,1,4,The event was amazing!
+S0519,E073,1,1,Didn't learn anything.
+S0308,E025,1,3,Could be better organized.
+S0632,E045,0,0,
+S0779,E063,1,5,Great speakers and organization.
+S0151,E012,1,4,The event was amazing!
+S0035,E016,1,4,Super informative and fun.
+S0964,E148,1,1,Very boring.
+S0585,E110,0,0,
+S0061,E019,0,0,
+S0397,E113,1,3,It was okay.
+S0797,E062,1,5,Great speakers and organization.
+S0712,E033,1,2,Didn't learn anything.
+S0869,E074,1,5,Best event of the year!
+S0987,E096,1,1,Terrible organization.
+S0403,E126,1,4,Really enjoyed it.
+S0343,E084,1,2,Waste of time.
+S0649,E090,1,1,Very boring.
+S0218,E098,1,3,"Nothing special, but not bad."
+S0921,E101,1,3,It was okay.
+S0261,E048,0,0,
+S0063,E048,0,0,
+S0720,E039,1,2,The audio was really bad.
+S0339,E025,1,1,Terrible organization.
+S0586,E011,1,1,The audio was really bad.
+S0251,E002,0,0,
+S0570,E106,0,0,
+S0260,E063,1,2,Terrible organization.
+S0091,E099,1,4,Really enjoyed it.
+S0814,E035,0,0,
+S0950,E002,1,3,Decent event.
+S0343,E145,0,0,
+S0809,E140,1,3,Could be better organized.
+S0882,E048,1,2,Didn't learn anything.
+S0755,E109,1,2,Very boring.
+S0048,E060,1,4,Best event of the year!
+S0824,E046,1,2,Very boring.
+S0379,E091,0,0,
+S0192,E020,1,4,Loved the vibe.
+S0912,E007,0,0,
+S0930,E114,1,1,The audio was really bad.
+S0863,E042,1,5,The event was amazing!
+S0186,E049,1,2,Terrible organization.
+S0663,E044,1,3,Could be better organized.
+S0805,E032,0,0,
+S0587,E126,1,3,Could be better organized.
+S0097,E112,1,1,Didn't learn anything.
+S0448,E055,0,0,
+S0381,E086,0,0,
+S0564,E021,0,0,
+S0902,E081,0,0,
+S0768,E119,1,2,Terrible organization.
+S0391,E143,0,0,
+S0769,E087,1,4,Super informative and fun.
+S0784,E056,1,5,Loved the vibe.
+S0624,E040,0,0,
+S0931,E149,1,2,Didn't learn anything.
+S0283,E085,1,1,Terrible organization.
+S0527,E036,1,4,Really enjoyed it.
+S0002,E014,1,5,Really enjoyed it.
+S0630,E076,0,0,
+S0131,E059,1,2,Terrible organization.
+S0259,E023,1,3,Decent event.
+S0286,E055,1,5,Best event of the year!
+S0113,E017,1,3,Could be better organized.
+S0617,E051,1,2,Terrible organization.
+S0131,E010,1,1,The audio was really bad.
+S0960,E039,1,2,Waste of time.
+S0735,E113,1,3,"Nothing special, but not bad."
+S0713,E027,1,3,"Nothing special, but not bad."
+S0043,E034,0,0,
+S0096,E107,1,1,Very boring.
+S0260,E102,1,1,Terrible organization.
+S0353,E060,1,4,Loved the vibe.
+S0365,E102,0,0,
+S0099,E138,1,2,Terrible organization.
+S0701,E006,1,5,The event was amazing!
+S0426,E019,1,3,Decent event.
+S0886,E011,1,5,Best event of the year!
+S0979,E136,1,1,Terrible organization.
+S0270,E064,0,0,
+S0841,E071,1,5,Loved the vibe.
+S0402,E042,1,5,The event was amazing!
+S0821,E052,1,4,Loved the vibe.
+S0015,E129,1,3,Decent event.
+S0571,E095,1,4,Loved the vibe.
+S0977,E011,1,2,Very boring.
+S0953,E040,1,5,Super informative and fun.
+S0824,E101,1,3,It was okay.
+S0311,E149,1,3,Average experience.
+S0672,E010,1,4,Loved the vibe.
+S0202,E079,0,0,
+S0789,E049,1,5,Loved the vibe.
+S0353,E003,1,5,Loved the vibe.
+S0172,E117,1,2,Waste of time.
+S0395,E035,1,1,Terrible organization.
+S0303,E038,1,2,Very boring.
+S0942,E088,0,0,
+S0713,E083,1,2,Terrible organization.
+S0696,E132,0,0,
+S0652,E011,0,0,
+S0753,E127,0,0,
+S0974,E026,0,0,
+S0953,E105,1,2,The audio was really bad.
+S0930,E022,0,0,
+S0585,E098,1,2,Waste of time.
+S0574,E087,1,2,The audio was really bad.
+S0970,E118,1,3,It was okay.
+S0374,E137,1,2,Waste of time.
+S0267,E052,1,2,Terrible organization.
+S0081,E094,0,0,
+S0512,E104,1,3,Average experience.
+S0379,E120,1,5,Best event of the year!
+S0276,E128,1,4,Loved the vibe.
+S0601,E069,1,2,The audio was really bad.
+S0991,E062,1,3,Could be better organized.
+S0484,E070,1,4,Best event of the year!
+S0609,E129,1,1,Very boring.
+S0214,E072,1,1,Waste of time.
+S0352,E074,1,1,Didn't learn anything.
+S0715,E003,0,0,
+S0341,E079,0,0,
+S0090,E088,1,4,Super informative and fun.
+S0147,E083,1,5,Loved the vibe.
+S0407,E078,1,2,Terrible organization.
+S0874,E062,1,4,Great speakers and organization.
+S0140,E062,1,5,The event was amazing!
+S0273,E047,1,1,The audio was really bad.
+S0054,E068,0,0,
+S0598,E051,1,2,Very boring.
+S0837,E030,1,3,Average experience.
+S0219,E015,1,5,Loved the vibe.
+S0226,E118,1,1,Terrible organization.
+S0031,E137,1,4,Super informative and fun.
+S0842,E092,1,2,Terrible organization.
+S0082,E095,0,0,
+S0458,E024,0,0,
+S0288,E082,1,2,The audio was really bad.
+S0836,E072,1,4,Super informative and fun.
+S0817,E118,1,3,Decent event.
+S0050,E029,1,2,Waste of time.
+S0891,E007,0,0,
+S0421,E088,1,2,Very boring.
+S0474,E116,1,5,Loved the vibe.
+S0410,E083,1,2,Waste of time.
+S0480,E001,1,3,It was okay.
+S0662,E012,1,2,Very boring.
+S0955,E138,1,1,The audio was really bad.
+S0334,E133,1,1,Terrible organization.
+S0943,E039,1,2,Waste of time.
+S0068,E080,1,3,Decent event.
+S0679,E050,1,4,The event was amazing!
+S0619,E078,1,5,Best event of the year!
+S0811,E032,1,4,Super informative and fun.
+S0826,E023,1,2,Terrible organization.
+S0204,E032,1,4,Super informative and fun.
+S0355,E090,1,5,Loved the vibe.
+S0181,E007,0,0,
+S0661,E048,0,0,
+S0744,E125,1,3,"Nothing special, but not bad."
+S0737,E096,0,0,
+S0361,E055,1,2,Waste of time.
+S0155,E114,1,5,Really enjoyed it.
+S0916,E134,0,0,
+S0623,E045,1,3,Average experience.
+S0874,E122,1,3,"Nothing special, but not bad."
+S0133,E059,1,4,The event was amazing!
+S0520,E090,1,4,Loved the vibe.
+S0094,E013,0,0,
+S1000,E118,1,5,Really enjoyed it.
+S0399,E128,1,5,Really enjoyed it.
+S0850,E052,1,1,Terrible organization.
+S0015,E126,1,2,Very boring.
+S0103,E091,0,0,
+S0228,E143,0,0,
+S0648,E047,1,4,Best event of the year!
+S0813,E112,1,5,Great speakers and organization.
+S0799,E104,1,2,The audio was really bad.
+S0454,E068,1,2,Waste of time.
+S0994,E056,1,2,Waste of time.
+S0942,E131,1,1,Didn't learn anything.
+S0300,E065,1,3,Could be better organized.
+S0687,E145,1,2,Waste of time.
+S0415,E015,1,2,Didn't learn anything.
+S0381,E013,1,2,Very boring.
+S0886,E063,1,1,Didn't learn anything.
+S0057,E070,1,4,Great speakers and organization.
+S0108,E061,1,4,Best event of the year!
+S0323,E059,0,0,
+S0973,E079,1,5,Great speakers and organization.
+S0153,E004,1,2,Very boring.
+S0179,E103,1,5,Great speakers and organization.
+S0680,E103,1,5,Best event of the year!
+S0485,E094,1,1,The audio was really bad.
+S0749,E071,1,1,The audio was really bad.
+S0327,E065,0,0,
+S0075,E045,1,3,It was okay.
+S0439,E069,1,1,Didn't learn anything.
+S0785,E088,1,4,Great speakers and organization.
+S0018,E146,1,5,Best event of the year!
+S0385,E055,0,0,
+S0329,E116,0,0,
+S0509,E092,1,1,Very boring.
+S0823,E001,1,1,The audio was really bad.
+S0173,E112,1,1,Terrible organization.
+S0638,E128,1,2,Terrible organization.
+S0154,E079,1,2,Didn't learn anything.
+S0250,E111,0,0,
+S0414,E119,0,0,
+S0581,E117,1,1,Didn't learn anything.
+S0978,E134,1,2,Terrible organization.
+S0169,E110,1,4,Really enjoyed it.
+S0082,E048,1,4,Best event of the year!
+S0399,E008,1,3,Could be better organized.
+S0987,E136,0,0,
+S0637,E122,0,0,
+S0431,E091,1,2,Didn't learn anything.
+S0922,E080,1,1,Didn't learn anything.
+S0094,E098,1,3,"Nothing special, but not bad."
+S0032,E132,0,0,
+S0653,E086,1,2,Terrible organization.
+S0149,E012,1,1,Didn't learn anything.
+S0071,E091,1,3,Decent event.
+S0827,E097,1,3,Could be better organized.
+S0656,E117,1,4,The event was amazing!
+S0729,E013,1,2,Very boring.
+S0992,E144,1,4,Great speakers and organization.
+S0317,E140,1,4,Loved the vibe.
+S0305,E147,1,5,Loved the vibe.
+S0946,E080,1,4,Really enjoyed it.
+S0395,E089,1,1,The audio was really bad.
+S0879,E085,1,1,Very boring.
+S0251,E091,1,2,Very boring.
+S0204,E010,0,0,
+S0757,E099,1,5,Loved the vibe.
+S0632,E048,1,4,The event was amazing!
+S0113,E145,1,2,Didn't learn anything.
+S0713,E098,1,3,"Nothing special, but not bad."
+S0051,E095,0,0,
+S0478,E003,1,3,Average experience.
+S0113,E042,0,0,
+S0165,E119,1,2,Very boring.
+S0307,E061,1,3,Could be better organized.
+S0297,E135,0,0,
+S0871,E144,0,0,
+S0782,E086,0,0,
+S0403,E090,1,4,Best event of the year!
+S0446,E064,1,3,Average experience.
+S0896,E075,1,3,Average experience.
+S0805,E019,1,5,The event was amazing!
+S0406,E146,0,0,
+S0604,E063,0,0,
+S0249,E067,1,5,Loved the vibe.
+S0292,E058,0,0,
+S0903,E070,1,3,It was okay.
+S0539,E144,1,2,Waste of time.
+S0513,E108,1,5,Best event of the year!
+S0489,E056,0,0,
+S0686,E137,0,0,
+S0597,E070,1,2,Waste of time.
+S0107,E003,0,0,
+S0457,E034,1,2,Terrible organization.
+S0780,E012,1,3,Average experience.
+S0921,E133,1,2,The audio was really bad.
+S0646,E106,1,3,Decent event.
+S0820,E150,1,2,Terrible organization.
+S0251,E003,1,3,Average experience.
+S0581,E111,1,4,The event was amazing!
+S0152,E058,0,0,
+S0056,E008,1,3,It was okay.
+S0140,E030,1,4,Great speakers and organization.
+S0880,E101,1,5,Best event of the year!
+S0610,E101,1,3,Could be better organized.
+S0346,E121,1,5,Loved the vibe.
+S0995,E021,0,0,
+S0625,E056,1,3,Average experience.
+S0566,E077,1,3,Average experience.
+S0407,E100,1,1,Terrible organization.
+S0229,E139,0,0,
+S0380,E013,1,3,"Nothing special, but not bad."
+S0196,E105,1,2,Terrible organization.
+S0879,E064,1,3,Decent event.
+S0300,E047,1,4,Really enjoyed it.
+S0672,E028,1,3,"Nothing special, but not bad."
+S0680,E116,0,0,
+S0426,E130,1,5,The event was amazing!
+S0034,E142,1,2,Didn't learn anything.
+S0882,E072,1,5,The event was amazing!
+S0157,E023,1,4,Great speakers and organization.
+S0066,E120,1,2,Terrible organization.
+S0862,E082,1,2,Waste of time.
+S0550,E094,1,2,Waste of time.
+S0835,E144,0,0,
+S0967,E072,1,4,Great speakers and organization.
+S0186,E115,1,2,Waste of time.
+S0206,E035,0,0,
+S0157,E060,1,2,Terrible organization.
+S0138,E085,1,5,The event was amazing!
+S0221,E053,1,2,Terrible organization.
+S0225,E051,1,4,Loved the vibe.
+S0452,E018,1,4,Loved the vibe.
+S0374,E003,1,4,Really enjoyed it.
+S0795,E123,0,0,
+S0625,E089,1,2,Terrible organization.
+S0178,E072,1,2,Terrible organization.
+S0081,E045,1,5,Super informative and fun.
+S0789,E067,1,2,Waste of time.
+S0030,E056,1,2,Terrible organization.
+S0131,E139,1,4,The event was amazing!
+S0970,E149,1,1,Very boring.
+S0735,E042,1,2,The audio was really bad.
+S0054,E096,1,4,Best event of the year!
+S0424,E067,0,0,
+S0474,E027,1,4,Great speakers and organization.
+S0845,E067,1,1,Didn't learn anything.
+S0806,E047,1,1,Very boring.
+S0369,E139,1,5,Loved the vibe.
+S0158,E121,1,3,Could be better organized.
+S0894,E017,1,2,The audio was really bad.
+S0614,E011,0,0,
+S0801,E088,1,4,Super informative and fun.
+S0289,E066,0,0,
+S0743,E038,1,4,Really enjoyed it.
+S0643,E049,1,5,The event was amazing!
+S0814,E048,1,2,Terrible organization.
+S0089,E013,1,5,Loved the vibe.
+S0990,E132,1,2,The audio was really bad.
+S0705,E142,1,5,The event was amazing!
+S0686,E019,1,1,Very boring.
+S0299,E010,1,5,Really enjoyed it.
+S0361,E027,0,0,
+S0995,E065,1,2,Didn't learn anything.
+S0326,E029,1,1,Waste of time.
+S0180,E037,1,4,Best event of the year!
+S0261,E064,1,5,Loved the vibe.
+S0187,E042,1,3,Average experience.
+S0154,E037,1,4,Really enjoyed it.
+S0386,E083,1,5,Best event of the year!
+S0392,E050,1,1,Didn't learn anything.
+S0837,E051,1,3,Average experience.
+S0310,E114,1,3,Could be better organized.
+S0861,E133,1,5,Super informative and fun.
+S0595,E085,1,3,Decent event.
+S0022,E043,1,3,Could be better organized.
+S0700,E097,0,0,
+S0701,E090,1,5,Great speakers and organization.
+S0195,E115,1,3,Could be better organized.
+S0719,E047,1,4,Best event of the year!
+S0164,E082,1,2,The audio was really bad.
+S0190,E116,1,4,Great speakers and organization.
+S0814,E044,1,3,Could be better organized.
+S0158,E005,1,1,Very boring.
+S0358,E139,1,2,Didn't learn anything.
+S0138,E008,1,5,Best event of the year!
+S0950,E041,1,5,Great speakers and organization.
+S0120,E019,1,4,Really enjoyed it.
+S0044,E039,0,0,
+S0326,E081,0,0,
+S0412,E060,1,2,Very boring.
+S0685,E040,1,2,Didn't learn anything.
+S0741,E076,1,1,Very boring.
+S0387,E020,1,3,Could be better organized.
+S0527,E007,0,0,
+S0348,E025,1,2,Terrible organization.
+S0229,E138,1,1,The audio was really bad.
+S0588,E137,1,2,Terrible organization.
+S0839,E022,1,2,Terrible organization.
+S0973,E045,1,3,Average experience.
+S0524,E029,1,5,Really enjoyed it.
+S0891,E112,0,0,
+S0428,E138,1,4,Great speakers and organization.
+S0916,E003,1,5,The event was amazing!
+S0544,E084,1,5,Super informative and fun.
+S0060,E100,1,3,"Nothing special, but not bad."
+S0858,E001,1,4,Really enjoyed it.
+S0584,E129,1,4,Best event of the year!
+S0538,E123,1,3,Could be better organized.
+S0336,E100,1,3,Decent event.
+S0767,E080,1,5,Loved the vibe.
+S0742,E034,1,3,"Nothing special, but not bad."
+S0115,E037,1,2,Waste of time.
+S0077,E050,1,1,The audio was really bad.
+S0707,E017,1,3,"Nothing special, but not bad."
+S0627,E065,0,0,
+S0223,E029,1,4,Super informative and fun.
+S0940,E146,1,1,Very boring.
+S0884,E115,1,4,Super informative and fun.
+S0625,E072,0,0,
+S0708,E135,1,2,Didn't learn anything.
+S0716,E051,1,5,The event was amazing!
+S0059,E057,1,4,Loved the vibe.
+S0022,E044,1,1,Terrible organization.
+S0357,E051,1,5,Great speakers and organization.
+S0199,E140,1,2,Terrible organization.
+S0004,E083,1,3,"Nothing special, but not bad."
+S0277,E063,0,0,
+S0921,E061,0,0,
+S0727,E001,1,5,Best event of the year!
+S0166,E107,0,0,
+S0176,E145,0,0,
+S0064,E016,1,4,Super informative and fun.
+S0715,E111,1,4,Loved the vibe.
+S0956,E063,1,2,Didn't learn anything.
+S0911,E053,0,0,
+S0625,E099,1,2,Very boring.
+S0418,E022,0,0,
+S0345,E030,0,0,
+S0935,E104,1,4,Loved the vibe.
+S0445,E142,1,1,Terrible organization.
+S0997,E020,1,2,Didn't learn anything.
+S0811,E041,1,2,Didn't learn anything.
+S0157,E026,0,0,
+S0870,E131,1,3,"Nothing special, but not bad."
+S0473,E017,0,0,
+S0489,E084,1,4,Loved the vibe.
+S0098,E012,1,3,Could be better organized.
+S0172,E002,0,0,
+S0536,E026,1,2,Terrible organization.
+S0637,E033,1,5,Loved the vibe.
+S0980,E105,1,4,Super informative and fun.
+S0712,E029,1,5,Loved the vibe.
+S0594,E137,1,5,Best event of the year!
+S0307,E090,1,2,Terrible organization.
+S0734,E039,1,4,Great speakers and organization.
+S0713,E103,0,0,
+S0394,E044,0,0,
+S0891,E091,0,0,
+S0850,E025,1,3,Decent event.
+S0210,E079,0,0,
+S0520,E145,1,3,Average experience.
+S0229,E070,1,1,Very boring.
+S0756,E077,1,5,Super informative and fun.
+S0024,E114,1,4,Really enjoyed it.
+S0784,E106,1,5,Great speakers and organization.
+S0065,E113,0,0,
+S0634,E102,1,1,Didn't learn anything.
+S0004,E142,0,0,
+S0469,E079,1,3,Could be better organized.
+S0361,E147,1,4,Great speakers and organization.
+S0078,E131,1,5,Super informative and fun.
+S0868,E078,1,4,Loved the vibe.
+S0249,E074,1,5,Best event of the year!
+S0352,E053,1,5,Super informative and fun.
+S0828,E137,1,4,Great speakers and organization.
+S0796,E150,0,0,
+S0029,E068,1,3,It was okay.
+S0812,E043,0,0,
+S0826,E101,1,3,"Nothing special, but not bad."
+S0122,E009,1,4,Really enjoyed it.
+S0985,E118,1,4,Loved the vibe.
+S0297,E142,0,0,
+S0924,E016,1,5,Really enjoyed it.
+S0278,E137,1,3,Could be better organized.
+S0107,E057,1,5,Super informative and fun.
+S0587,E143,1,1,The audio was really bad.
+S0495,E079,0,0,
+S0565,E061,0,0,
+S0610,E122,1,1,Didn't learn anything.
+S0356,E107,1,1,Waste of time.
+S0948,E115,1,1,Terrible organization.
+S0001,E055,1,3,Decent event.
+S0779,E104,1,5,Super informative and fun.
+S0365,E053,1,3,Decent event.
+S0300,E025,0,0,
+S0268,E145,1,4,Super informative and fun.
+S0681,E076,1,4,Super informative and fun.
+S0054,E129,1,1,Terrible organization.
+S0544,E121,1,4,Best event of the year!
+S0823,E009,1,1,Waste of time.
+S0438,E096,1,1,Waste of time.
+S0278,E076,1,3,"Nothing special, but not bad."
+S0616,E012,1,4,Great speakers and organization.
+S0682,E088,1,5,Loved the vibe.
+S0839,E096,1,3,It was okay.
+S0387,E037,1,1,The audio was really bad.
+S0933,E089,0,0,
+S0612,E112,1,2,The audio was really bad.
+S0955,E109,1,2,Waste of time.
+S0128,E003,1,2,Waste of time.
+S0955,E076,1,1,The audio was really bad.
+S0511,E079,1,4,Great speakers and organization.
+S0555,E074,1,3,Could be better organized.
+S0229,E112,1,2,Terrible organization.
+S0869,E060,0,0,
+S0231,E081,1,4,The event was amazing!
+S0993,E036,1,3,Average experience.
+S0224,E027,1,5,The event was amazing!
+S0004,E064,1,2,Waste of time.
+S0970,E024,1,4,Really enjoyed it.
+S0946,E037,1,4,Really enjoyed it.
+S0436,E070,0,0,
+S0658,E140,1,5,Great speakers and organization.
+S0570,E083,1,5,Great speakers and organization.
+S0176,E047,0,0,
+S0685,E079,1,3,"Nothing special, but not bad."
+S0730,E081,1,4,The event was amazing!
+S0515,E084,1,3,Could be better organized.
+S0087,E115,1,1,The audio was really bad.
+S0939,E014,0,0,
+S0873,E013,1,3,Could be better organized.
+S0095,E067,1,4,Great speakers and organization.
+S0236,E094,1,3,"Nothing special, but not bad."
+S0305,E113,0,0,
+S0750,E076,1,4,The event was amazing!
+S0365,E149,1,5,Loved the vibe.
+S0205,E067,1,5,Really enjoyed it.
+S0038,E086,1,4,Super informative and fun.
+S0548,E008,1,2,Terrible organization.
+S0543,E056,1,1,Terrible organization.
+S0246,E134,0,0,
+S0187,E110,1,5,Loved the vibe.
+S0519,E137,1,5,The event was amazing!
+S0362,E045,1,5,Loved the vibe.
+S0202,E003,1,5,Loved the vibe.
+S0189,E081,1,3,"Nothing special, but not bad."
+S0126,E114,1,4,Great speakers and organization.
+S0852,E055,1,2,Very boring.
+S0832,E132,1,1,Didn't learn anything.
+S0579,E028,1,4,Best event of the year!
+S0490,E049,1,3,Decent event.
+S0509,E023,1,4,Best event of the year!
+S0388,E042,0,0,
+S0829,E102,0,0,
+S0955,E017,1,2,Waste of time.
+S0834,E102,1,5,Super informative and fun.
+S0590,E066,1,4,Great speakers and organization.
+S0995,E088,1,5,Super informative and fun.
+S0589,E150,1,1,Terrible organization.
+S0050,E137,0,0,
+S0568,E088,1,2,Didn't learn anything.
+S0018,E137,1,3,"Nothing special, but not bad."
+S0098,E022,0,0,
+S0609,E105,0,0,
+S0298,E074,1,3,Decent event.
+S0284,E132,0,0,
+S0305,E118,0,0,
+S0175,E144,1,4,Great speakers and organization.
+S0651,E147,1,5,Really enjoyed it.
+S0760,E029,0,0,
+S0053,E046,1,1,Very boring.
+S0764,E150,1,5,Super informative and fun.
+S0677,E019,1,3,Could be better organized.
+S0554,E049,0,0,
+S0930,E116,1,4,The event was amazing!
+S0949,E085,0,0,
+S0542,E077,1,3,It was okay.
+S0809,E069,1,4,Loved the vibe.
+S0779,E041,0,0,
+S0401,E134,1,1,Waste of time.
+S0744,E056,1,2,Didn't learn anything.
+S0515,E088,1,5,The event was amazing!
+S0794,E021,0,0,
+S0252,E126,0,0,
+S0082,E071,1,5,The event was amazing!
+S0909,E006,0,0,
+S0673,E147,1,1,Very boring.
+S0480,E148,1,3,Average experience.
+S0152,E144,1,4,Super informative and fun.
+S0213,E057,1,1,The audio was really bad.
+S0763,E130,0,0,
+S0769,E006,1,1,The audio was really bad.
+S0200,E033,1,1,Terrible organization.
+S0125,E148,1,5,The event was amazing!
+S0011,E064,0,0,
+S0129,E147,1,3,"Nothing special, but not bad."
+S0662,E081,1,1,Waste of time.
+S0741,E110,1,5,The event was amazing!
+S0707,E136,1,5,The event was amazing!
+S0877,E129,1,1,The audio was really bad.
+S0336,E016,1,3,"Nothing special, but not bad."
+S0732,E119,1,4,The event was amazing!
+S0928,E088,0,0,
+S0509,E053,1,4,Really enjoyed it.
+S0937,E113,1,2,The audio was really bad.
+S0522,E103,0,0,
+S0252,E054,1,2,Didn't learn anything.
+S0062,E002,1,5,Great speakers and organization.
+S0999,E111,1,3,Average experience.
+S0462,E064,1,3,Decent event.
+S0841,E097,1,5,Loved the vibe.
+S0582,E048,1,3,It was okay.
+S0104,E098,1,2,Very boring.
+S0980,E011,1,5,Really enjoyed it.
+S0483,E125,1,4,The event was amazing!
+S0876,E041,0,0,
+S0609,E108,1,4,The event was amazing!
+S0352,E064,1,2,Didn't learn anything.
+S0085,E097,1,3,It was okay.
+S0837,E106,1,1,Terrible organization.
+S0639,E119,1,2,The audio was really bad.
+S0549,E077,1,3,It was okay.
+S0999,E096,1,1,Waste of time.
+S0686,E144,0,0,
+S0002,E035,1,2,Terrible organization.
+S0271,E037,1,4,Really enjoyed it.
+S0433,E035,0,0,
+S0894,E027,1,3,Average experience.
+S0465,E030,0,0,
+S0774,E149,1,5,Great speakers and organization.
+S0814,E055,1,5,Loved the vibe.
+S0589,E012,1,4,Loved the vibe.
+S0267,E001,0,0,
+S0178,E045,0,0,
+S0550,E072,0,0,
+S0522,E117,1,3,Average experience.
+S0115,E061,1,5,Best event of the year!
+S0915,E117,1,4,The event was amazing!
+S0465,E069,1,1,Very boring.
+S0826,E142,0,0,
+S0123,E028,1,3,It was okay.
+S0208,E079,1,5,Super informative and fun.
+S0779,E134,1,5,Loved the vibe.
+S0211,E141,1,4,Best event of the year!
+S0766,E092,0,0,
+S0228,E060,1,4,Great speakers and organization.
+S0780,E122,1,1,The audio was really bad.
+S0097,E060,1,5,The event was amazing!
+S0638,E029,1,2,Didn't learn anything.
+S0846,E108,1,2,Didn't learn anything.
+S0131,E102,1,3,Average experience.
+S0807,E043,1,3,It was okay.
+S0671,E044,1,1,Didn't learn anything.
+S0036,E092,1,4,Really enjoyed it.
+S0008,E069,1,1,Terrible organization.
+S0058,E127,0,0,
+S0859,E070,1,5,Really enjoyed it.
+S0164,E070,1,2,Didn't learn anything.
+S0659,E020,1,5,Loved the vibe.
+S0732,E080,1,2,Waste of time.
+S0769,E071,0,0,
+S0975,E120,1,5,Best event of the year!
+S0754,E143,1,2,Very boring.
+S0262,E148,1,2,Waste of time.
+S0081,E127,1,2,Waste of time.
+S0297,E004,1,2,Waste of time.
+S0430,E026,1,5,Super informative and fun.
+S0053,E010,1,3,Decent event.
+S0539,E111,1,4,Really enjoyed it.
+S0052,E122,1,2,Didn't learn anything.
+S0409,E115,1,1,Waste of time.
+S0798,E009,1,5,Great speakers and organization.
+S0799,E061,1,4,Best event of the year!
+S0139,E018,0,0,
+S0370,E051,1,5,Super informative and fun.
+S0032,E003,1,4,Loved the vibe.
+S0620,E081,1,1,Terrible organization.
+S0507,E063,1,3,Could be better organized.
+S0989,E004,1,4,Really enjoyed it.
+S0631,E119,1,2,Terrible organization.
+S0671,E116,1,2,Terrible organization.
+S0112,E053,0,0,
+S0833,E098,0,0,
+S0043,E131,1,1,Very boring.
+S0191,E031,1,3,Average experience.
+S0892,E072,1,1,Very boring.
+S0114,E146,1,5,The event was amazing!
+S0486,E002,1,3,Average experience.
+S0056,E038,1,3,Average experience.
+S0878,E034,1,3,"Nothing special, but not bad."
+S0096,E102,1,2,The audio was really bad.
+S0186,E055,0,0,
+S0277,E022,1,1,Didn't learn anything.
+S0279,E079,1,4,Really enjoyed it.
+S0385,E006,1,2,Very boring.
+S0657,E091,1,1,Waste of time.
+S0946,E034,1,4,The event was amazing!
+S0668,E120,0,0,
+S0838,E077,0,0,
+S0025,E035,1,3,Average experience.
+S0599,E139,1,1,Very boring.
+S0038,E034,1,1,Didn't learn anything.
+S0684,E029,1,5,Super informative and fun.
+S0945,E024,1,4,Super informative and fun.
+S0902,E104,1,5,Super informative and fun.
+S0907,E106,1,4,Super informative and fun.
+S0439,E132,1,2,Waste of time.
+S0475,E098,1,1,Didn't learn anything.
+S0539,E069,1,4,Great speakers and organization.
+S0025,E131,1,4,Best event of the year!
+S0571,E023,0,0,
+S0113,E147,1,4,Great speakers and organization.
+S0635,E146,1,1,Very boring.
+S0308,E012,1,4,Super informative and fun.
+S0755,E136,1,4,Super informative and fun.
+S0986,E033,1,3,"Nothing special, but not bad."
+S0286,E139,1,5,Loved the vibe.
+S0277,E115,1,5,Really enjoyed it.
+S0121,E058,0,0,
+S0989,E136,1,3,Average experience.
+S0443,E048,1,1,Waste of time.
+S0068,E043,1,4,Best event of the year!
+S0962,E038,1,3,Average experience.
+S0002,E054,1,1,Terrible organization.
+S0022,E005,0,0,
+S0532,E097,1,3,Decent event.
+S0465,E062,0,0,
+S0114,E002,1,5,Super informative and fun.
+S0586,E146,1,1,The audio was really bad.
+S0122,E104,1,1,Didn't learn anything.
+S0978,E024,1,5,Best event of the year!
+S0643,E039,1,2,Very boring.
+S0207,E117,0,0,
+S0690,E137,0,0,
+S0745,E118,0,0,
+S0046,E100,1,5,Best event of the year!
+S0345,E077,0,0,
+S0863,E022,0,0,
+S0436,E123,1,4,Really enjoyed it.
+S0042,E013,1,5,Super informative and fun.
+S0528,E071,1,2,Very boring.
+S0122,E025,1,4,The event was amazing!
+S0952,E025,0,0,
+S0904,E022,1,1,Didn't learn anything.
+S0569,E095,1,3,Could be better organized.
+S0145,E147,1,2,Terrible organization.
+S0194,E067,1,1,The audio was really bad.
+S0209,E083,1,3,Decent event.
+S0421,E008,1,3,Decent event.
+S0967,E148,0,0,
+S0612,E065,1,5,Best event of the year!
+S0280,E104,1,4,Really enjoyed it.
+S0734,E014,1,1,Didn't learn anything.
+S0142,E069,1,2,Didn't learn anything.
+S0933,E024,0,0,
+S0156,E036,1,5,Loved the vibe.
+S0611,E074,1,2,Very boring.
+S0145,E009,0,0,
+S0355,E129,1,4,Great speakers and organization.
+S0706,E084,1,4,Really enjoyed it.
+S0809,E092,1,4,Great speakers and organization.
+S0164,E057,1,4,The event was amazing!
+S0009,E076,1,2,Didn't learn anything.
+S0097,E144,1,5,Best event of the year!
+S0340,E028,0,0,
+S0119,E108,1,2,The audio was really bad.
+S0355,E145,1,3,Decent event.
+S0118,E009,1,4,Super informative and fun.
+S0178,E057,1,3,Decent event.
+S0419,E007,1,1,Waste of time.
+S0576,E063,0,0,
+S0147,E118,1,1,Terrible organization.
+S0741,E045,1,2,Didn't learn anything.
+S0753,E110,1,3,It was okay.
+S0129,E008,1,5,Best event of the year!
+S0384,E003,1,4,Loved the vibe.
+S0770,E084,1,3,Average experience.
+S0391,E012,1,2,Waste of time.
+S0451,E108,1,3,Decent event.
+S0846,E007,1,5,The event was amazing!
+S0341,E061,1,3,Decent event.
+S0737,E053,1,4,Really enjoyed it.
+S0266,E061,1,5,Loved the vibe.
+S0086,E126,1,5,Really enjoyed it.
+S0168,E082,1,2,Very boring.
+S0685,E047,1,4,The event was amazing!
+S0522,E101,1,4,Great speakers and organization.
+S0955,E103,1,2,The audio was really bad.
+S0079,E114,1,5,Loved the vibe.
+S0523,E070,0,0,
+S0301,E122,1,1,Waste of time.
+S0593,E016,1,3,It was okay.
+S0038,E106,1,5,Great speakers and organization.
+S0513,E145,1,3,"Nothing special, but not bad."
+S0129,E061,1,3,"Nothing special, but not bad."
+S0315,E014,1,4,Best event of the year!
+S0772,E097,0,0,
+S0157,E029,1,1,The audio was really bad.
+S0810,E111,1,5,Best event of the year!
+S0770,E092,1,3,Average experience.
+S0589,E045,1,4,Best event of the year!
+S0708,E071,1,1,Terrible organization.
+S0104,E127,1,5,Super informative and fun.
+S0083,E136,1,4,Really enjoyed it.
+S0003,E110,1,3,"Nothing special, but not bad."
+S0346,E074,0,0,
+S0896,E129,1,1,Didn't learn anything.
+S0530,E071,0,0,
+S0821,E108,0,0,
+S0024,E104,1,3,It was okay.
+S0356,E026,1,1,Waste of time.
+S0094,E042,1,3,"Nothing special, but not bad."
+S0673,E072,1,2,Waste of time.
+S0884,E008,1,4,The event was amazing!
+S0319,E136,1,1,Waste of time.
+S0509,E037,1,5,Loved the vibe.
+S0055,E015,1,2,Terrible organization.
+S0716,E052,1,5,Loved the vibe.
+S0564,E013,1,1,The audio was really bad.
+S0034,E004,1,3,Decent event.
+S0833,E030,1,1,Very boring.
+S0766,E026,0,0,
+S0843,E120,0,0,
+S0425,E012,1,4,Really enjoyed it.
+S0779,E091,0,0,
+S0770,E014,0,0,
+S0265,E026,0,0,
+S0664,E073,1,5,Great speakers and organization.
+S0889,E094,1,1,Terrible organization.
+S0211,E113,1,2,The audio was really bad.
+S0543,E043,1,1,Very boring.
+S0945,E043,0,0,
+S0542,E114,0,0,
+S0763,E001,1,2,Very boring.
+S0733,E059,1,1,Very boring.
+S0109,E110,1,5,Best event of the year!
+S0525,E029,0,0,
+S0482,E040,1,2,Didn't learn anything.
+S0901,E099,1,4,Loved the vibe.
+S0794,E031,0,0,
+S0203,E125,1,2,Terrible organization.
+S0459,E108,0,0,
+S0885,E028,1,2,The audio was really bad.
+S0561,E004,0,0,
+S0376,E091,1,5,The event was amazing!
+S0016,E044,1,3,"Nothing special, but not bad."
+S0818,E035,1,4,Really enjoyed it.
+S0167,E032,1,5,The event was amazing!
+S0809,E099,0,0,
+S0685,E098,0,0,
+S0361,E117,1,4,Best event of the year!
+S0484,E006,1,4,Best event of the year!
+S0700,E092,1,4,Super informative and fun.
+S0707,E031,1,5,Great speakers and organization.
+S0714,E037,1,3,It was okay.
+S0754,E030,1,3,"Nothing special, but not bad."
+S0398,E019,1,4,The event was amazing!
+S0223,E051,1,1,Didn't learn anything.
+S0786,E067,1,3,"Nothing special, but not bad."
+S0720,E029,0,0,
+S0552,E057,0,0,
+S0141,E074,0,0,
+S0876,E075,0,0,
+S0068,E057,1,1,The audio was really bad.
+S0935,E028,1,5,The event was amazing!
+S0834,E004,1,2,Terrible organization.
+S0151,E026,1,1,Very boring.
+S0488,E094,0,0,
+S0398,E075,1,2,Waste of time.
+S0684,E085,1,3,Could be better organized.
+S0093,E024,1,3,It was okay.
+S0840,E031,1,4,Loved the vibe.
+S0266,E040,1,5,Super informative and fun.
+S0807,E109,1,3,Decent event.
+S0253,E142,1,3,It was okay.
+S0141,E140,1,4,Loved the vibe.
+S0338,E026,1,2,Didn't learn anything.
+S0382,E145,1,5,The event was amazing!
+S0350,E093,1,2,Very boring.
+S0875,E012,0,0,
+S0473,E042,1,4,The event was amazing!
+S0158,E076,1,4,Best event of the year!
+S0863,E095,1,4,Loved the vibe.
+S0480,E037,1,3,It was okay.
+S0453,E027,1,4,Really enjoyed it.
+S0063,E129,1,1,The audio was really bad.
+S0394,E068,1,5,Best event of the year!
+S0771,E059,1,1,Waste of time.
+S0101,E125,1,3,"Nothing special, but not bad."
+S0543,E005,1,4,Great speakers and organization.
+S0842,E019,1,5,Great speakers and organization.
+S0723,E118,1,4,The event was amazing!
+S0166,E145,1,3,Average experience.
+S0790,E101,0,0,
+S0413,E038,1,2,Didn't learn anything.
+S0529,E077,1,4,Loved the vibe.
+S0439,E065,1,1,Very boring.
+S0669,E097,1,2,Very boring.
+S0969,E018,1,3,"Nothing special, but not bad."
+S0745,E141,1,4,Loved the vibe.
+S0709,E036,1,5,Really enjoyed it.
+S0224,E136,1,5,Loved the vibe.
+S0622,E014,1,1,The audio was really bad.
+S0530,E134,1,5,Best event of the year!
+S0240,E046,1,3,Average experience.
+S0797,E061,1,1,The audio was really bad.
+S0808,E007,0,0,
+S0967,E038,1,2,Didn't learn anything.
+S0429,E022,1,5,Loved the vibe.
+S0440,E066,1,3,"Nothing special, but not bad."
+S0699,E083,1,4,The event was amazing!
+S0755,E122,0,0,
+S0610,E119,1,3,Average experience.
+S0261,E041,1,1,Didn't learn anything.
+S0722,E008,1,5,Great speakers and organization.
+S0151,E047,1,2,Very boring.
+S0768,E034,1,2,Waste of time.
+S0062,E046,1,2,Very boring.
+S0106,E028,1,4,Great speakers and organization.
+S0667,E126,1,5,The event was amazing!
+S0992,E126,1,4,Really enjoyed it.
+S0059,E076,1,5,Super informative and fun.
+S0381,E030,1,3,Could be better organized.
+S0414,E148,0,0,
+S0239,E009,1,2,Terrible organization.
+S0856,E109,0,0,
+S0009,E054,0,0,
+S0878,E046,1,1,Waste of time.
+S0765,E106,0,0,
+S0814,E141,1,1,The audio was really bad.
+S0189,E102,1,4,The event was amazing!
+S0063,E109,0,0,
+S0026,E019,1,4,The event was amazing!
+S0944,E056,1,4,Really enjoyed it.
+S0457,E011,1,1,Terrible organization.
+S0299,E150,1,2,Waste of time.
+S0424,E118,1,3,Average experience.
+S0386,E148,1,1,Very boring.
+S0164,E145,1,4,Loved the vibe.
+S0006,E139,1,5,The event was amazing!
+S0760,E102,1,3,It was okay.
+S0161,E090,0,0,
+S0747,E141,1,1,Didn't learn anything.
+S0225,E058,1,4,Best event of the year!
+S0162,E127,1,5,The event was amazing!
+S0121,E100,1,3,It was okay.
+S0306,E145,1,1,Waste of time.
+S0851,E111,1,4,Loved the vibe.
+S0662,E085,1,4,Really enjoyed it.
+S0567,E078,1,2,Didn't learn anything.
+S0501,E068,0,0,
+S0767,E096,1,4,Best event of the year!
+S0001,E130,0,0,
+S0446,E078,1,4,Best event of the year!
+S0508,E094,1,1,Waste of time.
+S0046,E140,1,1,Didn't learn anything.
+S0983,E044,0,0,
+S0048,E043,1,1,The audio was really bad.
+S0796,E077,1,5,The event was amazing!
+S0287,E067,0,0,
+S0587,E009,0,0,
+S0231,E045,1,3,"Nothing special, but not bad."
+S0254,E053,1,1,Waste of time.
+S0251,E092,1,1,Waste of time.
+S0830,E096,1,3,It was okay.
+S0117,E058,1,3,Average experience.
+S0816,E009,1,4,Super informative and fun.
+S0517,E142,0,0,
+S0292,E054,0,0,
+S0199,E063,1,2,The audio was really bad.
+S0871,E064,1,2,Didn't learn anything.
+S0437,E034,1,5,The event was amazing!
+S0356,E145,0,0,
+S0661,E060,1,2,The audio was really bad.
+S0771,E070,1,2,Didn't learn anything.
+S0059,E114,1,5,Loved the vibe.
+S0321,E035,1,1,Waste of time.
+S0249,E128,1,2,Terrible organization.
+S0493,E118,1,5,Great speakers and organization.
+S0285,E041,1,1,Very boring.
+S0187,E069,1,5,Really enjoyed it.
+S0924,E115,1,5,The event was amazing!
+S0601,E034,1,4,Loved the vibe.
+S0078,E059,1,4,Great speakers and organization.
+S0238,E103,1,4,Great speakers and organization.
+S0485,E082,1,5,Best event of the year!
+S0940,E103,1,4,The event was amazing!
+S0919,E037,1,5,Loved the vibe.
+S0124,E115,1,1,Terrible organization.
+S0585,E041,0,0,
+S0925,E069,1,2,The audio was really bad.
+S0171,E028,1,3,"Nothing special, but not bad."
+S0881,E085,1,1,The audio was really bad.
+S0097,E070,1,2,Terrible organization.
+S0596,E027,1,2,Terrible organization.
+S0530,E114,1,5,Loved the vibe.
+S0654,E036,1,4,Super informative and fun.
+S0998,E033,1,3,"Nothing special, but not bad."
+S0158,E024,0,0,
+S0559,E061,1,3,Could be better organized.
+S0811,E029,0,0,
+S0185,E002,1,5,Loved the vibe.
+S0505,E011,1,4,Best event of the year!
+S0392,E148,1,2,Waste of time.
+S0776,E044,0,0,
+S0604,E143,1,3,It was okay.
+S0367,E015,1,3,Decent event.
+S0734,E139,1,4,Great speakers and organization.
+S0059,E134,1,5,Great speakers and organization.
+S0753,E135,0,0,
+S0197,E139,1,3,Decent event.
+S0728,E123,1,4,Really enjoyed it.
+S0019,E131,1,4,Loved the vibe.
+S0129,E150,1,3,Average experience.
+S0947,E056,1,3,It was okay.
+S0805,E150,1,2,Didn't learn anything.
+S0163,E045,1,3,It was okay.
+S0774,E028,0,0,
+S0188,E091,1,2,The audio was really bad.
+S0458,E045,0,0,
+S0422,E049,0,0,
+S0779,E065,1,1,Terrible organization.
+S0872,E044,1,2,The audio was really bad.
+S0090,E074,0,0,
+S0588,E045,0,0,
+S0012,E004,0,0,
+S0720,E107,1,2,Very boring.
+S0041,E035,1,4,The event was amazing!
+S0269,E088,1,5,Great speakers and organization.
+S0441,E050,1,1,Very boring.
+S0857,E073,1,1,Waste of time.
+S0630,E020,1,1,Didn't learn anything.
+S0225,E063,1,2,Didn't learn anything.
+S0635,E046,1,2,The audio was really bad.
+S0857,E119,1,1,Didn't learn anything.
+S0228,E098,1,1,Very boring.
+S0989,E006,0,0,
+S0148,E119,1,1,The audio was really bad.
+S0410,E072,1,1,Very boring.
+S0851,E015,1,4,Really enjoyed it.
+S0401,E073,1,5,Best event of the year!
+S0962,E091,1,1,Didn't learn anything.
+S0334,E059,1,2,Waste of time.
+S0278,E109,1,4,Loved the vibe.
+S0675,E038,1,1,Waste of time.
+S0889,E051,1,1,Terrible organization.
+S0659,E067,1,1,Very boring.
+S0307,E036,1,1,Very boring.
+S0358,E071,1,1,Waste of time.
+S0471,E046,1,4,Best event of the year!
+S0917,E100,0,0,
+S0371,E123,1,1,Very boring.
+S0880,E054,1,5,Great speakers and organization.
+S0185,E012,1,4,The event was amazing!
+S0485,E084,1,1,Didn't learn anything.
+S0564,E113,1,1,Very boring.
+S0635,E145,1,2,The audio was really bad.
+S0715,E047,1,2,The audio was really bad.
+S0574,E057,1,3,Average experience.
+S0791,E069,1,4,Really enjoyed it.
+S0225,E069,1,4,Great speakers and organization.
+S0816,E051,0,0,
+S0844,E100,0,0,
+S0262,E115,0,0,
+S0780,E003,1,3,Average experience.
+S0792,E138,1,2,Very boring.
+S0863,E036,1,5,Super informative and fun.
+S0043,E072,1,2,Waste of time.
+S0529,E112,1,1,Terrible organization.
+S0981,E001,0,0,
+S0348,E059,0,0,
+S0896,E087,1,4,Best event of the year!
+S0967,E069,1,1,Very boring.
+S0744,E072,1,3,Could be better organized.
+S0618,E005,1,5,Really enjoyed it.
+S0489,E137,1,3,Decent event.
+S0052,E079,1,4,Best event of the year!
+S0097,E076,1,4,Super informative and fun.
+S0980,E134,1,3,"Nothing special, but not bad."
+S0469,E014,1,4,The event was amazing!
+S0556,E116,1,4,Great speakers and organization.
+S0918,E107,1,2,Very boring.
+S0774,E060,1,5,The event was amazing!
+S0904,E023,0,0,
+S0382,E133,0,0,
+S0585,E009,1,2,Very boring.
+S0487,E043,0,0,
+S0864,E029,1,5,Great speakers and organization.
+S0343,E011,1,5,Loved the vibe.
+S0021,E075,1,3,Decent event.
+S0771,E110,1,3,It was okay.
+S0234,E064,1,3,Decent event.
+S0607,E131,1,2,Terrible organization.
+S0661,E113,1,1,Very boring.
+S0483,E031,0,0,
+S0956,E035,1,2,Very boring.
+S0421,E122,0,0,
+S0658,E072,1,5,The event was amazing!
+S0790,E132,1,5,Best event of the year!
+S0520,E111,1,2,Didn't learn anything.
+S0779,E085,0,0,
+S0828,E012,1,4,Really enjoyed it.
+S0587,E107,1,3,"Nothing special, but not bad."
+S0714,E132,0,0,
+S0890,E129,1,4,The event was amazing!
+S0760,E081,1,1,The audio was really bad.
+S0585,E036,1,1,Very boring.
+S0061,E068,0,0,
+S0559,E103,1,1,Very boring.
+S0401,E053,1,1,Terrible organization.
+S0412,E042,0,0,
+S0954,E004,1,2,Didn't learn anything.
+S0596,E046,0,0,
+S0860,E021,0,0,
+S0836,E138,1,4,The event was amazing!
+S0576,E040,1,3,"Nothing special, but not bad."
+S0792,E060,1,1,Very boring.
+S0756,E002,0,0,
+S0434,E079,0,0,
+S0269,E044,1,5,Great speakers and organization.
+S0162,E008,1,5,Super informative and fun.
+S0704,E061,1,2,The audio was really bad.
+S0310,E005,1,3,Average experience.
+S0794,E145,0,0,
+S0429,E116,1,4,Super informative and fun.
+S0184,E017,0,0,
+S0349,E138,1,2,Terrible organization.
+S0377,E067,0,0,
+S0544,E042,1,2,Didn't learn anything.
+S0935,E132,1,2,Terrible organization.
+S0715,E038,1,4,Best event of the year!
+S0552,E029,1,4,Super informative and fun.
+S0881,E002,1,4,Best event of the year!
+S0278,E057,1,3,Could be better organized.
+S0594,E014,1,4,Best event of the year!
+S0872,E065,0,0,
+S0944,E037,0,0,
+S0096,E085,1,2,Very boring.
+S0794,E012,1,4,The event was amazing!
+S0960,E040,1,3,It was okay.
+S0209,E008,0,0,
+S0645,E139,1,5,Best event of the year!
+S0920,E017,1,2,Very boring.
+S0154,E136,1,5,Loved the vibe.
+S0564,E045,1,3,Could be better organized.
+S0335,E008,1,4,Really enjoyed it.
+S0529,E130,0,0,
+S0990,E087,0,0,
+S0189,E120,1,1,Terrible organization.
+S0430,E139,1,4,Super informative and fun.
+S0702,E029,0,0,
+S0906,E099,1,2,Very boring.
+S0416,E101,1,1,Didn't learn anything.
+S0034,E136,1,1,Waste of time.
+S0640,E031,1,1,Waste of time.
+S0945,E108,1,3,Average experience.
+S0276,E056,1,5,Loved the vibe.
+S0646,E048,1,3,Could be better organized.
+S0697,E125,1,1,Waste of time.
+S0012,E076,1,3,"Nothing special, but not bad."
+S0674,E096,1,4,Super informative and fun.
+S0020,E150,1,2,Waste of time.
+S0470,E094,1,1,Waste of time.
+S0565,E069,0,0,
+S0463,E104,1,2,Didn't learn anything.
+S0386,E115,1,2,The audio was really bad.
+S0249,E097,1,2,The audio was really bad.
+S0364,E057,1,3,Could be better organized.
+S0772,E021,0,0,
+S0835,E113,1,3,It was okay.
+S0995,E063,1,3,Could be better organized.
+S0560,E038,1,3,Could be better organized.
+S0463,E128,1,5,Great speakers and organization.
+S0284,E103,1,2,Waste of time.
+S0984,E033,1,4,The event was amazing!
+S0391,E104,1,5,Super informative and fun.
+S0994,E136,1,3,Could be better organized.
+S0076,E034,1,5,Great speakers and organization.
+S0581,E125,1,2,Terrible organization.
+S0975,E066,1,5,Super informative and fun.
+S0397,E048,1,4,Super informative and fun.
+S0635,E033,1,4,Loved the vibe.
+S0408,E019,1,5,Super informative and fun.
+S0418,E046,1,3,Decent event.
+S0625,E040,0,0,
+S0937,E141,1,2,The audio was really bad.
+S0770,E142,1,4,Super informative and fun.
+S0528,E119,1,4,Super informative and fun.
+S0192,E096,1,1,The audio was really bad.
+S0125,E064,1,5,Really enjoyed it.
+S0051,E134,1,5,Really enjoyed it.
+S0098,E084,1,5,Super informative and fun.
+S1000,E022,1,2,Very boring.
+S0011,E008,1,1,The audio was really bad.
+S0305,E013,1,4,Really enjoyed it.
+S0861,E018,1,2,Terrible organization.
+S0892,E073,0,0,
+S0073,E056,1,1,Terrible organization.
+S0210,E133,0,0,
+S0508,E083,1,5,Loved the vibe.
+S0136,E009,0,0,
+S0628,E139,1,3,Decent event.
+S0305,E041,1,3,It was okay.
+S0338,E039,1,5,Really enjoyed it.
+S0240,E087,1,1,Didn't learn anything.
+S0955,E125,1,4,Super informative and fun.
+S0966,E027,0,0,
+S0966,E067,0,0,
+S0928,E103,1,5,Super informative and fun.
+S0944,E009,1,4,Super informative and fun.
+S0135,E002,1,4,Best event of the year!
+S0374,E063,1,4,Super informative and fun.
+S0419,E105,1,5,Loved the vibe.
+S0586,E086,1,2,The audio was really bad.
+S0870,E002,1,2,The audio was really bad.
+S0503,E066,1,2,The audio was really bad.
+S0231,E019,1,4,Best event of the year!
+S0634,E081,1,1,Terrible organization.
+S0054,E128,1,4,Really enjoyed it.
+S0658,E044,1,4,Great speakers and organization.
+S0064,E058,1,1,Didn't learn anything.
+S0781,E046,1,2,The audio was really bad.
+S0854,E150,0,0,
+S0740,E019,0,0,
+S0204,E133,1,2,Waste of time.
+S0471,E011,1,3,"Nothing special, but not bad."
+S0830,E076,1,3,Decent event.
+S0294,E141,0,0,
+S0001,E070,1,4,The event was amazing!
+S0455,E137,1,2,Waste of time.
+S0323,E017,1,4,Loved the vibe.
+S0330,E020,0,0,
+S0074,E121,1,5,Great speakers and organization.
+S0092,E124,1,2,Didn't learn anything.
+S0608,E089,1,3,Average experience.
+S0393,E050,1,1,Didn't learn anything.
+S0834,E019,0,0,
+S0814,E091,0,0,
+S0002,E089,1,5,Best event of the year!
+S0081,E025,1,4,Great speakers and organization.
+S0278,E101,1,2,Didn't learn anything.
+S0683,E030,1,1,Very boring.
+S0841,E122,1,1,The audio was really bad.
+S0012,E063,1,3,Average experience.
+S0915,E080,1,5,Great speakers and organization.
+S0019,E064,0,0,
+S0946,E140,1,2,Terrible organization.
+S0824,E139,1,2,Didn't learn anything.
+S0392,E101,1,1,Waste of time.
+S0527,E096,0,0,
+S0568,E103,1,1,Very boring.
+S0547,E139,1,2,Very boring.
+S0330,E041,0,0,
+S0715,E087,1,4,Great speakers and organization.
+S0709,E112,0,0,
+S0212,E053,1,3,Decent event.
+S0136,E052,1,2,Didn't learn anything.
+S0480,E077,1,1,Didn't learn anything.
+S0930,E130,1,4,Loved the vibe.
+S0044,E130,0,0,
+S0572,E124,1,5,Really enjoyed it.
+S0043,E031,0,0,
+S0717,E024,0,0,
+S0860,E073,1,1,Terrible organization.
+S0205,E038,1,4,The event was amazing!
+S0099,E086,0,0,
+S0283,E142,1,5,The event was amazing!
+S0352,E042,1,2,Waste of time.
+S0674,E031,1,5,Best event of the year!
+S0413,E009,1,4,Best event of the year!
+S0689,E041,1,1,The audio was really bad.
+S0232,E121,1,4,Loved the vibe.
+S0975,E070,1,3,Average experience.
+S0492,E015,0,0,
+S0696,E036,1,1,Very boring.
+S0769,E017,1,4,Best event of the year!
+S0076,E147,1,2,Didn't learn anything.
+S0279,E108,1,4,Loved the vibe.
+S0136,E105,1,2,The audio was really bad.
+S0720,E148,1,1,The audio was really bad.
+S0238,E004,1,4,The event was amazing!
+S0758,E137,1,1,Waste of time.
+S0383,E125,0,0,
+S0929,E115,1,2,Very boring.
+S0530,E103,1,3,It was okay.
+S0403,E061,1,4,Loved the vibe.
+S0245,E112,1,3,It was okay.
+S0133,E136,1,4,Great speakers and organization.
+S0858,E003,0,0,
+S0559,E031,1,2,Didn't learn anything.
+S0045,E031,1,1,Waste of time.
+S0655,E008,1,3,"Nothing special, but not bad."
+S0024,E068,1,2,Waste of time.
+S0786,E118,1,5,Loved the vibe.
+S0713,E094,1,1,Didn't learn anything.
+S0665,E048,1,1,Terrible organization.
+S0639,E137,1,1,Waste of time.
+S0884,E119,1,4,Great speakers and organization.
+S0678,E083,1,3,Could be better organized.
+S0975,E036,1,3,Average experience.
+S0766,E143,0,0,
+S0289,E074,1,2,Didn't learn anything.
+S0093,E032,0,0,
+S0017,E144,1,5,Super informative and fun.
+S0399,E090,1,5,Really enjoyed it.
+S0291,E073,1,4,Loved the vibe.
+S0161,E043,0,0,
+S0814,E095,1,1,Very boring.
+S0632,E127,1,3,Decent event.
+S0390,E004,1,4,The event was amazing!
+S0831,E108,1,3,Could be better organized.
+S0434,E008,1,1,The audio was really bad.
+S0460,E040,1,4,The event was amazing!
+S0135,E051,1,1,The audio was really bad.
+S0517,E094,1,1,The audio was really bad.
+S0978,E051,1,1,Very boring.
+S0236,E024,1,4,The event was amazing!
+S0324,E109,1,3,Could be better organized.
+S0451,E147,1,3,"Nothing special, but not bad."
+S0184,E066,1,1,Waste of time.
+S0252,E084,1,4,Super informative and fun.
+S0272,E015,1,3,Average experience.
+S0219,E025,1,4,Super informative and fun.
+S0056,E082,1,1,Didn't learn anything.
+S0956,E021,0,0,
+S0653,E148,0,0,
+S0408,E112,1,4,Super informative and fun.
+S0220,E110,1,4,The event was amazing!
+S0568,E061,1,3,Could be better organized.
+S0507,E068,0,0,
+S0472,E102,0,0,
+S0978,E002,1,4,The event was amazing!
+S0791,E048,1,4,Loved the vibe.
+S0821,E023,0,0,
+S0272,E063,1,1,Didn't learn anything.
+S0191,E042,1,5,Great speakers and organization.
+S0443,E126,1,2,Waste of time.
+S0871,E037,0,0,
+S0716,E123,1,2,Waste of time.
+S0580,E104,1,3,It was okay.
+S0191,E144,1,3,"Nothing special, but not bad."
+S0782,E042,1,4,Loved the vibe.
+S0633,E048,1,2,Very boring.
+S0485,E061,0,0,
+S0956,E041,1,5,Great speakers and organization.
+S0668,E037,1,2,Waste of time.
+S0703,E047,1,5,The event was amazing!
+S0258,E001,1,4,Super informative and fun.
+S0194,E059,1,5,Great speakers and organization.
+S0301,E036,1,3,Decent event.
+S0676,E019,0,0,
+S0606,E135,1,5,The event was amazing!
+S0819,E124,1,3,It was okay.
+S0337,E069,1,2,Very boring.
+S0332,E112,0,0,
+S0707,E018,1,5,Really enjoyed it.
+S0128,E008,1,4,Great speakers and organization.
+S0252,E055,1,2,Very boring.
+S0641,E039,1,4,Loved the vibe.
+S0479,E120,1,2,Terrible organization.
+S0425,E130,1,4,Loved the vibe.
+S0951,E077,1,1,Very boring.
+S0004,E054,0,0,
+S0371,E014,1,4,The event was amazing!
+S0344,E081,1,5,Super informative and fun.
+S0816,E078,1,3,It was okay.
+S0746,E010,1,3,It was okay.
+S0136,E127,1,1,Very boring.
+S0519,E043,1,4,Loved the vibe.
+S0142,E096,0,0,
+S0949,E001,1,2,Terrible organization.
+S0863,E011,1,4,Really enjoyed it.
+S0825,E131,1,4,Great speakers and organization.
+S0969,E106,1,3,Could be better organized.
+S0459,E069,1,5,Loved the vibe.
+S0662,E054,1,5,Really enjoyed it.
+S0602,E147,1,5,Super informative and fun.
+S0726,E072,0,0,
+S0809,E020,1,5,Best event of the year!
+S0519,E110,1,5,Best event of the year!
+S0636,E081,1,1,The audio was really bad.
+S0612,E054,1,4,Loved the vibe.
+S0304,E056,1,2,Waste of time.
+S0915,E098,1,2,Terrible organization.
+S0161,E141,0,0,
+S0721,E137,1,1,The audio was really bad.
+S0631,E074,0,0,
+S0956,E087,1,3,It was okay.
+S0005,E019,1,4,Loved the vibe.
+S0760,E042,1,2,Didn't learn anything.
+S0996,E136,1,4,Great speakers and organization.
+S0177,E042,1,4,Best event of the year!
+S0473,E130,1,1,Didn't learn anything.
+S0793,E129,0,0,
+S0210,E116,0,0,
+S0659,E140,1,1,The audio was really bad.
+S0674,E140,1,1,Very boring.
+S0535,E013,1,1,Waste of time.
+S0715,E066,0,0,
+S0658,E095,1,3,Decent event.
+S0766,E148,0,0,
+S0550,E070,1,1,The audio was really bad.
+S0528,E110,1,5,Great speakers and organization.
+S0581,E100,1,5,Really enjoyed it.
+S0995,E001,0,0,
+S0879,E114,1,2,Very boring.
+S0824,E031,1,5,The event was amazing!
+S0588,E037,1,1,Very boring.
+S0411,E034,1,1,Very boring.
+S0331,E092,1,4,Best event of the year!
+S0519,E105,1,3,Decent event.
+S0682,E134,1,3,Average experience.
+S0910,E127,1,1,Waste of time.
+S0261,E121,1,3,It was okay.
+S0008,E014,1,5,Loved the vibe.
+S0346,E134,1,5,Really enjoyed it.
+S0299,E015,1,1,Very boring.
+S0392,E091,1,3,It was okay.
+S0158,E045,1,3,Average experience.
+S0071,E132,0,0,
+S0627,E121,1,1,Waste of time.
+S0207,E136,1,5,Loved the vibe.
+S0018,E132,1,3,Decent event.
+S0889,E011,1,4,The event was amazing!
+S0982,E063,1,2,Terrible organization.
+S0904,E077,1,2,Waste of time.
+S0525,E106,1,2,Terrible organization.
+S0817,E086,1,5,Super informative and fun.
+S0754,E137,1,1,Didn't learn anything.
+S0796,E072,1,2,The audio was really bad.
+S0685,E149,1,5,Loved the vibe.
+S0654,E017,0,0,
+S0488,E125,0,0,
+S0899,E125,1,3,Average experience.
+S0157,E143,1,1,Waste of time.
+S0372,E100,0,0,
+S0277,E135,1,3,Average experience.
+S0937,E011,1,2,The audio was really bad.
+S0770,E126,1,5,The event was amazing!
+S0587,E083,1,2,Didn't learn anything.
+S0258,E005,1,5,Best event of the year!
+S0780,E141,1,2,Very boring.
+S0002,E044,0,0,
+S0257,E070,1,1,Waste of time.
+S0993,E024,1,5,Super informative and fun.
+S0999,E036,1,5,Great speakers and organization.
+S0626,E005,1,2,The audio was really bad.
+S0158,E011,1,1,Didn't learn anything.
+S0762,E113,1,4,Great speakers and organization.
+S0546,E112,1,3,Could be better organized.
+S0375,E030,1,1,Didn't learn anything.
+S0921,E109,1,5,Best event of the year!
+S0163,E052,1,5,Super informative and fun.
+S0773,E034,0,0,
+S0328,E134,1,5,Great speakers and organization.
+S0109,E147,1,2,Waste of time.
+S0663,E057,1,4,The event was amazing!
+S0755,E093,0,0,
+S0386,E072,1,4,Loved the vibe.
+S0859,E124,1,5,Really enjoyed it.
+S0102,E114,1,1,Very boring.
+S0413,E047,0,0,
+S0219,E023,1,1,Didn't learn anything.
+S0946,E024,1,5,Super informative and fun.
+S0154,E076,1,4,Great speakers and organization.
+S0842,E088,0,0,
+S0320,E107,0,0,
+S0562,E006,1,2,Waste of time.
+S0137,E118,1,2,Very boring.
+S0122,E116,0,0,
+S0515,E149,1,2,Waste of time.
+S0234,E121,0,0,
+S0058,E010,1,3,Average experience.
+S0894,E139,1,1,Didn't learn anything.
+S0288,E120,1,5,Great speakers and organization.
+S0721,E067,1,4,Loved the vibe.
+S0509,E081,1,2,Didn't learn anything.
+S0538,E020,0,0,
+S0554,E011,1,2,Very boring.
+S0527,E017,1,5,The event was amazing!
+S0329,E127,0,0,
+S0060,E143,0,0,
+S0310,E095,0,0,
+S0624,E100,1,4,Super informative and fun.
+S0216,E130,1,5,Super informative and fun.
+S0454,E106,1,5,The event was amazing!
+S0882,E040,1,4,Loved the vibe.
+S0082,E039,1,5,Loved the vibe.
+S0698,E028,1,1,Didn't learn anything.
+S0029,E086,1,5,Super informative and fun.
+S0103,E040,0,0,
+S0663,E139,0,0,
+S0660,E100,1,5,Really enjoyed it.
+S0836,E007,1,1,Very boring.
+S0398,E010,1,1,Very boring.
+S0225,E124,1,5,Super informative and fun.
+S0148,E100,0,0,
+S0622,E060,1,3,Could be better organized.
+S0679,E112,1,5,Loved the vibe.
+S0944,E012,1,3,It was okay.
+S0431,E126,1,4,Super informative and fun.
+S0629,E106,0,0,
+S0802,E058,1,3,Average experience.
+S0708,E115,1,4,Loved the vibe.
+S0242,E026,1,2,Terrible organization.
+S0331,E085,1,1,The audio was really bad.
+S0451,E009,1,2,Terrible organization.
+S0633,E057,0,0,
+S0281,E072,1,1,The audio was really bad.
+S0377,E131,0,0,
+S0215,E027,1,3,It was okay.
+S0316,E124,1,1,Waste of time.
+S0959,E059,1,1,Waste of time.
+S0411,E138,1,1,The audio was really bad.
+S0643,E101,0,0,
+S0617,E020,1,5,Best event of the year!
+S0449,E116,0,0,
+S0458,E138,1,2,Waste of time.
+S0655,E078,1,3,Decent event.
+S0525,E075,1,4,Loved the vibe.
+S0589,E076,1,2,Very boring.
+S0744,E110,1,1,Terrible organization.
+S0443,E056,1,5,Great speakers and organization.
+S0492,E056,1,5,Best event of the year!
+S0214,E031,1,5,Loved the vibe.
+S0375,E116,1,5,Best event of the year!
+S0686,E038,1,2,Terrible organization.
+S0985,E144,1,1,Waste of time.
+S0579,E023,1,5,Great speakers and organization.
+S0944,E078,1,2,Waste of time.
+S0180,E077,1,4,Best event of the year!
+S0382,E018,0,0,
+S0356,E066,0,0,
+S0254,E150,1,4,The event was amazing!
+S0970,E120,1,3,Average experience.
+S0814,E099,1,3,Decent event.
+S0181,E032,1,5,Great speakers and organization.
+S0558,E073,1,4,Great speakers and organization.
+S0759,E030,1,1,Very boring.
+S0004,E087,1,2,Waste of time.
+S0079,E132,1,4,Super informative and fun.
+S0566,E019,1,1,Waste of time.
+S0807,E077,1,4,Loved the vibe.
+S0716,E015,0,0,
+S0262,E144,1,4,Loved the vibe.
+S0295,E007,1,5,Best event of the year!
+S0881,E033,0,0,
+S0415,E074,1,2,Terrible organization.
+S0832,E039,1,3,It was okay.
+S0394,E048,1,5,Really enjoyed it.
+S0426,E097,1,4,The event was amazing!
+S0615,E097,1,4,Loved the vibe.
+S0976,E020,1,2,The audio was really bad.
+S0938,E062,1,2,Terrible organization.
+S0138,E033,1,2,The audio was really bad.
+S0629,E140,1,1,Waste of time.
+S0743,E113,1,5,Really enjoyed it.
+S0913,E108,1,3,Could be better organized.
+S0759,E005,1,4,Loved the vibe.
+S0630,E019,1,2,The audio was really bad.
+S0283,E104,1,3,Average experience.
+S0028,E043,1,2,The audio was really bad.
+S0065,E118,1,4,Great speakers and organization.
+S0445,E079,1,4,The event was amazing!
+S0393,E064,1,2,Very boring.
+S0224,E018,0,0,
+S0599,E092,1,5,Best event of the year!
+S0343,E092,0,0,
+S0777,E041,1,4,Best event of the year!
+S0450,E097,1,1,The audio was really bad.
+S0623,E012,1,2,Didn't learn anything.
+S0332,E001,1,3,Average experience.
+S0066,E054,1,3,Average experience.
+S0897,E141,1,4,Really enjoyed it.
+S0185,E137,0,0,
+S0235,E147,1,3,Decent event.
+S0774,E062,1,1,The audio was really bad.
+S0948,E093,1,4,Best event of the year!
+S0757,E022,1,4,Great speakers and organization.
+S0595,E051,1,3,It was okay.
+S0118,E067,0,0,
+S0469,E135,0,0,
+S0478,E082,1,1,Waste of time.
+S0896,E003,1,1,Didn't learn anything.
+S0330,E074,1,4,Loved the vibe.
+S0667,E112,1,1,Didn't learn anything.
+S0199,E014,0,0,
+S0824,E096,0,0,
+S0053,E016,1,5,Loved the vibe.
+S0989,E063,1,3,"Nothing special, but not bad."
+S0597,E022,1,1,Terrible organization.
+S0257,E059,1,4,Super informative and fun.
+S0423,E044,1,1,Very boring.
+S0818,E141,1,5,Loved the vibe.
+S0100,E012,0,0,
+S0688,E104,0,0,
+S0328,E109,1,2,The audio was really bad.
+S0780,E117,1,4,Best event of the year!
+S0562,E001,1,4,Super informative and fun.
+S0673,E051,1,1,The audio was really bad.
+S0965,E068,1,2,Terrible organization.
+S0414,E009,1,2,Waste of time.
+S0056,E048,0,0,
+S0443,E086,1,1,The audio was really bad.
+S0938,E036,1,3,It was okay.
+S0099,E075,1,1,Very boring.
+S0419,E123,1,1,The audio was really bad.
+S0078,E066,1,5,Super informative and fun.
+S0146,E005,1,4,Loved the vibe.
+S0915,E064,1,5,Really enjoyed it.
+S0132,E035,1,3,It was okay.
+S0033,E082,1,5,Really enjoyed it.
+S0189,E046,1,3,Decent event.
+S0144,E008,1,5,The event was amazing!
+S0871,E020,1,2,The audio was really bad.
+S0548,E079,1,2,Didn't learn anything.
+S0104,E050,1,2,The audio was really bad.
+S0186,E133,1,1,Waste of time.
+S0163,E063,0,0,
+S0261,E086,1,3,Average experience.
+S0130,E056,1,2,Didn't learn anything.
+S0410,E077,1,5,Loved the vibe.
+S0439,E002,1,3,Could be better organized.
+S0525,E111,1,2,The audio was really bad.
+S0179,E014,0,0,
+S0974,E092,1,4,Loved the vibe.
+S0652,E122,1,3,Could be better organized.
+S0564,E093,1,5,Loved the vibe.
+S0851,E060,1,4,The event was amazing!
+S0343,E046,1,4,Great speakers and organization.
+S0834,E086,0,0,
+S0868,E017,1,4,Loved the vibe.
+S0984,E041,1,2,Didn't learn anything.
+S0063,E107,1,3,It was okay.
+S0273,E122,1,2,Waste of time.
+S0415,E149,1,2,The audio was really bad.
+S0900,E114,1,4,Loved the vibe.
+S0737,E082,1,3,"Nothing special, but not bad."
+S0575,E149,1,2,Didn't learn anything.
+S0565,E087,1,2,The audio was really bad.
+S0208,E100,1,5,Really enjoyed it.
+S0305,E027,1,4,The event was amazing!
+S0161,E118,1,2,Didn't learn anything.
+S0954,E058,1,3,"Nothing special, but not bad."
+S0963,E074,1,5,Great speakers and organization.
+S0513,E110,1,5,The event was amazing!
+S0423,E026,1,5,Really enjoyed it.
+S0304,E145,1,5,Best event of the year!
+S0243,E140,1,4,The event was amazing!
+S0363,E058,0,0,
+S0086,E026,1,5,Best event of the year!
+S0202,E119,1,1,Waste of time.
+S0024,E128,1,4,Really enjoyed it.
+S0389,E016,1,2,Terrible organization.
+S0966,E025,1,5,Super informative and fun.
+S0434,E124,0,0,
+S0926,E005,0,0,
+S0918,E036,1,3,Could be better organized.
+S0213,E031,1,1,The audio was really bad.
+S0408,E051,0,0,
+S0787,E077,1,4,Really enjoyed it.
+S0332,E072,1,5,Best event of the year!
+S0169,E100,1,3,Decent event.
+S0211,E049,0,0,
+S0112,E118,1,5,Super informative and fun.
+S0646,E077,1,2,Very boring.
+S0841,E147,1,5,Best event of the year!
+S0082,E029,1,4,Best event of the year!
+S0933,E099,1,5,Loved the vibe.
+S0091,E105,1,1,Very boring.
+S0699,E141,1,2,The audio was really bad.
+S0226,E029,1,1,Very boring.
+S0111,E044,1,5,The event was amazing!
+S0117,E103,1,5,Super informative and fun.
+S0279,E150,1,1,Waste of time.
+S0232,E060,1,3,"Nothing special, but not bad."
+S0488,E108,1,2,The audio was really bad.
+S0547,E026,1,1,Didn't learn anything.
+S0559,E068,1,1,Terrible organization.
+S0886,E112,1,5,Really enjoyed it.
+S0039,E019,1,5,The event was amazing!
+S0107,E103,1,3,Could be better organized.
+S0671,E022,1,1,The audio was really bad.
+S0672,E042,1,2,Didn't learn anything.
+S0576,E107,1,1,Very boring.
+S0938,E140,1,1,Didn't learn anything.
+S0617,E011,1,3,"Nothing special, but not bad."
+S0125,E052,1,5,Best event of the year!
+S0957,E085,1,5,Great speakers and organization.
+S0910,E040,1,2,The audio was really bad.
+S0203,E020,1,1,Very boring.
+S0580,E025,1,5,The event was amazing!
+S0211,E140,1,1,Terrible organization.
+S0332,E124,1,1,Very boring.
+S0119,E053,1,1,Didn't learn anything.
+S0699,E080,1,2,The audio was really bad.
+S0928,E119,1,2,Didn't learn anything.
+S0569,E023,1,1,Terrible organization.
+S0136,E137,1,3,Average experience.
+S0140,E125,1,5,Really enjoyed it.
+S0994,E112,1,5,Great speakers and organization.
+S0503,E098,1,4,Really enjoyed it.
+S0620,E019,1,5,The event was amazing!
+S0039,E128,1,5,The event was amazing!
+S0674,E098,1,5,Great speakers and organization.
+S0174,E064,1,1,The audio was really bad.
+S0291,E013,1,2,Terrible organization.
+S0943,E086,1,3,It was okay.
+S0421,E111,1,4,The event was amazing!
+S0417,E141,1,3,Average experience.
+S0172,E083,1,4,Best event of the year!
+S0320,E020,1,2,The audio was really bad.
+S0290,E125,1,4,Super informative and fun.
+S0556,E071,0,0,
+S0539,E092,1,4,Super informative and fun.
+S0290,E130,0,0,
+S0973,E057,1,1,The audio was really bad.
+S0109,E088,1,4,Great speakers and organization.
+S0962,E103,1,3,Average experience.
+S0797,E130,1,2,Waste of time.
+S0460,E023,1,2,Very boring.
+S0414,E035,1,4,Great speakers and organization.
+S0027,E067,1,1,Very boring.
+S0024,E011,1,3,Average experience.
+S0114,E057,1,4,Super informative and fun.
+S0664,E108,1,3,It was okay.
+S0807,E132,1,1,Terrible organization.
+S0004,E106,1,5,Super informative and fun.
+S0061,E070,1,4,Really enjoyed it.
+S0550,E037,1,4,Loved the vibe.
+S0173,E050,0,0,
+S0738,E029,1,3,"Nothing special, but not bad."
+S0144,E059,1,5,Really enjoyed it.
+S0186,E045,0,0,
+S0159,E073,1,5,Great speakers and organization.
+S0483,E084,1,5,Really enjoyed it.
+S0367,E077,1,1,The audio was really bad.
+S0095,E010,0,0,
+S0275,E116,0,0,
+S0822,E030,1,3,It was okay.
+S0722,E030,1,3,It was okay.
+S0846,E081,1,3,Decent event.
+S0950,E038,1,5,Super informative and fun.
+S0811,E112,1,1,The audio was really bad.
+S0980,E126,0,0,
+S0042,E119,0,0,
+S0247,E008,1,5,The event was amazing!
+S0872,E019,1,3,It was okay.
+S0637,E074,1,2,The audio was really bad.
+S0080,E086,1,5,The event was amazing!
+S0953,E068,1,4,Super informative and fun.
+S0420,E117,1,2,Didn't learn anything.
+S0038,E045,1,5,Best event of the year!
+S0569,E058,1,4,Really enjoyed it.
+S0775,E089,1,5,Best event of the year!
+S0728,E007,1,4,Super informative and fun.
+S0600,E030,1,1,Waste of time.
+S0844,E114,1,2,Very boring.
+S0611,E148,1,3,Average experience.
+S0566,E083,1,4,Great speakers and organization.
+S0607,E147,1,1,Didn't learn anything.
+S0778,E072,1,5,Best event of the year!
+S0001,E108,0,0,
+S0988,E111,0,0,
+S0653,E013,1,3,"Nothing special, but not bad."
+S0533,E140,1,1,Very boring.
+S0069,E013,1,3,Decent event.
+S0471,E062,1,4,Great speakers and organization.
+S0381,E114,1,1,Very boring.
+S0326,E037,1,4,The event was amazing!
+S0949,E058,1,5,The event was amazing!
+S0307,E142,1,2,The audio was really bad.
+S0226,E006,0,0,
+S0288,E050,1,4,Super informative and fun.
+S0629,E042,0,0,
+S0870,E102,1,3,Average experience.
+S0471,E128,1,3,It was okay.
+S0545,E073,1,2,Waste of time.
+S0923,E065,1,2,The audio was really bad.
+S0525,E002,1,3,It was okay.
+S0466,E033,1,1,The audio was really bad.
+S0351,E064,1,5,The event was amazing!
+S0336,E137,1,3,Decent event.
+S0289,E150,1,4,Really enjoyed it.
+S0855,E128,0,0,
+S0829,E097,1,2,The audio was really bad.
+S0169,E095,1,1,Waste of time.
+S0782,E055,1,2,Didn't learn anything.
+S0814,E087,0,0,
+S0299,E092,1,2,Terrible organization.
+S0330,E138,1,5,Loved the vibe.
+S0232,E012,1,1,Waste of time.
+S0620,E112,1,2,Didn't learn anything.
+S0615,E024,1,2,Terrible organization.
+S0498,E076,1,5,Really enjoyed it.
+S0850,E034,1,3,It was okay.
+S0418,E119,0,0,
+S0950,E046,1,3,"Nothing special, but not bad."
+S0605,E046,1,4,Super informative and fun.
+S0215,E122,1,4,Really enjoyed it.
+S0130,E091,1,2,Terrible organization.
+S0860,E060,0,0,
+S0161,E129,1,3,Could be better organized.
+S0799,E092,1,2,Waste of time.
+S0047,E108,1,5,The event was amazing!
+S0109,E148,1,2,Waste of time.
+S0383,E058,1,5,Loved the vibe.
+S0087,E016,1,1,Terrible organization.
+S0189,E149,1,4,The event was amazing!
+S0386,E038,1,3,Decent event.
+S0733,E072,1,1,Didn't learn anything.
+S0758,E095,1,5,Great speakers and organization.
+S0003,E116,0,0,
+S0637,E037,1,1,The audio was really bad.
+S0813,E089,1,2,Waste of time.
+S0085,E099,1,4,Super informative and fun.
+S0787,E020,1,3,Decent event.
+S0297,E113,1,2,Very boring.
+S0014,E031,0,0,
+S0303,E091,1,5,Best event of the year!
+S0935,E027,1,4,Loved the vibe.
+S0439,E108,1,3,It was okay.
+S0353,E046,1,4,The event was amazing!
+S0129,E007,0,0,
+S0164,E142,1,3,Decent event.
+S0561,E015,1,1,Didn't learn anything.
+S0062,E040,1,2,Terrible organization.
+S0692,E030,1,4,Best event of the year!
+S0561,E114,1,4,Best event of the year!
+S0846,E123,1,2,The audio was really bad.
+S0252,E035,1,2,Very boring.
+S0127,E139,1,5,Really enjoyed it.
+S0074,E036,1,5,Best event of the year!
+S0292,E132,1,4,Really enjoyed it.
+S0934,E128,1,1,The audio was really bad.
+S0867,E039,0,0,
+S0320,E050,1,1,Terrible organization.
+S0962,E063,1,3,"Nothing special, but not bad."
+S0584,E138,0,0,
+S0930,E039,1,1,Waste of time.
+S0147,E067,1,3,Could be better organized.
+S0675,E129,1,4,Super informative and fun.
+S0214,E033,1,5,Best event of the year!
+S0265,E027,1,5,Really enjoyed it.
+S0821,E128,1,3,Could be better organized.
+S0074,E088,1,5,Really enjoyed it.
+S0043,E025,1,3,It was okay.
+S0835,E100,1,2,Very boring.
+S0403,E075,1,4,Loved the vibe.
+S0887,E057,1,1,Waste of time.
+S0500,E047,1,3,Average experience.
+S0226,E064,1,3,Decent event.
+S0322,E099,0,0,
+S0481,E106,1,5,Loved the vibe.
+S0524,E076,0,0,
+S0437,E041,1,3,Could be better organized.
+S0295,E095,1,1,The audio was really bad.
+S0417,E036,1,1,Very boring.
+S0593,E034,0,0,
+S0429,E084,1,5,Great speakers and organization.
+S0880,E029,1,1,Very boring.
+S0785,E033,1,4,Best event of the year!
+S0505,E046,0,0,
+S0968,E060,1,1,Didn't learn anything.
+S0452,E150,1,3,Average experience.
+S0888,E036,1,2,Didn't learn anything.
+S0113,E078,1,3,It was okay.
+S0191,E038,1,3,Decent event.
+S0473,E141,1,3,Average experience.
+S0996,E127,0,0,
+S0475,E036,1,1,Didn't learn anything.
+S0299,E014,1,1,Waste of time.
+S0236,E136,1,1,The audio was really bad.
+S0464,E143,1,2,Waste of time.
+S0456,E040,1,5,Best event of the year!
+S0721,E070,1,1,Very boring.
+S0500,E103,1,1,Very boring.
+S0202,E105,1,2,Didn't learn anything.
+S0437,E052,1,1,Terrible organization.
+S0142,E039,1,1,Didn't learn anything.
+S0300,E129,1,2,Very boring.
+S0837,E065,0,0,
+S0209,E053,1,4,Loved the vibe.
+S0692,E148,1,1,Didn't learn anything.
+S0171,E139,0,0,
+S0416,E128,1,2,Very boring.
+S0009,E086,1,5,Great speakers and organization.
+S0913,E112,0,0,
+S0137,E007,0,0,
+S0380,E108,1,5,Best event of the year!
+S0854,E014,1,2,Waste of time.
+S0268,E095,1,5,Really enjoyed it.
+S0384,E013,1,1,Terrible organization.
+S0921,E085,1,4,The event was amazing!
+S0487,E089,0,0,
+S0733,E016,0,0,
+S0899,E013,1,5,Best event of the year!
+S0522,E148,1,3,Average experience.
+S0654,E018,1,3,It was okay.
+S0279,E062,1,3,Decent event.
+S0395,E131,1,1,Waste of time.
+S0854,E085,1,5,Best event of the year!
+S0671,E027,1,5,Best event of the year!
+S0223,E123,1,4,Great speakers and organization.
+S0361,E130,1,2,Terrible organization.
+S0640,E004,1,4,Super informative and fun.
+S0954,E082,1,3,Decent event.
+S0113,E125,1,5,Great speakers and organization.
+S0037,E024,0,0,
+S0039,E040,1,1,Very boring.
+S0711,E144,1,4,Best event of the year!
+S0106,E112,1,1,The audio was really bad.
+S0529,E100,1,5,Loved the vibe.
+S0116,E022,0,0,
+S0585,E121,1,4,Great speakers and organization.
+S0594,E134,1,2,Waste of time.
+S0424,E017,1,1,The audio was really bad.
+S0886,E008,1,5,Really enjoyed it.
+S0384,E049,1,3,Could be better organized.
+S0069,E090,1,3,Decent event.
+S0723,E039,0,0,
+S0379,E064,1,2,Waste of time.
+S0593,E131,1,3,"Nothing special, but not bad."
+S0398,E103,1,1,Very boring.
+S0928,E124,1,5,The event was amazing!
+S0069,E085,0,0,
+S0834,E069,1,4,Super informative and fun.
+S0497,E054,1,2,Terrible organization.
+S0156,E132,1,2,Waste of time.
+S0923,E119,1,4,Loved the vibe.
+S0441,E144,1,3,Average experience.
+S0072,E095,1,2,The audio was really bad.
+S0129,E133,1,3,Decent event.
+S0110,E062,1,5,Loved the vibe.
+S0964,E002,0,0,
+S0939,E145,1,2,Terrible organization.
+S0655,E117,1,5,Best event of the year!
+S0865,E043,1,4,Loved the vibe.
+S0467,E030,1,5,Great speakers and organization.
+S0144,E082,1,4,Best event of the year!
+S0517,E100,1,1,Didn't learn anything.
+S0063,E003,1,1,Waste of time.
+S0075,E013,1,3,"Nothing special, but not bad."
+S0199,E076,1,4,Really enjoyed it.
+S0910,E014,1,4,Best event of the year!
+S0679,E115,1,1,Didn't learn anything.
+S0855,E110,1,5,Super informative and fun.
+S0647,E122,1,4,Great speakers and organization.
+S0727,E112,1,4,Loved the vibe.
+S0789,E117,1,3,It was okay.
+S0622,E097,0,0,
+S0876,E061,1,3,Average experience.
+S0017,E005,0,0,
+S0731,E094,1,2,The audio was really bad.
+S0968,E036,1,3,"Nothing special, but not bad."
+S0800,E118,0,0,
+S0206,E047,1,1,Didn't learn anything.
+S0078,E067,1,5,Best event of the year!
+S0014,E118,1,3,Average experience.
+S0490,E063,1,1,Terrible organization.
+S0343,E127,0,0,
+S0118,E022,1,1,Terrible organization.
+S0045,E018,1,2,Very boring.
+S0010,E008,0,0,
+S0034,E035,1,3,Could be better organized.
+S0586,E054,1,4,Great speakers and organization.
+S0613,E117,0,0,
+S0941,E053,1,3,Average experience.
+S0520,E129,1,3,Decent event.
+S0916,E023,0,0,
+S0291,E147,1,4,Super informative and fun.
+S0094,E065,1,2,Didn't learn anything.
+S0947,E106,1,3,"Nothing special, but not bad."
+S0832,E040,1,2,Terrible organization.
+S0710,E036,1,4,Great speakers and organization.
+S0150,E133,1,3,Decent event.
+S0552,E086,1,5,Really enjoyed it.
+S0738,E128,1,3,It was okay.
+S0041,E009,1,1,Didn't learn anything.
+S0401,E013,1,3,Decent event.
+S0809,E005,1,1,Didn't learn anything.
+S0025,E144,1,3,"Nothing special, but not bad."
+S0844,E037,1,1,Very boring.
+S0978,E052,1,2,Waste of time.
+S0328,E108,1,4,Super informative and fun.
+S0730,E052,1,1,Terrible organization.
+S0059,E010,0,0,
+S0054,E135,0,0,
+S0603,E061,1,5,Loved the vibe.
+S0534,E030,1,3,Could be better organized.
+S0991,E012,1,5,Best event of the year!
+S0972,E060,1,3,It was okay.
+S0344,E140,0,0,
+S0775,E047,0,0,
+S0700,E013,0,0,
+S0758,E059,1,3,"Nothing special, but not bad."
+S0649,E114,1,4,The event was amazing!
+S0249,E107,1,2,Didn't learn anything.
+S0939,E007,0,0,
+S0808,E022,1,2,Very boring.
+S0533,E018,1,5,Great speakers and organization.
+S0799,E118,1,4,The event was amazing!
+S0893,E089,1,1,Terrible organization.
+S0038,E090,0,0,
+S0970,E055,1,1,Didn't learn anything.
+S0444,E128,1,5,Loved the vibe.
+S0634,E129,1,2,Terrible organization.
+S0572,E150,1,3,"Nothing special, but not bad."
+S0684,E109,0,0,
+S0239,E122,1,3,It was okay.
+S0776,E027,1,4,Loved the vibe.
+S0491,E026,0,0,
+S0508,E123,1,2,Didn't learn anything.
+S0556,E056,1,2,Very boring.
+S0558,E135,1,1,Terrible organization.
+S0747,E102,1,4,Loved the vibe.
+S0177,E041,1,4,Loved the vibe.
+S0446,E114,0,0,
+S0851,E132,1,5,Best event of the year!
+S0705,E050,1,4,The event was amazing!
+S0973,E102,1,2,Waste of time.
+S0564,E138,0,0,
+S0001,E119,1,5,Super informative and fun.
+S0248,E082,0,0,
+S0549,E028,1,3,Average experience.
+S0638,E123,1,4,Really enjoyed it.
+S0445,E083,0,0,
+S0857,E127,1,3,It was okay.
+S0563,E049,0,0,
+S0379,E137,1,3,It was okay.
+S0947,E019,1,1,Very boring.
+S0112,E100,1,4,Super informative and fun.
+S0597,E049,0,0,
+S0072,E036,0,0,
+S0981,E091,1,3,It was okay.
+S0548,E137,1,1,Terrible organization.
+S0862,E079,0,0,
+S0439,E011,1,3,It was okay.
+S0005,E048,1,3,Could be better organized.
+S0721,E047,0,0,
+S0971,E115,0,0,
+S0856,E126,1,4,The event was amazing!
+S0642,E060,1,2,Didn't learn anything.
+S0201,E005,1,1,Waste of time.
+S0349,E004,1,5,Loved the vibe.
+S0856,E010,1,3,"Nothing special, but not bad."
+S0586,E006,1,5,Great speakers and organization.
+S0153,E047,1,2,Waste of time.
+S0418,E054,1,5,The event was amazing!
+S0908,E011,1,4,Best event of the year!
+S0201,E006,1,3,"Nothing special, but not bad."
+S0927,E099,1,2,The audio was really bad.
+S0719,E147,1,3,"Nothing special, but not bad."
+S0481,E074,1,3,Decent event.
+S0906,E024,1,3,Decent event.
+S0969,E095,1,4,Great speakers and organization.
+S0051,E098,0,0,
+S0925,E127,1,3,Average experience.
+S0260,E096,1,3,Average experience.
+S0742,E017,1,4,Best event of the year!
+S0440,E141,0,0,
+S0679,E108,1,5,Really enjoyed it.
+S0683,E069,0,0,
+S0204,E076,0,0,
+S0760,E059,1,5,Loved the vibe.
+S0646,E041,1,4,Really enjoyed it.
+S0850,E077,0,0,
+S0321,E062,1,1,Very boring.
+S0538,E121,1,5,Super informative and fun.
+S0298,E063,1,4,Super informative and fun.
+S0575,E056,1,3,"Nothing special, but not bad."
+S0893,E111,0,0,
+S0708,E087,0,0,
+S0033,E092,1,3,Average experience.
+S0819,E016,1,1,Didn't learn anything.
+S0180,E137,1,4,Loved the vibe.
+S0170,E003,1,4,Really enjoyed it.
+S0288,E045,0,0,
+S0777,E051,0,0,
+S0047,E120,1,2,Very boring.
+S0929,E037,0,0,
+S0323,E070,1,1,Waste of time.
+S0576,E008,1,4,Really enjoyed it.
+S0344,E144,1,1,The audio was really bad.
+S0040,E034,1,3,Average experience.
+S0024,E048,0,0,
+S0097,E080,1,3,"Nothing special, but not bad."
+S0906,E017,1,4,Super informative and fun.
+S0272,E060,1,4,Super informative and fun.
+S0880,E085,1,1,Terrible organization.
+S0245,E091,0,0,
+S0030,E071,1,4,Great speakers and organization.
+S0190,E118,1,2,Didn't learn anything.
+S0445,E098,1,3,It was okay.
+S0709,E014,0,0,
+S0373,E127,1,5,Really enjoyed it.
+S0568,E090,1,3,Average experience.
+S0978,E021,1,4,The event was amazing!
+S0818,E021,0,0,
+S0238,E083,1,1,Very boring.
+S0682,E078,1,3,Average experience.
+S0774,E057,1,1,Very boring.
+S0139,E122,1,5,The event was amazing!
+S0426,E117,1,2,Very boring.
+S0257,E099,1,2,Terrible organization.
+S0684,E082,1,3,Decent event.
+S0737,E043,1,3,It was okay.
+S0178,E109,1,5,Great speakers and organization.
+S0539,E031,0,0,
+S1000,E114,1,2,Terrible organization.
+S0604,E016,1,5,Really enjoyed it.
+S0086,E111,1,1,Waste of time.
+S0946,E087,1,4,Best event of the year!
+S0506,E016,1,3,It was okay.
+S0730,E085,0,0,
+S0842,E139,1,2,Very boring.
+S0452,E059,1,2,Waste of time.
+S0288,E059,0,0,
+S0942,E143,0,0,
+S0981,E010,1,5,Great speakers and organization.
+S0871,E024,1,2,Terrible organization.
+S0149,E095,0,0,
+S0836,E063,1,3,Average experience.
+S0048,E038,0,0,
+S0180,E061,1,2,The audio was really bad.
+S0136,E121,1,3,Decent event.
+S0388,E120,1,5,Super informative and fun.
+S0066,E029,1,3,Could be better organized.
+S0025,E074,1,2,Terrible organization.
+S0534,E052,1,2,Very boring.
+S0905,E096,1,1,Terrible organization.
+S0703,E041,0,0,
+S0496,E124,1,1,The audio was really bad.
+S0017,E105,1,5,The event was amazing!
+S0972,E120,0,0,
+S0130,E100,1,1,Very boring.
+S0219,E042,0,0,
+S0115,E110,1,5,The event was amazing!
+S0762,E014,0,0,
+S0501,E059,0,0,
+S0160,E041,1,5,Super informative and fun.
+S0253,E102,0,0,
+S0922,E020,1,4,Really enjoyed it.
+S0696,E118,1,4,The event was amazing!
+S0792,E007,1,2,Didn't learn anything.
+S0527,E116,1,1,Very boring.
+S0659,E075,1,5,Best event of the year!
+S0634,E021,1,2,Terrible organization.
+S0261,E071,1,1,Terrible organization.
+S0829,E046,1,2,Very boring.
+S0761,E134,1,5,Loved the vibe.
+S0569,E009,1,3,Average experience.
+S0902,E015,1,5,Great speakers and organization.
+S0516,E103,1,4,The event was amazing!
+S0244,E013,1,1,Didn't learn anything.
+S0800,E053,1,4,Best event of the year!
+S0707,E118,1,3,It was okay.
+S0550,E038,1,4,Super informative and fun.
+S0518,E025,1,1,Waste of time.
+S0851,E141,1,4,Really enjoyed it.
+S0074,E013,1,1,Waste of time.
+S0251,E072,1,1,Terrible organization.
+S0559,E080,1,2,Terrible organization.
+S0101,E061,0,0,
+S0674,E141,1,3,"Nothing special, but not bad."
+S0178,E009,0,0,
+S0758,E051,1,4,Super informative and fun.
+S0125,E106,1,4,The event was amazing!
+S0244,E138,0,0,
+S0693,E023,1,2,Very boring.
+S0615,E004,1,5,Super informative and fun.
+S0724,E079,1,4,Loved the vibe.
+S0189,E012,1,1,The audio was really bad.
+S0133,E021,1,1,Terrible organization.
+S0990,E122,1,4,The event was amazing!
+S0445,E062,1,5,Great speakers and organization.
+S0893,E008,0,0,
+S0859,E083,1,2,Waste of time.
+S0470,E002,0,0,
+S0381,E021,1,5,The event was amazing!
+S0638,E068,1,3,Average experience.
+S0958,E094,1,5,Loved the vibe.
+S0146,E102,1,3,Decent event.
+S0843,E030,0,0,
+S0191,E117,1,4,The event was amazing!
+S0242,E113,1,1,Didn't learn anything.
+S0513,E107,1,4,Really enjoyed it.
+S0599,E091,1,1,Waste of time.
+S0760,E103,1,4,Super informative and fun.
+S0225,E007,1,3,Decent event.
+S0213,E118,1,2,Didn't learn anything.
+S0867,E135,1,3,It was okay.
+S0170,E036,1,3,Decent event.
+S0985,E018,1,3,Decent event.
+S0908,E098,1,4,Loved the vibe.
+S0210,E056,1,3,It was okay.
+S0074,E118,1,1,The audio was really bad.
+S0179,E027,1,2,The audio was really bad.
+S0116,E102,0,0,
+S0755,E108,1,4,Great speakers and organization.
+S0491,E007,1,4,Great speakers and organization.
+S0387,E138,0,0,
+S0397,E131,1,1,Waste of time.
+S0387,E142,0,0,
+S0799,E060,1,1,The audio was really bad.
+S0555,E057,1,5,Best event of the year!
+S0234,E103,1,1,The audio was really bad.
+S0591,E047,1,5,The event was amazing!
+S0678,E043,1,1,Very boring.
+S0338,E058,1,1,Terrible organization.
+S0930,E068,1,4,Best event of the year!
+S0960,E038,0,0,
+S0097,E021,0,0,
+S0463,E044,1,5,Really enjoyed it.
+S0288,E123,1,5,Really enjoyed it.
+S0021,E023,0,0,
+S0117,E115,0,0,
+S0792,E103,1,4,Great speakers and organization.
+S0694,E115,0,0,
+S0628,E134,1,5,Loved the vibe.
+S0916,E073,0,0,
+S0630,E115,0,0,
+S0615,E015,1,2,Waste of time.
+S0110,E126,1,1,The audio was really bad.
+S0560,E105,1,4,Great speakers and organization.
+S0530,E025,0,0,
+S0635,E137,1,1,Very boring.
+S0079,E127,1,3,Decent event.
+S0883,E063,1,4,Really enjoyed it.
+S0849,E025,1,5,Loved the vibe.
+S0979,E094,1,4,Really enjoyed it.
+S0763,E107,1,4,Super informative and fun.
+S0313,E106,1,4,Super informative and fun.
+S0520,E019,1,5,Really enjoyed it.
+S0539,E149,0,0,
+S0055,E101,0,0,
+S0971,E043,1,1,Waste of time.
+S0659,E004,1,1,Very boring.
+S0506,E090,1,2,Terrible organization.
+S0399,E057,1,4,The event was amazing!
+S0822,E062,1,4,Super informative and fun.
+S0882,E135,1,3,Could be better organized.
+S0038,E012,1,5,The event was amazing!
+S0249,E122,1,5,Great speakers and organization.
+S0768,E076,1,5,Great speakers and organization.
+S0516,E058,1,4,Really enjoyed it.
+S0697,E141,1,2,Very boring.
+S0872,E072,1,5,Best event of the year!
+S0158,E038,1,3,It was okay.
+S0449,E070,1,5,Best event of the year!
+S0758,E048,1,5,The event was amazing!
+S0645,E066,1,4,Really enjoyed it.
+S0927,E028,1,2,Very boring.
+S0831,E010,1,5,Loved the vibe.
+S0239,E147,0,0,
+S0268,E092,1,1,Waste of time.
+S0741,E143,1,3,"Nothing special, but not bad."
+S0097,E081,1,2,Terrible organization.
+S0618,E063,1,4,Super informative and fun.
+S0410,E134,1,5,The event was amazing!
+S0667,E110,1,3,Could be better organized.
+S0552,E119,1,3,It was okay.
+S0576,E046,1,4,Loved the vibe.
+S0652,E049,1,1,Very boring.
+S0411,E131,1,1,Waste of time.
+S0221,E121,1,4,Loved the vibe.
+S0030,E123,1,1,Very boring.
+S0673,E058,1,1,Waste of time.
+S0313,E034,1,2,The audio was really bad.
+S0097,E135,1,1,Very boring.
+S0690,E063,1,2,Very boring.
+S0321,E079,1,1,Didn't learn anything.
+S0298,E069,1,3,Could be better organized.
+S0894,E070,1,1,Waste of time.
+S0710,E072,1,3,It was okay.
+S0715,E079,1,4,Great speakers and organization.
+S0719,E024,1,5,Loved the vibe.
+S0674,E017,1,4,Great speakers and organization.
+S0009,E148,1,1,The audio was really bad.
+S0507,E090,1,5,Super informative and fun.
+S0635,E017,1,4,The event was amazing!
+S0851,E035,1,3,It was okay.
+S0701,E015,0,0,
+S0932,E046,1,1,Terrible organization.
+S0028,E052,1,4,Great speakers and organization.
+S0632,E069,1,5,Super informative and fun.
+S0180,E010,1,2,Very boring.
+S0392,E098,1,5,Best event of the year!
+S0960,E109,0,0,
+S0178,E043,0,0,
+S0356,E060,1,5,Loved the vibe.
+S0096,E146,1,1,Terrible organization.
+S0641,E139,1,5,Best event of the year!
+S0017,E060,1,2,The audio was really bad.
+S0670,E039,1,1,Very boring.
+S0435,E046,0,0,
+S0763,E049,1,4,Really enjoyed it.
+S0207,E077,0,0,
+S0552,E059,1,3,"Nothing special, but not bad."
+S0484,E095,1,5,Loved the vibe.
+S0447,E066,1,5,Loved the vibe.
+S0795,E093,1,2,The audio was really bad.
+S0256,E144,1,4,Super informative and fun.
+S0968,E035,0,0,
+S0338,E088,1,4,Great speakers and organization.
+S0210,E088,1,5,Great speakers and organization.
+S0168,E144,0,0,
+S0827,E096,0,0,
+S0279,E123,1,2,Didn't learn anything.
+S0438,E109,1,3,"Nothing special, but not bad."
+S0331,E025,1,4,Great speakers and organization.
+S0046,E067,1,1,Didn't learn anything.
+S0536,E052,1,1,Didn't learn anything.
+S0818,E088,1,2,Didn't learn anything.
+S0521,E117,1,3,Average experience.
+S0758,E103,1,5,Loved the vibe.
+S0441,E116,0,0,
+S0552,E149,1,4,The event was amazing!
+S0419,E028,1,1,Very boring.
+S0599,E014,1,3,Could be better organized.
+S0451,E022,1,1,Waste of time.
+S0818,E135,1,4,The event was amazing!
+S0345,E101,1,3,Decent event.
+S0443,E084,1,3,It was okay.
+S0556,E130,1,1,Terrible organization.
+S0394,E126,1,3,Could be better organized.
+S0909,E047,1,3,"Nothing special, but not bad."
+S0993,E095,0,0,
+S0909,E112,0,0,
+S0530,E084,1,3,Average experience.
+S0778,E005,1,4,Loved the vibe.
+S0878,E148,1,4,Great speakers and organization.
+S0319,E012,1,3,"Nothing special, but not bad."
+S0815,E144,1,1,Very boring.
+S0852,E138,0,0,
+S0172,E085,1,1,The audio was really bad.
+S0982,E009,1,3,It was okay.
+S0883,E062,0,0,
+S0332,E126,1,2,Very boring.
+S0896,E078,0,0,
+S0809,E019,1,2,Didn't learn anything.
+S0663,E074,0,0,
+S0881,E144,1,4,Really enjoyed it.
+S0331,E132,1,2,Terrible organization.
+S0738,E022,1,1,Waste of time.
+S0450,E141,0,0,
+S0387,E086,1,5,Best event of the year!
+S0214,E001,1,5,Great speakers and organization.
+S0151,E126,1,3,Could be better organized.
+S0386,E122,1,2,Very boring.
+S0336,E107,1,1,Waste of time.
+S0766,E109,1,3,Average experience.
+S0697,E073,1,5,Great speakers and organization.
+S0413,E131,0,0,
+S0387,E063,1,1,Didn't learn anything.
+S0074,E039,1,2,The audio was really bad.
+S0091,E123,1,4,Really enjoyed it.
+S0859,E032,1,3,Average experience.
+S0888,E092,1,4,Loved the vibe.
+S0178,E106,1,4,Really enjoyed it.
+S0966,E101,1,5,Great speakers and organization.
+S0714,E011,0,0,
+S0629,E142,0,0,
+S0501,E127,1,4,Great speakers and organization.
+S0628,E070,1,2,The audio was really bad.
+S0860,E129,1,2,Didn't learn anything.
+S0363,E049,1,4,Great speakers and organization.
+S0900,E008,1,4,Loved the vibe.
+S0477,E108,0,0,
+S0487,E073,1,3,"Nothing special, but not bad."
+S0024,E123,1,4,Great speakers and organization.
+S0083,E079,0,0,
+S0456,E090,1,3,It was okay.
+S0078,E082,1,2,Waste of time.
+S0061,E015,1,1,Didn't learn anything.
+S0757,E009,1,3,Decent event.
+S0366,E130,1,2,The audio was really bad.
+S0740,E068,1,2,Didn't learn anything.
+S0982,E086,1,3,"Nothing special, but not bad."
+S0351,E047,1,2,Very boring.
+S0441,E009,1,1,The audio was really bad.
+S0478,E008,0,0,
+S0755,E021,1,1,Waste of time.
+S0835,E079,0,0,
+S0772,E093,1,1,Terrible organization.
+S0615,E129,0,0,
+S0606,E103,1,1,Terrible organization.
+S0561,E027,1,5,Really enjoyed it.
+S0767,E115,1,4,Loved the vibe.
+S0079,E080,1,4,Loved the vibe.
+S0436,E024,0,0,
+S0659,E105,0,0,
+S0499,E001,1,4,Best event of the year!
+S0598,E106,1,4,Super informative and fun.
+S0907,E038,0,0,
+S0017,E096,1,3,Decent event.
+S0352,E096,1,5,Best event of the year!
+S0634,E018,1,2,Waste of time.
+S0709,E060,1,2,Didn't learn anything.
+S0722,E048,1,4,Great speakers and organization.
+S0876,E005,1,3,Decent event.
+S0697,E062,0,0,
+S0548,E109,1,2,Terrible organization.
+S0260,E015,1,1,Waste of time.
+S0897,E023,0,0,
+S0398,E097,1,3,Decent event.
+S0889,E063,1,5,Super informative and fun.
+S0859,E024,1,4,Best event of the year!
+S0759,E129,1,2,The audio was really bad.
+S0467,E077,1,2,Terrible organization.
+S0193,E084,0,0,
+S0269,E073,1,1,Waste of time.
+S0939,E058,0,0,
+S0493,E058,1,1,Didn't learn anything.
+S0938,E105,1,3,Decent event.
+S0491,E078,1,2,Terrible organization.
+S0993,E053,1,1,Didn't learn anything.
